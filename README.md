@@ -1,4 +1,4 @@
-### Hi there, I'm Marcus Fihlon - aka McPringle 👋
+### Hi there, I'm Marcus – aka McPringle 👋
 
 - 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
