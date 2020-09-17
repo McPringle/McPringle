@@ -52,11 +52,6 @@
 - [Deutschlandfahrt 2020 Tag 16 von Grumby nach Osterrönfeld](https://www.youtube.com/watch?v=u9OyWnEaZE8)
 - [Deutschlandfahrt 2020 Tag 15 von Schleswig nach Grumby, kurz und schmerzlos…](https://www.youtube.com/watch?v=7JhdH2SgqoQ)
 - [Deutschlandfahrt 2020 Tag 14 von Hohenwestedt nach Schleswig und DER NÄCHSTE SCHADEN!](https://www.youtube.com/watch?v=Ld-FcvrHs9I)
-- [Deutschlandfahrt 2020 Tag 13 von Hamburg nach Hohenwestedt: Es geht endlich weiter!](https://www.youtube.com/watch?v=tM6tcSbjv_Y)
-- [Deutschlandfahrt 2020 Tag 5 von Dörzbach nach Seinsheim UND DANN PASSIERT ES!](https://www.youtube.com/watch?v=iVD8_h7P_hk)
-- [Deutschlandfahrt 2020 Tag 4 von Stuttgart nach Dörzbach](https://www.youtube.com/watch?v=UtDSmkUbcbw)
-- [Deutschlandfahrt 2020 Tag 3 von Rottweil nach Stuttgart](https://www.youtube.com/watch?v=VBOjBTA7-S8)
-- [Deutschlandfahrt 2020 Tag 2 von Waldshut nach Rottweil](https://www.youtube.com/watch?v=-OeIa3PR3Fk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
