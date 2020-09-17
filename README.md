@@ -59,6 +59,11 @@
 
 ---
 
+### :zap: GitHub Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
 
 ![My Top Languages](https://github-readme-stats.mcpringle.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
