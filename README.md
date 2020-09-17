@@ -18,8 +18,8 @@
 [<img align="left" alt="my Twitter account" title="my Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="my LinkedIn profile" title="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="my GitHub profile" title="my GitHub profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="my Strava account" title="my Strava account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />][strava]
-[<img align="left" alt="my Komoot account" title="my Komoot account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
+[<img align="left" alt="my Strava profile" title="my Strava profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />][strava]
+[<img align="left" alt="my Komoot profile" title="my Komoot profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
 [<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][blog]
 [<img align="left" alt="my cycling videos" title="my cycling videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
