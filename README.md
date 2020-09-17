@@ -61,6 +61,12 @@
 
 ➡️ [more videos...][youtube]
 
+---
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
+
 [website]: https://fihlon.swiss/
 [twitter]: https://twitter.com/McPringle
 [linkedin]: https://www.linkedin.com/in/fihlon/
