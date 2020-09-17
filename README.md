@@ -32,6 +32,15 @@
 
 ➡️ [more blog posts...][blog]
 
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...][youtube]
+
 [website]: https://fihlon.swiss/
 [twitter]: https://twitter.com/McPringle
 [linkedin]: https://www.linkedin.com/in/fihlon/
