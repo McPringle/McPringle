@@ -33,11 +33,6 @@
 - [Bodensee Radmarathon 2020 abgesagt](https://fatmancycling.tours/de/2020/08/08/Bodensee-Radmarathon-2020-abgesagt/)
 - [Lake Constance Cycling Marathon 2020 Cancelled](https://fatmancycling.tours/en/2020/08/08/Lake-Constance-Cycling-Marathon-2020-cancelled/)
 - [Deutschlandfahrt 2020](https://fatmancycling.tours/de/2020/06/25/Deutschlandfahrt-2020/)
-- [Bikepacking Germany 2020](https://fatmancycling.tours/en/2020/06/25/Bikepacking-Germany-2020/)
-- [Bodensee Radmarathon 2020](https://fatmancycling.tours/de/2020/02/16/Bodensee-Radmarathon-2020/)
-- [Lake Constance Cycling Marathon 2020](https://fatmancycling.tours/en/2020/02/16/Lake-Constance-Cycling-Marathon-2020/)
-- [Alles hat ein Ende](https://fatmancycling.tours/de/2019/11/03/Alles-hat-ein-Ende/)
-- [Everything comes to an end](https://fatmancycling.tours/en/2019/11/03/Everything-comes-to-an-end/)
 <!-- FATMANCYCLING:END -->
 
 ➡️ [more blog posts...][blog]
