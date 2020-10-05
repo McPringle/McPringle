@@ -71,7 +71,9 @@
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
 
+<!-- Disabled, because there is something wrong with the calculation (87% JavaScript and only 2% Java can't be correct)!
 ![My Top Languages](https://github-readme-stats.mcpringle.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
+-->
 
 [website]: https://fihlon.swiss/
 [twitter]: https://twitter.com/McPringle
