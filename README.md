@@ -62,11 +62,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Coding/emoji-java/pull/1) in [Coding/emoji-java](https://github.com/Coding/emoji-java)
-2. 🗣 Commented on [#211](https://github.com/zdila/gpx-animator/issues/211) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. ❗️ Opened issue [#217](https://github.com/zdila/gpx-animator/issues/217) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#73](https://github.com/zdila/gpx-animator/issues/73) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Closed issue [#73](https://github.com/zdila/gpx-animator/issues/73) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 💪 Opened PR [#163](https://github.com/vdurmont/emoji-java/pull/163) in [vdurmont/emoji-java](https://github.com/vdurmont/emoji-java)
+2. 💪 Opened PR [#2](https://github.com/Coding/emoji-java/pull/2) in [Coding/emoji-java](https://github.com/Coding/emoji-java)
+3. 💪 Opened PR [#1](https://github.com/Coding/emoji-java/pull/1) in [Coding/emoji-java](https://github.com/Coding/emoji-java)
+4. 🗣 Commented on [#211](https://github.com/zdila/gpx-animator/issues/211) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. ❗️ Opened issue [#217](https://github.com/zdila/gpx-animator/issues/217) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
