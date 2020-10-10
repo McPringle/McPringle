@@ -27,8 +27,8 @@
 
 ### Become a sponsor:
 
-[<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Patreon" title="Patrean" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />][strava]
+[<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sponsors/McPringle)
+[<img align="left" alt="Patreon" title="Patrean" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />](https://www.patreon.com/mcpringle)
 
 <br />
 
