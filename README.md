@@ -69,11 +69,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#194](https://github.com/zdila/gpx-animator/issues/194) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🗣 Commented on [#8](https://github.com/amaembo/screenshoter/issues/8) in [amaembo/screenshoter](https://github.com/amaembo/screenshoter)
 2. 🗣 Commented on [#194](https://github.com/zdila/gpx-animator/issues/194) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 💪 Opened PR [#316](https://github.com/hackergarten/hackergarten.github.io/pull/316) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#315](https://github.com/hackergarten/hackergarten.github.io/pull/315) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❗️ Opened issue [#225](https://github.com/zdila/gpx-animator/issues/225) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#194](https://github.com/zdila/gpx-animator/issues/194) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 💪 Opened PR [#316](https://github.com/hackergarten/hackergarten.github.io/pull/316) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 💪 Opened PR [#315](https://github.com/hackergarten/hackergarten.github.io/pull/315) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
