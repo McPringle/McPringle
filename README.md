@@ -69,10 +69,10 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/zdila/gpx-animator/issues/61) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🗣 Commented on [#244](https://github.com/zdila/gpx-animator/issues/244) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. ❗️ Closed issue [#242](https://github.com/zdila/gpx-animator/issues/242) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#242](https://github.com/zdila/gpx-animator/issues/242) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 💪 Opened PR [#16](https://github.com/dukecon/dukecon_webhome/pull/16) in [dukecon/dukecon_webhome](https://github.com/dukecon/dukecon_webhome)
+2. 🗣 Commented on [#61](https://github.com/zdila/gpx-animator/issues/61) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#244](https://github.com/zdila/gpx-animator/issues/244) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. ❗️ Closed issue [#242](https://github.com/zdila/gpx-animator/issues/242) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 5. 🗣 Commented on [#242](https://github.com/zdila/gpx-animator/issues/242) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
