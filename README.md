@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/)
+- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/) and [Pensum](https://github.com/pensum/pensum)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
 - 📫 How to reach me: In the [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
 - 🥅 2020 Goals: Writing a book about [Kotlin](https://kotlinlang.org/)
