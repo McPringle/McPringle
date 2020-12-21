@@ -69,11 +69,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/pensum/pensum/issues/3) in [pensum/pensum](https://github.com/pensum/pensum)
-2. ❗️ Opened issue [#2](https://github.com/pensum/pensum/issues/2) in [pensum/pensum](https://github.com/pensum/pensum)
-3. ❗️ Opened issue [#1](https://github.com/pensum/pensum/issues/1) in [pensum/pensum](https://github.com/pensum/pensum)
-4. ❗️ Opened issue [#17](https://github.com/dukecon/dukecon_webhome/issues/17) in [dukecon/dukecon_webhome](https://github.com/dukecon/dukecon_webhome)
-5. ❗️ Opened issue [#247](https://github.com/zdila/gpx-animator/issues/247) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Closed issue [#1](https://github.com/pensum/pensum/issues/1) in [pensum/pensum](https://github.com/pensum/pensum)
+2. ❗️ Opened issue [#3](https://github.com/pensum/pensum/issues/3) in [pensum/pensum](https://github.com/pensum/pensum)
+3. ❗️ Opened issue [#2](https://github.com/pensum/pensum/issues/2) in [pensum/pensum](https://github.com/pensum/pensum)
+4. ❗️ Opened issue [#1](https://github.com/pensum/pensum/issues/1) in [pensum/pensum](https://github.com/pensum/pensum)
+5. ❗️ Opened issue [#17](https://github.com/dukecon/dukecon_webhome/issues/17) in [dukecon/dukecon_webhome](https://github.com/dukecon/dukecon_webhome)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
