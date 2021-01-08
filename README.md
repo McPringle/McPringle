@@ -70,10 +70,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#287](https://github.com/zdila/gpx-animator/issues/287) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🗣 Commented on [#145](https://github.com/zdila/gpx-animator/issues/145) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#287](https://github.com/zdila/gpx-animator/issues/287) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 3. 🗣 Commented on [#145](https://github.com/zdila/gpx-animator/issues/145) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. ❗️ Opened issue [#287](https://github.com/zdila/gpx-animator/issues/287) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Closed issue [#253](https://github.com/zdila/gpx-animator/issues/253) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#145](https://github.com/zdila/gpx-animator/issues/145) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. ❗️ Opened issue [#287](https://github.com/zdila/gpx-animator/issues/287) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
