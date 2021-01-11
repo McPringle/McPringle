@@ -69,11 +69,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#293](https://github.com/zdila/gpx-animator/issues/293) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🗣 Commented on [#296](https://github.com/zdila/gpx-animator/issues/296) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#295](https://github.com/zdila/gpx-animator/issues/295) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. ❗️ Closed issue [#275](https://github.com/zdila/gpx-animator/issues/275) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#294](https://github.com/zdila/gpx-animator/issues/294) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Opened issue [#298](https://github.com/zdila/gpx-animator/issues/298) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#293](https://github.com/zdila/gpx-animator/issues/293) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#296](https://github.com/zdila/gpx-animator/issues/296) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#295](https://github.com/zdila/gpx-animator/issues/295) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. ❗️ Closed issue [#275](https://github.com/zdila/gpx-animator/issues/275) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
