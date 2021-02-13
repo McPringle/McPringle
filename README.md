@@ -69,11 +69,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/artclarke/humble-video/pull/148) in [artclarke/humble-video](https://github.com/artclarke/humble-video)
-2. 🗣 Commented on [#318](https://github.com/zdila/gpx-animator/issues/318) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#329](https://github.com/zdila/gpx-animator/issues/329) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. ❗️ Closed issue [#329](https://github.com/zdila/gpx-animator/issues/329) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#329](https://github.com/zdila/gpx-animator/issues/329) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🗣 Commented on [#84](https://github.com/artclarke/humble-video/issues/84) in [artclarke/humble-video](https://github.com/artclarke/humble-video)
+2. 💪 Opened PR [#148](https://github.com/artclarke/humble-video/pull/148) in [artclarke/humble-video](https://github.com/artclarke/humble-video)
+3. 🗣 Commented on [#318](https://github.com/zdila/gpx-animator/issues/318) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#329](https://github.com/zdila/gpx-animator/issues/329) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. ❗️ Closed issue [#329](https://github.com/zdila/gpx-animator/issues/329) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
