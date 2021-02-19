@@ -69,11 +69,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#322](https://github.com/hackergarten/hackergarten.github.io/pull/322) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. ❗️ Closed issue [#330](https://github.com/zdila/gpx-animator/issues/330) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#330](https://github.com/zdila/gpx-animator/issues/330) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#321](https://github.com/zdila/gpx-animator/issues/321) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#112](https://github.com/artclarke/humble-video/issues/112) in [artclarke/humble-video](https://github.com/artclarke/humble-video)
+1. ❗️ Opened issue [#331](https://github.com/zdila/gpx-animator/issues/331) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 💪 Opened PR [#322](https://github.com/hackergarten/hackergarten.github.io/pull/322) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. ❗️ Closed issue [#330](https://github.com/zdila/gpx-animator/issues/330) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#330](https://github.com/zdila/gpx-animator/issues/330) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#321](https://github.com/zdila/gpx-animator/issues/321) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
