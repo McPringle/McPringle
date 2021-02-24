@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/) and [Pensum](https://github.com/pensum/pensum)
+- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/) and [Pandemieende.ch](https://pandemieende.ch/)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
 - 📫 How to reach me: In the [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
 - 🥅 2021 Goal: Writing a book about Webengineering
@@ -17,8 +17,6 @@
 [<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sponsors/McPringle)
 [<img align="left" alt="Patreon" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />](https://www.patreon.com/mcpringle)
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="my website" title="my website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -29,8 +27,6 @@
 [<img align="left" alt="my Komoot profile" title="my Komoot profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
 [<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][blog]
 [<img align="left" alt="my cycling videos" title="my cycling videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
 
 ### Main Languages and Tools:
 
