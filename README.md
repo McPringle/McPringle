@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#413](https://github.com/rauchg/slackin/issues/413) in [rauchg/slackin](https://github.com/rauchg/slackin)
-2. ❗️ Closed issue [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-3. 🗣 Commented on [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-4. 🗣 Commented on [#321](https://github.com/zdila/gpx-animator/issues/321) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 💪 Opened PR [#323](https://github.com/hackergarten/hackergarten.github.io/pull/323) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#332](https://github.com/zdila/gpx-animator/issues/332) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#413](https://github.com/rauchg/slackin/issues/413) in [rauchg/slackin](https://github.com/rauchg/slackin)
+3. ❗️ Closed issue [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
+4. 🗣 Commented on [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
+5. 🗣 Commented on [#321](https://github.com/zdila/gpx-animator/issues/321) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
