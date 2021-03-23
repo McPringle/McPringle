@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#328](https://github.com/zdila/gpx-animator/issues/328) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Opened issue [#339](https://github.com/zdila/gpx-animator/issues/339) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#322](https://github.com/jekyll/jekyll-feed/issues/322) in [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)
-4. ❗️ Closed issue [#282](https://github.com/zdila/gpx-animator/issues/282) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Opened issue [#338](https://github.com/zdila/gpx-animator/issues/338) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🗣 Commented on [#340](https://github.com/zdila/gpx-animator/issues/340) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#334](https://github.com/zdila/gpx-animator/issues/334) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🎉 Merged PR [#340](https://github.com/zdila/gpx-animator/pull/340) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🎉 Merged PR [#341](https://github.com/zdila/gpx-animator/pull/341) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. ❗️ Closed issue [#328](https://github.com/zdila/gpx-animator/issues/328) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
