@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/McPringle/pandemieende/issues/2) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-2. 🗣 Commented on [#2](https://github.com/McPringle/pandemieende/issues/2) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-3. 🗣 Commented on [#345](https://github.com/zdila/gpx-animator/issues/345) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#346](https://github.com/zdila/gpx-animator/issues/346) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#1367](https://github.com/spotbugs/spotbugs/issues/1367) in [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+1. 🗣 Commented on [#345](https://github.com/zdila/gpx-animator/issues/345) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#346](https://github.com/zdila/gpx-animator/issues/346) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#2](https://github.com/McPringle/pandemieende/issues/2) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
+4. 🗣 Commented on [#2](https://github.com/McPringle/pandemieende/issues/2) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
+5. 🗣 Commented on [#345](https://github.com/zdila/gpx-animator/issues/345) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
