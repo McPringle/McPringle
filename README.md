@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/McPringle/gradle-multiproject-template/pull/5) in [McPringle/gradle-multiproject-template](https://github.com/McPringle/gradle-multiproject-template)
-2. 🎉 Merged PR [#4](https://github.com/McPringle/gradle-multiproject-template/pull/4) in [McPringle/gradle-multiproject-template](https://github.com/McPringle/gradle-multiproject-template)
-3. 🎉 Merged PR [#3](https://github.com/McPringle/kotlin-mapdb-demo/pull/3) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-4. 🎉 Merged PR [#4](https://github.com/McPringle/kotlin-mapdb-demo/pull/4) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-5. 🎉 Merged PR [#5](https://github.com/McPringle/dockmatic/pull/5) in [McPringle/dockmatic](https://github.com/McPringle/dockmatic)
+1. 🎉 Merged PR [#4](https://github.com/McPringle/kotlin-ee/pull/4) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+2. 🎉 Merged PR [#3](https://github.com/McPringle/kotlin-ee/pull/3) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+3. 🎉 Merged PR [#2](https://github.com/McPringle/kotlin-ee/pull/2) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+4. 🎉 Merged PR [#37](https://github.com/McPringle/moodini/pull/37) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#3](https://github.com/McPringle/friday/pull/3) in [McPringle/friday](https://github.com/McPringle/friday)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
