@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/kotlin-ee/pull/4) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-2. 🎉 Merged PR [#3](https://github.com/McPringle/kotlin-ee/pull/3) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-3. 🎉 Merged PR [#2](https://github.com/McPringle/kotlin-ee/pull/2) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-4. 🎉 Merged PR [#37](https://github.com/McPringle/moodini/pull/37) in [McPringle/moodini](https://github.com/McPringle/moodini)
-5. 🎉 Merged PR [#3](https://github.com/McPringle/friday/pull/3) in [McPringle/friday](https://github.com/McPringle/friday)
+1. ❗️ Opened issue [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
+2. 🎉 Merged PR [#4](https://github.com/McPringle/kotlin-ee/pull/4) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+3. 🎉 Merged PR [#3](https://github.com/McPringle/kotlin-ee/pull/3) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+4. 🎉 Merged PR [#2](https://github.com/McPringle/kotlin-ee/pull/2) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+5. 🎉 Merged PR [#37](https://github.com/McPringle/moodini/pull/37) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
