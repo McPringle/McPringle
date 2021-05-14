@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
-2. 🗣 Commented on [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
-3. 🎉 Merged PR [#5](https://github.com/McPringle/kotlin-ee/pull/5) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-4. ❗️ Opened issue [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
-5. 🎉 Merged PR [#4](https://github.com/McPringle/kotlin-ee/pull/4) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+1. 🗣 Commented on [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
+2. ❗️ Opened issue [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
+3. 🗣 Commented on [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
+4. 🎉 Merged PR [#5](https://github.com/McPringle/kotlin-ee/pull/5) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+5. ❗️ Opened issue [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
