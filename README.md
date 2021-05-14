@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/McPringle/pandemieende-updater/pull/8) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-2. 🗣 Commented on [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
-3. 🗣 Commented on [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
-4. ❗️ Opened issue [#17](https://github.com/kordamp/jdeps-gradle-plugin/issues/17) in [kordamp/jdeps-gradle-plugin](https://github.com/kordamp/jdeps-gradle-plugin)
-5. 🗣 Commented on [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
+1. 🎉 Merged PR [#4](https://github.com/McPringle/friday/pull/4) in [McPringle/friday](https://github.com/McPringle/friday)
+2. 🎉 Merged PR [#9](https://github.com/McPringle/contactus/pull/9) in [McPringle/contactus](https://github.com/McPringle/contactus)
+3. 🎉 Merged PR [#47](https://github.com/McPringle/moodini/pull/47) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🗣 Commented on [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
+5. 🎉 Merged PR [#8](https://github.com/McPringle/pandemieende-updater/pull/8) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
