@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/friday/pull/4) in [McPringle/friday](https://github.com/McPringle/friday)
-2. 🎉 Merged PR [#9](https://github.com/McPringle/contactus/pull/9) in [McPringle/contactus](https://github.com/McPringle/contactus)
-3. 🎉 Merged PR [#47](https://github.com/McPringle/moodini/pull/47) in [McPringle/moodini](https://github.com/McPringle/moodini)
-4. 🗣 Commented on [#28](https://github.com/mantono/giss/issues/28) in [mantono/giss](https://github.com/mantono/giss)
-5. 🎉 Merged PR [#8](https://github.com/McPringle/pandemieende-updater/pull/8) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🎉 Merged PR [#7](https://github.com/McPringle/kotlin-mapdb-demo/pull/7) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+2. 🎉 Merged PR [#6](https://github.com/McPringle/java-date-time-demo/pull/6) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
+3. 🎉 Merged PR [#6](https://github.com/McPringle/gradle-multiproject-template/pull/6) in [McPringle/gradle-multiproject-template](https://github.com/McPringle/gradle-multiproject-template)
+4. 🎉 Merged PR [#6](https://github.com/McPringle/dockmatic/pull/6) in [McPringle/dockmatic](https://github.com/McPringle/dockmatic)
+5. 🎉 Merged PR [#6](https://github.com/McPringle/kotlin-ee/pull/6) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
