@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/McPringle/kotlin-mapdb-demo/pull/7) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-2. 🎉 Merged PR [#6](https://github.com/McPringle/java-date-time-demo/pull/6) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
-3. 🎉 Merged PR [#6](https://github.com/McPringle/gradle-multiproject-template/pull/6) in [McPringle/gradle-multiproject-template](https://github.com/McPringle/gradle-multiproject-template)
-4. 🎉 Merged PR [#6](https://github.com/McPringle/dockmatic/pull/6) in [McPringle/dockmatic](https://github.com/McPringle/dockmatic)
-5. 🎉 Merged PR [#6](https://github.com/McPringle/kotlin-ee/pull/6) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+1. 💪 Opened PR [#39](https://github.com/JavaMoney/javamoney-shelter/pull/39) in [JavaMoney/javamoney-shelter](https://github.com/JavaMoney/javamoney-shelter)
+2. 🎉 Merged PR [#7](https://github.com/McPringle/kotlin-mapdb-demo/pull/7) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+3. 🎉 Merged PR [#6](https://github.com/McPringle/java-date-time-demo/pull/6) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
+4. 🎉 Merged PR [#6](https://github.com/McPringle/gradle-multiproject-template/pull/6) in [McPringle/gradle-multiproject-template](https://github.com/McPringle/gradle-multiproject-template)
+5. 🎉 Merged PR [#6](https://github.com/McPringle/dockmatic/pull/6) in [McPringle/dockmatic](https://github.com/McPringle/dockmatic)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
