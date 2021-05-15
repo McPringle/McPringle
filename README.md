@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/McPringle/moodini/pull/48) in [McPringle/moodini](https://github.com/McPringle/moodini)
-2. 🎉 Merged PR [#46](https://github.com/McPringle/moodini/pull/46) in [McPringle/moodini](https://github.com/McPringle/moodini)
-3. 🎉 Merged PR [#4](https://github.com/McPringle/enjoy-your-map/pull/4) in [McPringle/enjoy-your-map](https://github.com/McPringle/enjoy-your-map)
-4. 💪 Opened PR [#25](https://github.com/needle4j/needle4j/pull/25) in [needle4j/needle4j](https://github.com/needle4j/needle4j)
-5. 💪 Opened PR [#39](https://github.com/JavaMoney/javamoney-shelter/pull/39) in [JavaMoney/javamoney-shelter](https://github.com/JavaMoney/javamoney-shelter)
+1. 🎉 Merged PR [#9](https://github.com/McPringle/pandemieende-updater/pull/9) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+2. 🎉 Merged PR [#48](https://github.com/McPringle/moodini/pull/48) in [McPringle/moodini](https://github.com/McPringle/moodini)
+3. 🎉 Merged PR [#46](https://github.com/McPringle/moodini/pull/46) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🎉 Merged PR [#4](https://github.com/McPringle/enjoy-your-map/pull/4) in [McPringle/enjoy-your-map](https://github.com/McPringle/enjoy-your-map)
+5. 💪 Opened PR [#25](https://github.com/needle4j/needle4j/pull/25) in [needle4j/needle4j](https://github.com/needle4j/needle4j)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
