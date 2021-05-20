@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
-2. 🎉 Merged PR [#9](https://github.com/McPringle/pandemieende-updater/pull/9) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-3. 🎉 Merged PR [#48](https://github.com/McPringle/moodini/pull/48) in [McPringle/moodini](https://github.com/McPringle/moodini)
-4. 🎉 Merged PR [#46](https://github.com/McPringle/moodini/pull/46) in [McPringle/moodini](https://github.com/McPringle/moodini)
-5. 🎉 Merged PR [#4](https://github.com/McPringle/enjoy-your-map/pull/4) in [McPringle/enjoy-your-map](https://github.com/McPringle/enjoy-your-map)
+1. 🗣 Commented on [#322](https://github.com/jekyll/jekyll-feed/issues/322) in [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)
+2. ❗️ Opened issue [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
+3. 🎉 Merged PR [#9](https://github.com/McPringle/pandemieende-updater/pull/9) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+4. 🎉 Merged PR [#48](https://github.com/McPringle/moodini/pull/48) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#46](https://github.com/McPringle/moodini/pull/46) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
