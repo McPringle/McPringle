@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/McPringle/moodini/pull/50) in [McPringle/moodini](https://github.com/McPringle/moodini)
-2. 🎉 Merged PR [#49](https://github.com/McPringle/moodini/pull/49) in [McPringle/moodini](https://github.com/McPringle/moodini)
-3. 🎉 Merged PR [#8](https://github.com/McPringle/kotlin-mapdb-demo/pull/8) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-4. 🎉 Merged PR [#9](https://github.com/McPringle/kotlin-mapdb-demo/pull/9) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-5. 🎉 Merged PR [#8](https://github.com/McPringle/kotlin-ee/pull/8) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+1. ❗️ Opened issue [#1](https://github.com/komunumo/komunumo-server/issues/1) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#352](https://github.com/zdila/gpx-animator/issues/352) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🎉 Merged PR [#52](https://github.com/McPringle/moodini/pull/52) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🎉 Merged PR [#51](https://github.com/McPringle/moodini/pull/51) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#50](https://github.com/McPringle/moodini/pull/50) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
