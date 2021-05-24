@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/McPringle/kotlin-ee/pull/8) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-2. 🎉 Merged PR [#7](https://github.com/McPringle/kotlin-ee/pull/7) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-3. 🗣 Commented on [#322](https://github.com/jekyll/jekyll-feed/issues/322) in [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)
-4. ❗️ Opened issue [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
-5. 🎉 Merged PR [#9](https://github.com/McPringle/pandemieende-updater/pull/9) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🎉 Merged PR [#8](https://github.com/McPringle/kotlin-mapdb-demo/pull/8) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+2. 🎉 Merged PR [#9](https://github.com/McPringle/kotlin-mapdb-demo/pull/9) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+3. 🎉 Merged PR [#8](https://github.com/McPringle/kotlin-ee/pull/8) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+4. 🎉 Merged PR [#7](https://github.com/McPringle/kotlin-ee/pull/7) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+5. 🗣 Commented on [#322](https://github.com/jekyll/jekyll-feed/issues/322) in [jekyll/jekyll-feed](https://github.com/jekyll/jekyll-feed)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
