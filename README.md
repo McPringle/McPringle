@@ -65,11 +65,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/72services/jtaf4/pull/3) in [72services/jtaf4](https://github.com/72services/jtaf4)
-2. ❗️ Opened issue [#1](https://github.com/komunumo/komunumo-server/issues/1) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#352](https://github.com/zdila/gpx-animator/issues/352) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🎉 Merged PR [#52](https://github.com/McPringle/moodini/pull/52) in [McPringle/moodini](https://github.com/McPringle/moodini)
-5. 🎉 Merged PR [#51](https://github.com/McPringle/moodini/pull/51) in [McPringle/moodini](https://github.com/McPringle/moodini)
+1. 🗣 Commented on [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
+2. 🎉 Merged PR [#53](https://github.com/McPringle/moodini/pull/53) in [McPringle/moodini](https://github.com/McPringle/moodini)
+3. 💪 Opened PR [#3](https://github.com/72services/jtaf4/pull/3) in [72services/jtaf4](https://github.com/72services/jtaf4)
+4. ❗️ Opened issue [#1](https://github.com/komunumo/komunumo-server/issues/1) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#352](https://github.com/zdila/gpx-animator/issues/352) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
