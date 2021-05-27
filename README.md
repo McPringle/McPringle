@@ -45,9 +45,6 @@
     <img width="48" height="48" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" />
     <img width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
     <img width="48" height="48" alt="Slack" title="Slack" src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" />
-    <img width="48" height="48" alt="Apple" title="Apple" src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" />
-    <img width="48" height="48" alt="Linux" title="Linux" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />
-    <img width="48" height="48" alt="Windows" title="Windows" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />
 </span>
 
 ---
