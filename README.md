@@ -89,10 +89,10 @@
 5. ❗️ Opened issue [#352](https://github.com/zdila/gpx-animator/issues/352) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
-![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
 
 <!-- Disabled, because there is something wrong with the calculation (87% JavaScript and only 2% Java can't be correct)!
-![My Top Languages](https://github-readme-stats.mcpringle.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
 -->
 
 [website]: https://fihlon.swiss/
