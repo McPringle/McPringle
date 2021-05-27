@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
 ### Hi there, I'm Marcus – aka McPringle 👋
 
 - 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/) and [Pandemieende.ch](https://pandemieende.ch/)
@@ -30,7 +32,25 @@
 
 ### Main Languages and Tools:
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+<div style="font-size: 5em;">
+    <i class="devicon-java-plain colored"></i>
+    <i class="devicon-kotlin-plain colored"></i>
+    <i class="devicon-spring-plain colored"></i>
+    <i class="devicon-html5-plain colored"></i>
+    <i class="devicon-css3-plain colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-git-plain colored"></i>
+    <i class="devicon-github-plain colored"></i>
+    <i class="devicon-gradle-plain colored"></i>
+    <i class="devicon-docker-plain colored"></i>
+    <i class="devicon-mysql-plain colored"></i>
+    <i class="devicon-intellij-plain colored"></i>
+    <i class="devicon-visualstudio-plain colored"></i>
+    <i class="devicon-slack-plain colored"></i>
+    <i class="devicon-apple-plain colored"></i>
+    <i class="devicon-linux-plain colored"></i>
+    <i class="devicon-windows8-plain colored"></i>
+</div>
 
 ---
 
