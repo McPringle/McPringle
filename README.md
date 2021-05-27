@@ -16,6 +16,7 @@
 
 [<img align="left" alt="GitHub Sponsor" title="GitHub Sponsor" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/sponsors/McPringle)
 [<img align="left" alt="Patreon" title="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />](https://www.patreon.com/mcpringle)
+<br />
 
 ### Connect with me:
 
@@ -27,6 +28,7 @@
 [<img align="left" alt="my Komoot profile" title="my Komoot profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
 [<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][blog]
 [<img align="left" alt="my cycling videos" title="my cycling videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<br />
 
 ### Main Languages and Tools:
 
