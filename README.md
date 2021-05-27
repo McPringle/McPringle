@@ -30,23 +30,25 @@
 
 ### Main Languages and Tools:
 
-<img width="48" height="48" alt="Java" title="Java" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />
-<img width="48" height="48" alt="Kotlin" title="Kotlin" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
-<img width="48" height="48" alt="Spring" title="Spring" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" />
-<img width="48" height="48" alt="HTML5" title="HTML5" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" />
-<img width="48" height="48" alt="CSS3" title="CSS3" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" />
-<img width="48" height="48" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" />
-<img width="48" height="48" alt="git" title="git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />
-<img width="48" height="48" alt="GitHub" title="GitHub" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />
-<img width="48" height="48" alt="Gradle" title="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" />
-<img width="48" height="48" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" />
-<img width="48" height="48" alt="MySQL" title="MySQL" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" />
-<img width="48" height="48" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" />
-<img width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
-<img width="48" height="48" alt="Slack" title="Slack" src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" />
-<img width="48" height="48" alt="Apple" title="Apple" src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" />
-<img width="48" height="48" alt="Linux" title="Linux" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />
-<img width="48" height="48" alt="Windows" title="Windows" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />
+<span>
+    <img width="48" height="48" alt="Java" title="Java" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />
+    <img width="48" height="48" alt="Kotlin" title="Kotlin" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
+    <img width="48" height="48" alt="Spring" title="Spring" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" />
+    <img width="48" height="48" alt="HTML5" title="HTML5" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" />
+    <img width="48" height="48" alt="CSS3" title="CSS3" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" />
+    <img width="48" height="48" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" />
+    <img width="48" height="48" alt="git" title="git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />
+    <img width="48" height="48" alt="GitHub" title="GitHub" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />
+    <img width="48" height="48" alt="Gradle" title="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" />
+    <img width="48" height="48" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" />
+    <img width="48" height="48" alt="MySQL" title="MySQL" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" />
+    <img width="48" height="48" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" />
+    <img width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" height="48" alt="Slack" title="Slack" src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" />
+    <img width="48" height="48" alt="Apple" title="Apple" src="https://github.com/devicons/devicon/raw/master/icons/apple/apple-original.svg" />
+    <img width="48" height="48" alt="Linux" title="Linux" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" />
+    <img width="48" height="48" alt="Windows" title="Windows" src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" />
+</span>
 
 ---
 
