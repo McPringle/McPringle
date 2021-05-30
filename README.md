@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/komunumo/komunumo-server/issues/3) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#2](https://github.com/komunumo/komunumo-server/issues/2) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
-4. 🎉 Merged PR [#53](https://github.com/McPringle/moodini/pull/53) in [McPringle/moodini](https://github.com/McPringle/moodini)
-5. 💪 Opened PR [#3](https://github.com/72services/jtaf4/pull/3) in [72services/jtaf4](https://github.com/72services/jtaf4)
+1. 🎉 Merged PR [#54](https://github.com/McPringle/moodini/pull/54) in [McPringle/moodini](https://github.com/McPringle/moodini)
+2. ❗️ Opened issue [#3](https://github.com/komunumo/komunumo-server/issues/3) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#2](https://github.com/komunumo/komunumo-server/issues/2) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#1](https://github.com/alejandro-du/vaadin-auth-example/issues/1) in [alejandro-du/vaadin-auth-example](https://github.com/alejandro-du/vaadin-auth-example)
+5. 🎉 Merged PR [#53](https://github.com/McPringle/moodini/pull/53) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
