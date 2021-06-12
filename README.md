@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/komunumo/komunumo-server/issues/5) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#4](https://github.com/komunumo/komunumo-server/issues/4) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Closed issue [#2](https://github.com/komunumo/komunumo-server/issues/2) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Closed issue [#3](https://github.com/komunumo/komunumo-server/issues/3) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#55](https://github.com/McPringle/moodini/pull/55) in [McPringle/moodini](https://github.com/McPringle/moodini)
+1. ❗️ Closed issue [#1](https://github.com/komunumo/komunumo-server/issues/1) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#5](https://github.com/komunumo/komunumo-server/issues/5) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#4](https://github.com/komunumo/komunumo-server/issues/4) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#2](https://github.com/komunumo/komunumo-server/issues/2) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Closed issue [#3](https://github.com/komunumo/komunumo-server/issues/3) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
