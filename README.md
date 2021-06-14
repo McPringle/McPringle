@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1792](https://github.com/vaadin/flow-components/issues/1792) in [vaadin/flow-components](https://github.com/vaadin/flow-components)
-2. ❌ Closed PR [#1](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug/pull/1) in [McPringle/vaadin-datetimepicker-weeknumber-bug](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug)
-3. ❗️ Opened issue [#298](https://github.com/vaadin-miki/super-fields/issues/298) in [vaadin-miki/super-fields](https://github.com/vaadin-miki/super-fields)
-4. ❗️ Closed issue [#7](https://github.com/komunumo/komunumo-server/issues/7) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#7](https://github.com/komunumo/komunumo-server/issues/7) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Opened issue [#9](https://github.com/komunumo/komunumo-server/issues/9) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#8](https://github.com/komunumo/komunumo-server/issues/8) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#1792](https://github.com/vaadin/flow-components/issues/1792) in [vaadin/flow-components](https://github.com/vaadin/flow-components)
+4. ❌ Closed PR [#1](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug/pull/1) in [McPringle/vaadin-datetimepicker-weeknumber-bug](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug)
+5. ❗️ Opened issue [#298](https://github.com/vaadin-miki/super-fields/issues/298) in [vaadin-miki/super-fields](https://github.com/vaadin-miki/super-fields)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
