@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
-2. 🗣 Commented on [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
-3. ❗️ Closed issue [#5](https://github.com/komunumo/komunumo-server/issues/5) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#9](https://github.com/komunumo/komunumo-server/issues/9) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#8](https://github.com/komunumo/komunumo-server/issues/8) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#5](https://github.com/McPringle/friday/pull/5) in [McPringle/friday](https://github.com/McPringle/friday)
+2. 🎉 Merged PR [#5](https://github.com/McPringle/enjoy-your-map/pull/5) in [McPringle/enjoy-your-map](https://github.com/McPringle/enjoy-your-map)
+3. ❗️ Closed issue [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
+4. 🗣 Commented on [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
+5. ❗️ Closed issue [#5](https://github.com/komunumo/komunumo-server/issues/5) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
