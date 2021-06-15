@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/4) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
-2. 🗣 Commented on [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
-3. 🎉 Merged PR [#12](https://github.com/komunumo/komunumo-server/pull/12) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#11](https://github.com/komunumo/komunumo-server/pull/11) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#10](https://github.com/komunumo/komunumo-server/pull/10) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❌ Closed PR [#1](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug/pull/1) in [McPringle/vaadin-enhanceddatepicker-weeknumber-bug](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug)
+2. ❗️ Opened issue [#10](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/10) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
+3. 🗣 Commented on [#4](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/4) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
+4. 🗣 Commented on [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
+5. 🎉 Merged PR [#12](https://github.com/komunumo/komunumo-server/pull/12) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
