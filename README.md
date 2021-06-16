@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1792](https://github.com/vaadin/flow-components/issues/1792) in [vaadin/flow-components](https://github.com/vaadin/flow-components)
-2. ❌ Closed PR [#1](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug/pull/1) in [McPringle/vaadin-enhanceddatepicker-weeknumber-bug](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug)
-3. ❗️ Opened issue [#10](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/10) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
-4. 🗣 Commented on [#4](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/4) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
-5. 🗣 Commented on [#1](https://github.com/komunumo/komunumo.github.io/issues/1) in [komunumo/komunumo.github.io](https://github.com/komunumo/komunumo.github.io)
+1. 🎉 Merged PR [#26](https://github.com/komunumo/komunumo-server/pull/26) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#35](https://github.com/komunumo/komunumo-server/pull/35) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#28](https://github.com/komunumo/komunumo-server/pull/28) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#29](https://github.com/komunumo/komunumo-server/pull/29) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🎉 Merged PR [#30](https://github.com/komunumo/komunumo-server/pull/30) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
