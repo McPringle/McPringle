@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1792](https://github.com/vaadin/flow-components/issues/1792) in [vaadin/flow-components](https://github.com/vaadin/flow-components)
-2. 🎉 Merged PR [#11](https://github.com/McPringle/pandemieende-updater/pull/11) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-3. 🗣 Commented on [#355](https://github.com/zdila/gpx-animator/issues/355) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. ❗️ Closed issue [#354](https://github.com/zdila/gpx-animator/issues/354) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#354](https://github.com/zdila/gpx-animator/issues/354) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Opened issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#40](https://github.com/komunumo/komunumo-server/issues/40) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#39](https://github.com/komunumo/komunumo-server/issues/39) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#38](https://github.com/komunumo/komunumo-server/issues/38) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#1792](https://github.com/vaadin/flow-components/issues/1792) in [vaadin/flow-components](https://github.com/vaadin/flow-components)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
