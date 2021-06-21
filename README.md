@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#40](https://github.com/komunumo/komunumo-server/issues/40) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#39](https://github.com/komunumo/komunumo-server/issues/39) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#38](https://github.com/komunumo/komunumo-server/issues/38) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🗣 Commented on [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#40](https://github.com/komunumo/komunumo-server/issues/40) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#39](https://github.com/komunumo/komunumo-server/issues/39) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
