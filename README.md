@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/McPringle/moodini/pull/58) in [McPringle/moodini](https://github.com/McPringle/moodini)
-2. 🗣 Commented on [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#40](https://github.com/komunumo/komunumo-server/issues/40) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❌ Closed PR [#1](https://github.com/McPringle/vaadin20-enhanceddatetimepicker/pull/1) in [McPringle/vaadin20-enhanceddatetimepicker](https://github.com/McPringle/vaadin20-enhanceddatetimepicker)
+2. ❗️ Opened issue [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+3. 🎉 Merged PR [#58](https://github.com/McPringle/moodini/pull/58) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🗣 Commented on [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#42](https://github.com/komunumo/komunumo-server/issues/42) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
