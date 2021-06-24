@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/McPringle/kotlin-ee/pull/10) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-2. 🎉 Merged PR [#11](https://github.com/McPringle/kotlin-ee/pull/11) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-3. ❗️ Opened issue [#1](https://github.com/belomx/vaadin-paper-tags-input/issues/1) in [belomx/vaadin-paper-tags-input](https://github.com/belomx/vaadin-paper-tags-input)
-4. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#44](https://github.com/komunumo/komunumo-server/issues/44) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Opened issue [#47](https://github.com/komunumo/komunumo-server/issues/47) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#46](https://github.com/komunumo/komunumo-server/issues/46) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#45](https://github.com/komunumo/komunumo-server/issues/45) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#10](https://github.com/McPringle/kotlin-ee/pull/10) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+5. 🎉 Merged PR [#11](https://github.com/McPringle/kotlin-ee/pull/11) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
