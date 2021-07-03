@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/komunumo/komunumo-server/issues/40) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#3](https://github.com/72services/jtaf4/issues/3) in [72services/jtaf4](https://github.com/72services/jtaf4)
-4. ❗️ Opened issue [#68](https://github.com/komunumo/komunumo-server/issues/68) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#67](https://github.com/komunumo/komunumo-server/issues/67) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#60](https://github.com/McPringle/moodini/pull/60) in [McPringle/moodini](https://github.com/McPringle/moodini)
+2. 🎉 Merged PR [#59](https://github.com/McPringle/moodini/pull/59) in [McPringle/moodini](https://github.com/McPringle/moodini)
+3. 🎉 Merged PR [#57](https://github.com/McPringle/moodini/pull/57) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🎉 Merged PR [#56](https://github.com/McPringle/moodini/pull/56) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#11](https://github.com/McPringle/contactus/pull/11) in [McPringle/contactus](https://github.com/McPringle/contactus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
