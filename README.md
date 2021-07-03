@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#66](https://github.com/komunumo/komunumo-server/pull/66) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#12](https://github.com/McPringle/pandemieende-updater/pull/12) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-4. ❗️ Opened issue [#65](https://github.com/komunumo/komunumo-server/issues/65) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#64](https://github.com/komunumo/komunumo-server/pull/64) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🗣 Commented on [#3](https://github.com/72services/jtaf4/issues/3) in [72services/jtaf4](https://github.com/72services/jtaf4)
+2. ❗️ Opened issue [#68](https://github.com/komunumo/komunumo-server/issues/68) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#67](https://github.com/komunumo/komunumo-server/issues/67) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🎉 Merged PR [#66](https://github.com/komunumo/komunumo-server/pull/66) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
