@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#60](https://github.com/McPringle/moodini/pull/60) in [McPringle/moodini](https://github.com/McPringle/moodini)
-2. 🎉 Merged PR [#59](https://github.com/McPringle/moodini/pull/59) in [McPringle/moodini](https://github.com/McPringle/moodini)
-3. 🎉 Merged PR [#57](https://github.com/McPringle/moodini/pull/57) in [McPringle/moodini](https://github.com/McPringle/moodini)
-4. 🎉 Merged PR [#56](https://github.com/McPringle/moodini/pull/56) in [McPringle/moodini](https://github.com/McPringle/moodini)
-5. 🎉 Merged PR [#11](https://github.com/McPringle/contactus/pull/11) in [McPringle/contactus](https://github.com/McPringle/contactus)
+1. 🎉 Merged PR [#64](https://github.com/McPringle/moodini/pull/64) in [McPringle/moodini](https://github.com/McPringle/moodini)
+2. 🎉 Merged PR [#63](https://github.com/McPringle/moodini/pull/63) in [McPringle/moodini](https://github.com/McPringle/moodini)
+3. 🎉 Merged PR [#60](https://github.com/McPringle/moodini/pull/60) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🎉 Merged PR [#59](https://github.com/McPringle/moodini/pull/59) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#57](https://github.com/McPringle/moodini/pull/57) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
