@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/komunumo/komunumo-server/pull/74) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#77](https://github.com/komunumo/komunumo-server/pull/77) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#78](https://github.com/komunumo/komunumo-server/pull/78) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#12](https://github.com/McPringle/contactus/pull/12) in [McPringle/contactus](https://github.com/McPringle/contactus)
+1. ❗️ Opened issue [#9](https://github.com/jOOQ/jOOQ-mcve/issues/9) in [jOOQ/jOOQ-mcve](https://github.com/jOOQ/jOOQ-mcve)
+2. 🎉 Merged PR [#74](https://github.com/komunumo/komunumo-server/pull/74) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#77](https://github.com/komunumo/komunumo-server/pull/77) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#78](https://github.com/komunumo/komunumo-server/pull/78) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
