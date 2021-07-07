@@ -82,9 +82,9 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#76](https://github.com/komunumo/komunumo-server/issues/76) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#75](https://github.com/komunumo/komunumo-server/issues/75) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#12](https://github.com/McPringle/contactus/pull/12) in [McPringle/contactus](https://github.com/McPringle/contactus)
+2. ❗️ Opened issue [#76](https://github.com/komunumo/komunumo-server/issues/76) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#75](https://github.com/komunumo/komunumo-server/issues/75) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 4. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 5. 🗣 Commented on [#43](https://github.com/komunumo/komunumo-server/issues/43) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
