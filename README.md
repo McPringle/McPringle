@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#358](https://github.com/zdila/gpx-animator/issues/358) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🎉 Merged PR [#13](https://github.com/McPringle/kotlin-ee/pull/13) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-3. 🎉 Merged PR [#14](https://github.com/McPringle/kotlin-ee/pull/14) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-4. 🎉 Merged PR [#15](https://github.com/McPringle/kotlin-ee/pull/15) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-5. 🗣 Commented on [#1670](https://github.com/bytedeco/javacv/issues/1670) in [bytedeco/javacv](https://github.com/bytedeco/javacv)
+1. ❗️ Closed issue [#89](https://github.com/zdila/gpx-animator/issues/89) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#89](https://github.com/zdila/gpx-animator/issues/89) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. ❗️ Closed issue [#181](https://github.com/zdila/gpx-animator/issues/181) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#181](https://github.com/zdila/gpx-animator/issues/181) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#180](https://github.com/zdila/gpx-animator/issues/180) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
