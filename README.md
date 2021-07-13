@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#360](https://github.com/zdila/gpx-animator/issues/360) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🎉 Merged PR [#14](https://github.com/McPringle/kotlin-mapdb-demo/pull/14) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-3. 🎉 Merged PR [#15](https://github.com/McPringle/kotlin-mapdb-demo/pull/15) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-4. ❗️ Opened issue [#1670](https://github.com/bytedeco/javacv/issues/1670) in [bytedeco/javacv](https://github.com/bytedeco/javacv)
-5. 🗣 Commented on [#356](https://github.com/zdila/gpx-animator/issues/356) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Reopened issue [#1613](https://github.com/spotbugs/spotbugs/issues/1613) in [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+2. ❗️ Closed issue [#1613](https://github.com/spotbugs/spotbugs/issues/1613) in [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+3. 🗣 Commented on [#1613](https://github.com/spotbugs/spotbugs/issues/1613) in [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+4. ❗️ Opened issue [#1613](https://github.com/spotbugs/spotbugs/issues/1613) in [spotbugs/spotbugs](https://github.com/spotbugs/spotbugs)
+5. ❗️ Opened issue [#360](https://github.com/zdila/gpx-animator/issues/360) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
