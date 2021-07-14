@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/komunumo/komunumo-server/pull/80) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🗣 Commented on [#353](https://github.com/zdila/gpx-animator/issues/353) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#358](https://github.com/zdila/gpx-animator/issues/358) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#356](https://github.com/zdila/gpx-animator/issues/356) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Closed issue [#89](https://github.com/zdila/gpx-animator/issues/89) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🗣 Commented on [#359](https://github.com/zdila/gpx-animator/issues/359) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🎉 Merged PR [#80](https://github.com/komunumo/komunumo-server/pull/80) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🗣 Commented on [#353](https://github.com/zdila/gpx-animator/issues/353) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#358](https://github.com/zdila/gpx-animator/issues/358) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#356](https://github.com/zdila/gpx-animator/issues/356) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
