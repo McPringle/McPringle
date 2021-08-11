@@ -82,10 +82,10 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#370](https://github.com/zdila/gpx-animator/issues/370) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Closed issue [#313](https://github.com/zdila/gpx-animator/issues/313) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#368](https://github.com/zdila/gpx-animator/issues/368) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. ❗️ Closed issue [#368](https://github.com/zdila/gpx-animator/issues/368) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Closed issue [#370](https://github.com/zdila/gpx-animator/issues/370) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#370](https://github.com/zdila/gpx-animator/issues/370) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. ❗️ Opened issue [#370](https://github.com/zdila/gpx-animator/issues/370) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. ❗️ Closed issue [#313](https://github.com/zdila/gpx-animator/issues/313) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 5. 🗣 Commented on [#368](https://github.com/zdila/gpx-animator/issues/368) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
