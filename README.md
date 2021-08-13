@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/hackergarten.github.io/pull/4) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
-2. 🎉 Merged PR [#3](https://github.com/McPringle/hackergarten.github.io/pull/3) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
-3. 🎉 Merged PR [#7](https://github.com/McPringle/hackergarten.github.io/pull/7) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
-4. 🗣 Commented on [#323](https://github.com/hackergarten/hackergarten.github.io/issues/323) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🎉 Merged PR [#2](https://github.com/McPringle/hackergarten.github.io/pull/2) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+1. 🎉 Merged PR [#5](https://github.com/McPringle/hackergarten.github.io/pull/5) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+2. 🎉 Merged PR [#4](https://github.com/McPringle/hackergarten.github.io/pull/4) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+3. 🎉 Merged PR [#3](https://github.com/McPringle/hackergarten.github.io/pull/3) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+4. 🎉 Merged PR [#7](https://github.com/McPringle/hackergarten.github.io/pull/7) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+5. 🗣 Commented on [#323](https://github.com/hackergarten/hackergarten.github.io/issues/323) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
