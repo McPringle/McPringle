@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#363](https://github.com/zdila/gpx-animator/issues/363) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🗣 Commented on [#318](https://github.com/zdila/gpx-animator/issues/318) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🎉 Merged PR [#5](https://github.com/McPringle/hackergarten.github.io/pull/5) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
-4. 🎉 Merged PR [#4](https://github.com/McPringle/hackergarten.github.io/pull/4) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
-5. 🎉 Merged PR [#3](https://github.com/McPringle/hackergarten.github.io/pull/3) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+1. ❗️ Closed issue [#351](https://github.com/zdila/gpx-animator/issues/351) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. ❗️ Closed issue [#363](https://github.com/zdila/gpx-animator/issues/363) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#363](https://github.com/zdila/gpx-animator/issues/363) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#318](https://github.com/zdila/gpx-animator/issues/318) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🎉 Merged PR [#5](https://github.com/McPringle/hackergarten.github.io/pull/5) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
