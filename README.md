@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#351](https://github.com/zdila/gpx-animator/issues/351) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Closed issue [#363](https://github.com/zdila/gpx-animator/issues/363) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#363](https://github.com/zdila/gpx-animator/issues/363) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#318](https://github.com/zdila/gpx-animator/issues/318) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🎉 Merged PR [#5](https://github.com/McPringle/hackergarten.github.io/pull/5) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+1. 🎉 Merged PR [#67](https://github.com/McPringle/moodini/pull/67) in [McPringle/moodini](https://github.com/McPringle/moodini)
+2. 🎉 Merged PR [#66](https://github.com/McPringle/moodini/pull/66) in [McPringle/moodini](https://github.com/McPringle/moodini)
+3. 🎉 Merged PR [#65](https://github.com/McPringle/moodini/pull/65) in [McPringle/moodini](https://github.com/McPringle/moodini)
+4. 🎉 Merged PR [#73](https://github.com/McPringle/moodini/pull/73) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#72](https://github.com/McPringle/moodini/pull/72) in [McPringle/moodini](https://github.com/McPringle/moodini)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
