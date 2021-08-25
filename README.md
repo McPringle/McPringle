@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/McPringle/kotlin-mapdb-demo/pull/17) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-2. 🎉 Merged PR [#18](https://github.com/McPringle/kotlin-mapdb-demo/pull/18) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
-3. 🎉 Merged PR [#16](https://github.com/McPringle/kotlin-ee/pull/16) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-4. 🎉 Merged PR [#17](https://github.com/McPringle/kotlin-ee/pull/17) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
-5. 🎉 Merged PR [#18](https://github.com/McPringle/kotlin-ee/pull/18) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+1. ❗️ Opened issue [#374](https://github.com/zdila/gpx-animator/issues/374) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🎉 Merged PR [#17](https://github.com/McPringle/kotlin-mapdb-demo/pull/17) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+3. 🎉 Merged PR [#18](https://github.com/McPringle/kotlin-mapdb-demo/pull/18) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+4. 🎉 Merged PR [#16](https://github.com/McPringle/kotlin-ee/pull/16) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+5. 🎉 Merged PR [#17](https://github.com/McPringle/kotlin-ee/pull/17) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
