@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/zdila/gpx-animator/issues/357) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Closed issue [#77](https://github.com/McPringle/moodini/issues/77) in [McPringle/moodini](https://github.com/McPringle/moodini)
-3. 🎉 Merged PR [#16](https://github.com/McPringle/pandemieende-updater/pull/16) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-4. 🎉 Merged PR [#13](https://github.com/McPringle/pandemieende-updater/pull/13) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-5. 🎉 Merged PR [#15](https://github.com/McPringle/pandemieende-updater/pull/15) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🗣 Commented on [#375](https://github.com/zdila/gpx-animator/issues/375) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. ❗️ Closed issue [#164](https://github.com/zdila/gpx-animator/issues/164) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🗣 Commented on [#357](https://github.com/zdila/gpx-animator/issues/357) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. ❗️ Closed issue [#77](https://github.com/McPringle/moodini/issues/77) in [McPringle/moodini](https://github.com/McPringle/moodini)
+5. 🎉 Merged PR [#16](https://github.com/McPringle/pandemieende-updater/pull/16) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
