@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/komunumo/komunumo-server/pull/95) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#94](https://github.com/komunumo/komunumo-server/pull/94) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#364](https://github.com/zdila/gpx-animator/issues/364) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#111](https://github.com/zdila/gpx-animator/issues/111) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Opened issue [#376](https://github.com/zdila/gpx-animator/issues/376) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🎉 Merged PR [#22](https://github.com/McPringle/pandemieende-updater/pull/22) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+2. 🎉 Merged PR [#95](https://github.com/komunumo/komunumo-server/pull/95) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#94](https://github.com/komunumo/komunumo-server/pull/94) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#364](https://github.com/zdila/gpx-animator/issues/364) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#111](https://github.com/zdila/gpx-animator/issues/111) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
