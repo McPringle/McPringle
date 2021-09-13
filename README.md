@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/McPringle/pandemieende-updater/pull/23) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-2. 🎉 Merged PR [#24](https://github.com/McPringle/pandemieende-updater/pull/24) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-3. 🎉 Merged PR [#22](https://github.com/McPringle/pandemieende-updater/pull/22) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-4. 🎉 Merged PR [#95](https://github.com/komunumo/komunumo-server/pull/95) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#94](https://github.com/komunumo/komunumo-server/pull/94) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#25](https://github.com/McPringle/pandemieende-updater/pull/25) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+2. 🎉 Merged PR [#26](https://github.com/McPringle/pandemieende-updater/pull/26) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+3. 🎉 Merged PR [#23](https://github.com/McPringle/pandemieende-updater/pull/23) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+4. 🎉 Merged PR [#24](https://github.com/McPringle/pandemieende-updater/pull/24) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+5. 🎉 Merged PR [#22](https://github.com/McPringle/pandemieende-updater/pull/22) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
