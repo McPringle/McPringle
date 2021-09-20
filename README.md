@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/komunumo/komunumo-server/issues/8) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#39](https://github.com/komunumo/komunumo-server/issues/39) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#97](https://github.com/komunumo/komunumo-server/pull/97) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#96](https://github.com/komunumo/komunumo-server/pull/96) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#25](https://github.com/McPringle/pandemieende-updater/pull/25) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🎉 Merged PR [#99](https://github.com/komunumo/komunumo-server/pull/99) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#20](https://github.com/McPringle/kotlin-ee/pull/20) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+3. 🎉 Merged PR [#20](https://github.com/McPringle/kotlin-mapdb-demo/pull/20) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+4. ❗️ Closed issue [#8](https://github.com/komunumo/komunumo-server/issues/8) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Closed issue [#39](https://github.com/komunumo/komunumo-server/issues/39) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
