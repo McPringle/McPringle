@@ -54,11 +54,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- FATMANCYCLING:START -->
+- [Bodensee Radmarathon 2021 abgesagt](https://fatmancycling.tours/de/2021/09/01/Bodensee-Radmarathon-2021-abgesagt/)
+- [Lake Constance Cycling Marathon 2021 Cancelled](https://fatmancycling.tours/en/2020/09/01/Lake-Constance-Cycling-Marathon-2021-cancelled/)
 - [Erste Videos zu meiner Deutschlandfahrt 2020](https://fatmancycling.tours/de/2020/08/11/Deutschlandfahrt-2020-Videos/)
 - [First Videos of my Bikepacking Germany 2020](https://fatmancycling.tours/en/2020/08/11/Bikepacking-Germany-2020-Videos/)
 - [Bodensee Radmarathon 2020 abgesagt](https://fatmancycling.tours/de/2020/08/08/Bodensee-Radmarathon-2020-abgesagt/)
-- [Lake Constance Cycling Marathon 2020 Cancelled](https://fatmancycling.tours/en/2020/08/08/Lake-Constance-Cycling-Marathon-2020-cancelled/)
-- [Deutschlandfahrt 2020](https://fatmancycling.tours/de/2020/06/25/Deutschlandfahrt-2020/)
 <!-- FATMANCYCLING:END -->
 
 ➡️ [more blog posts...][blog]
