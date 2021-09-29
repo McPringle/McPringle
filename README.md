@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#103](https://github.com/komunumo/komunumo-server/pull/103) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Closed issue [#38](https://github.com/komunumo/komunumo-server/issues/38) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#102](https://github.com/komunumo/komunumo-server/pull/102) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#28](https://github.com/McPringle/pandemieende-updater/pull/28) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. ❗️ Opened issue [#10](https://github.com/OlliTietavainenVaadin/file-download-wrapper/issues/10) in [OlliTietavainenVaadin/file-download-wrapper](https://github.com/OlliTietavainenVaadin/file-download-wrapper)
+2. 🎉 Merged PR [#103](https://github.com/komunumo/komunumo-server/pull/103) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#41](https://github.com/komunumo/komunumo-server/issues/41) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#38](https://github.com/komunumo/komunumo-server/issues/38) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🎉 Merged PR [#102](https://github.com/komunumo/komunumo-server/pull/102) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
