@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-2. 🗣 Commented on [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-3. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-4. ❗️ Opened issue [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-5. 🗣 Commented on [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+1. ❌ Closed PR [#1](https://github.com/McPringle/vaadin21-enhanceddatetimepicker/pull/1) in [McPringle/vaadin21-enhanceddatetimepicker](https://github.com/McPringle/vaadin21-enhanceddatetimepicker)
+2. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+3. ❗️ Closed issue [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+4. 🗣 Commented on [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+5. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
