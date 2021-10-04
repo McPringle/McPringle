@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#55](https://github.com/komunumo/komunumo-server/issues/55) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❌ Closed PR [#1](https://github.com/McPringle/vaadin21-enhanceddatetimepicker/pull/1) in [McPringle/vaadin21-enhanceddatetimepicker](https://github.com/McPringle/vaadin21-enhanceddatetimepicker)
-4. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-5. ❗️ Closed issue [#1](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/1) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+1. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+2. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+3. ❗️ Opened issue [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#55](https://github.com/komunumo/komunumo-server/issues/55) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❌ Closed PR [#1](https://github.com/McPringle/vaadin21-enhanceddatetimepicker/pull/1) in [McPringle/vaadin21-enhanceddatetimepicker](https://github.com/McPringle/vaadin21-enhanceddatetimepicker)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
