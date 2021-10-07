@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#377](https://github.com/zdila/gpx-animator/issues/377) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 🎉 Merged PR [#29](https://github.com/McPringle/pandemieende-updater/pull/29) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-3. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+1. 🗣 Commented on [#176](https://github.com/zdila/gpx-animator/issues/176) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. ❗️ Opened issue [#377](https://github.com/zdila/gpx-animator/issues/377) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🎉 Merged PR [#29](https://github.com/McPringle/pandemieende-updater/pull/29) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
 4. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-5. ❗️ Opened issue [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
