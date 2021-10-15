@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-2. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
-3. 🎉 Merged PR [#106](https://github.com/komunumo/komunumo-server/pull/106) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#32](https://github.com/McPringle/pandemieende-updater/pull/32) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-5. 🎉 Merged PR [#30](https://github.com/McPringle/pandemieende-updater/pull/30) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. ❗️ Opened issue [#109](https://github.com/komunumo/komunumo-server/issues/109) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#108](https://github.com/komunumo/komunumo-server/issues/108) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+4. 🗣 Commented on [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+5. 🎉 Merged PR [#106](https://github.com/komunumo/komunumo-server/pull/106) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
