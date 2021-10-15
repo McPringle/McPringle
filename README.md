@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#107](https://github.com/komunumo/komunumo-server/pull/107) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#109](https://github.com/komunumo/komunumo-server/issues/109) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#109](https://github.com/komunumo/komunumo-server/issues/109) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#108](https://github.com/komunumo/komunumo-server/issues/108) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Closed issue [#7](https://github.com/vaadin-component-factory/enhanced-date-time-picker/issues/7) in [vaadin-component-factory/enhanced-date-time-picker](https://github.com/vaadin-component-factory/enhanced-date-time-picker)
+1. ❗️ Closed issue [#108](https://github.com/komunumo/komunumo-server/issues/108) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#107](https://github.com/komunumo/komunumo-server/pull/107) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#109](https://github.com/komunumo/komunumo-server/issues/109) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#109](https://github.com/komunumo/komunumo-server/issues/109) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#108](https://github.com/komunumo/komunumo-server/issues/108) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
