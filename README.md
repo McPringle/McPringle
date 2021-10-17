@@ -68,11 +68,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deutschlandfahrt 2020 Tag 25 von Kaiserslautern nach Haguenau](https://www.youtube.com/watch?v=cyCoXojlCF4)
 - [Deutschlandfahrt 2020 Tag 24 von Bacharach nach Kaiserslautern](https://www.youtube.com/watch?v=JPh_cZiOHFY)
 - [Deutschlandfahrt 2020 Tag 23 von Königswinter nach Bacharach](https://www.youtube.com/watch?v=SRDHJz9Hd1k)
 - [Deutschlandfahrt 2020 Tag 22 von Wattenscheid nach Königswinter](https://www.youtube.com/watch?v=I3wq5NCXpMI)
 - [Deutschlandfahrt 2020 Tag 21 von Münster nach Wattenscheid](https://www.youtube.com/watch?v=J1UXRuW9POY)
-- [Deutschlandfahrt 2020 Tag 20 von Damme nach Münster](https://www.youtube.com/watch?v=t3yJrX0_1I8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
