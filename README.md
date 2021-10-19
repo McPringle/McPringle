@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#75](https://github.com/komunumo/komunumo-server/issues/75) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#110](https://github.com/komunumo/komunumo-server/issues/110) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Closed issue [#108](https://github.com/komunumo/komunumo-server/issues/108) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#107](https://github.com/komunumo/komunumo-server/pull/107) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#8](https://github.com/McPringle/java-date-time-demo/pull/8) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
+2. 🎉 Merged PR [#6](https://github.com/McPringle/friday/pull/6) in [McPringle/friday](https://github.com/McPringle/friday)
+3. 🎉 Merged PR [#8](https://github.com/McPringle/dockmatic/pull/8) in [McPringle/dockmatic](https://github.com/McPringle/dockmatic)
+4. ❗️ Closed issue [#75](https://github.com/komunumo/komunumo-server/issues/75) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#110](https://github.com/komunumo/komunumo-server/issues/110) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
