@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/McPringle/pandemieende-updater/pull/34) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-2. ❗️ Opened issue [#112](https://github.com/komunumo/komunumo-server/issues/112) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#111](https://github.com/komunumo/komunumo-server/issues/111) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-enhanceddatepicker-weeknumber-bug](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug)
-5. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-datetimepicker-weeknumber-bug](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug)
+1. 🎉 Merged PR [#384](https://github.com/zdila/gpx-animator/pull/384) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#383](https://github.com/zdila/gpx-animator/issues/383) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🎉 Merged PR [#383](https://github.com/zdila/gpx-animator/pull/383) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🎉 Merged PR [#34](https://github.com/McPringle/pandemieende-updater/pull/34) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+5. ❗️ Opened issue [#112](https://github.com/komunumo/komunumo-server/issues/112) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
