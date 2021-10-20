@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#112](https://github.com/komunumo/komunumo-server/issues/112) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#111](https://github.com/komunumo/komunumo-server/issues/111) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-enhanceddatepicker-weeknumber-bug](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug)
-4. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-datetimepicker-weeknumber-bug](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug)
-5. 🎉 Merged PR [#8](https://github.com/McPringle/java-date-time-demo/pull/8) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
+1. 🎉 Merged PR [#34](https://github.com/McPringle/pandemieende-updater/pull/34) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+2. ❗️ Opened issue [#112](https://github.com/komunumo/komunumo-server/issues/112) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#111](https://github.com/komunumo/komunumo-server/issues/111) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-enhanceddatepicker-weeknumber-bug](https://github.com/McPringle/vaadin-enhanceddatepicker-weeknumber-bug)
+5. 🎉 Merged PR [#2](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug/pull/2) in [McPringle/vaadin-datetimepicker-weeknumber-bug](https://github.com/McPringle/vaadin-datetimepicker-weeknumber-bug)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
