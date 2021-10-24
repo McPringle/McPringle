@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#63](https://github.com/komunumo/komunumo-server/issues/63) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#113](https://github.com/komunumo/komunumo-server/pull/113) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Closed issue [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#384](https://github.com/zdila/gpx-animator/pull/384) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. 🗣 Commented on [#383](https://github.com/zdila/gpx-animator/issues/383) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🗣 Commented on [#16](https://github.com/vaadin-component-factory/multi-combo-box-flow/issues/16) in [vaadin-component-factory/multi-combo-box-flow](https://github.com/vaadin-component-factory/multi-combo-box-flow)
+2. ❗️ Closed issue [#63](https://github.com/komunumo/komunumo-server/issues/63) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#113](https://github.com/komunumo/komunumo-server/pull/113) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#105](https://github.com/komunumo/komunumo-server/issues/105) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🎉 Merged PR [#384](https://github.com/zdila/gpx-animator/pull/384) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
