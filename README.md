@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/komunumo/komunumo-server/pull/116) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#114](https://github.com/komunumo/komunumo-server/issues/114) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#92](https://github.com/gatanaso/multiselect-combo-box-flow/issues/92) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
-4. ❗️ Opened issue [#13](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/13) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
-5. 🎉 Merged PR [#115](https://github.com/komunumo/komunumo-server/pull/115) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#35](https://github.com/McPringle/pandemieende-updater/pull/35) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+2. 🎉 Merged PR [#116](https://github.com/komunumo/komunumo-server/pull/116) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#114](https://github.com/komunumo/komunumo-server/issues/114) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#92](https://github.com/gatanaso/multiselect-combo-box-flow/issues/92) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
+5. ❗️ Opened issue [#13](https://github.com/vaadin-component-factory/enhanced-date-picker/issues/13) in [vaadin-component-factory/enhanced-date-picker](https://github.com/vaadin-component-factory/enhanced-date-picker)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
