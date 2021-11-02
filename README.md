@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#118](https://github.com/komunumo/komunumo-server/issues/118) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 💪 Opened PR [#20](https://github.com/remotemobprogramming/intellij-mob/pull/20) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
-3. ❗️ Opened issue [#19](https://github.com/remotemobprogramming/intellij-mob/issues/19) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
-4. ❗️ Opened issue [#117](https://github.com/komunumo/komunumo-server/issues/117) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#35](https://github.com/McPringle/pandemieende-updater/pull/35) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🎉 Merged PR [#120](https://github.com/komunumo/komunumo-server/pull/120) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#119](https://github.com/komunumo/komunumo-server/pull/119) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#118](https://github.com/komunumo/komunumo-server/issues/118) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 💪 Opened PR [#20](https://github.com/remotemobprogramming/intellij-mob/pull/20) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
+5. ❗️ Opened issue [#19](https://github.com/remotemobprogramming/intellij-mob/issues/19) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
