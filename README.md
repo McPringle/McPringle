@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#121](https://github.com/komunumo/komunumo-server/issues/121) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
-3. ❗️ Opened issue [#125](https://github.com/komunumo/komunumo-server/issues/125) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#124](https://github.com/komunumo/komunumo-server/issues/124) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#123](https://github.com/komunumo/komunumo-server/issues/123) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Opened issue [#127](https://github.com/komunumo/komunumo-server/issues/127) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#126](https://github.com/komunumo/komunumo-server/issues/126) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#125](https://github.com/komunumo/komunumo-server/issues/125) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#121](https://github.com/komunumo/komunumo-server/issues/121) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
