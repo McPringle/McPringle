@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
-2. 🗣 Commented on [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
-3. ❗️ Opened issue [#127](https://github.com/komunumo/komunumo-server/issues/127) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#126](https://github.com/komunumo/komunumo-server/issues/126) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Closed issue [#125](https://github.com/komunumo/komunumo-server/issues/125) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#21](https://github.com/McPringle/kotlin-ee/pull/21) in [McPringle/kotlin-ee](https://github.com/McPringle/kotlin-ee)
+2. 🎉 Merged PR [#21](https://github.com/McPringle/kotlin-mapdb-demo/pull/21) in [McPringle/kotlin-mapdb-demo](https://github.com/McPringle/kotlin-mapdb-demo)
+3. 🎉 Merged PR [#10](https://github.com/McPringle/java-date-time-demo/pull/10) in [McPringle/java-date-time-demo](https://github.com/McPringle/java-date-time-demo)
+4. 🗣 Commented on [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
+5. 🗣 Commented on [#13](https://github.com/mcollovati/vaadin-twitter-widgets/issues/13) in [mcollovati/vaadin-twitter-widgets](https://github.com/mcollovati/vaadin-twitter-widgets)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
