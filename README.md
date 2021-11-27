@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/McPringle/pandemieende-updater/pull/40) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
-2. 🎉 Merged PR [#133](https://github.com/komunumo/komunumo-server/pull/133) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#132](https://github.com/komunumo/komunumo-server/pull/132) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🗣 Commented on [#20](https://github.com/remotemobprogramming/intellij-mob/issues/20) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
-5. 🗣 Commented on [#390](https://github.com/zdila/gpx-animator/issues/390) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. ❗️ Opened issue [#134](https://github.com/komunumo/komunumo-server/issues/134) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#40](https://github.com/McPringle/pandemieende-updater/pull/40) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+3. 🎉 Merged PR [#133](https://github.com/komunumo/komunumo-server/pull/133) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#132](https://github.com/komunumo/komunumo-server/pull/132) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#20](https://github.com/remotemobprogramming/intellij-mob/issues/20) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
