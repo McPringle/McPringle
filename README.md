@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#167](https://github.com/komunumo/komunumo-server/issues/167) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#157](https://github.com/komunumo/komunumo-server/issues/157) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#20](https://github.com/remotemobprogramming/intellij-mob/issues/20) in [remotemobprogramming/intellij-mob](https://github.com/remotemobprogramming/intellij-mob)
-4. ❗️ Opened issue [#166](https://github.com/komunumo/komunumo-server/issues/166) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#165](https://github.com/komunumo/komunumo-server/issues/165) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Opened issue [#171](https://github.com/komunumo/komunumo-server/issues/171) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#170](https://github.com/komunumo/komunumo-server/issues/170) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#169](https://github.com/komunumo/komunumo-server/issues/169) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#168](https://github.com/komunumo/komunumo-server/issues/168) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#167](https://github.com/komunumo/komunumo-server/issues/167) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
