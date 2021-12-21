@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#173](https://github.com/komunumo/komunumo-server/issues/173) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#172](https://github.com/komunumo/komunumo-server/issues/172) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 💪 Opened PR [#326](https://github.com/hackergarten/hackergarten.github.io/pull/326) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. ❗️ Opened issue [#171](https://github.com/komunumo/komunumo-server/issues/171) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#170](https://github.com/komunumo/komunumo-server/issues/170) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Closed issue [#59](https://github.com/komunumo/komunumo-server/issues/59) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#59](https://github.com/komunumo/komunumo-server/issues/59) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#58](https://github.com/komunumo/komunumo-server/issues/58) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#174](https://github.com/komunumo/komunumo-server/issues/174) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Opened issue [#173](https://github.com/komunumo/komunumo-server/issues/173) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
