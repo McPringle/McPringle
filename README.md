@@ -1,14 +1,14 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [Komunumo](https://komunumo.org/), [GPX Animator](https://gpx-animator.app/), and [Pandemieende.ch](https://pandemieende.ch/)
+- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/), [Komunumo](https://komunumo.org/), and [Pandemieende.ch](https://pandemieende.ch/)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
-- 📫 How to reach me: In the [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
+- 📫 How to reach me: In the public [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
 - 🥅 2022 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
 - ⚡ Fun fact: In 2019 [I crossed the USA with my bicycle (from Atlantic to Pacific)](https://locatoweb.com/map/single/1238186268) (~7'200 km), and in 2023 I will do that again on my Gravel bike.
+- 🤔 I’m looking for help with [GPX Animator](https://github.com/zdila/gpx-animator) and [Komunumo](https://github.com/komunumo)
+- 💬 Ask me about speaking at the [Java User Group Switzerland](https://www.jug.ch/) or everything about bikepacking
 <!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: ...
 -->
 
@@ -30,18 +30,33 @@
 
 ### Main Languages and Tools:
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" title="Visual Studio Code" width="40" height="40"/> <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+<span>
+    <img width="48" height="48" alt="Java" title="Java" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" />
+    <img width="48" height="48" alt="Kotlin" title="Kotlin" src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original.svg" />
+    <img width="48" height="48" alt="Spring" title="Spring" src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" />
+    <img width="48" height="48" alt="HTML5" title="HTML5" src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" />
+    <img width="48" height="48" alt="CSS3" title="CSS3" src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" />
+    <img width="48" height="48" alt="JavaScript" title="JavaScript" src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" />
+    <img width="48" height="48" alt="git" title="git" src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" />
+    <img width="48" height="48" alt="GitHub" title="GitHub" src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" />
+    <img width="48" height="48" alt="Gradle" title="Gradle" src="https://github.com/devicons/devicon/raw/master/icons/gradle/gradle-plain.svg" />
+    <img width="48" height="48" alt="Docker" title="Docker" src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" />
+    <img width="48" height="48" alt="MySQL" title="MySQL" src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg" />
+    <img width="48" height="48" alt="IntelliJ" title="IntelliJ" src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" />
+    <img width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" src="https://github.com/devicons/devicon/raw/master/icons/visualstudio/visualstudio-plain.svg" />
+    <img width="48" height="48" alt="Slack" title="Slack" src="https://github.com/devicons/devicon/raw/master/icons/slack/slack-original.svg" />
+</span>
 
 ---
 
 ### 📕 Latest Blog Post (de/en)
 
 <!-- KEEPONROLLING:START -->
+- [Bodensee Radmarathon 2021 abgesagt](https://fatmancycling.tours/de/2021/09/01/Bodensee-Radmarathon-2021-abgesagt/)
+- [Lake Constance Cycling Marathon 2021 Cancelled](https://fatmancycling.tours/en/2020/09/01/Lake-Constance-Cycling-Marathon-2021-cancelled/)
 - [Erste Videos zu meiner Deutschlandfahrt 2020](https://fatmancycling.tours/de/2020/08/11/Deutschlandfahrt-2020-Videos/)
 - [First Videos of my Bikepacking Germany 2020](https://fatmancycling.tours/en/2020/08/11/Bikepacking-Germany-2020-Videos/)
 - [Bodensee Radmarathon 2020 abgesagt](https://fatmancycling.tours/de/2020/08/08/Bodensee-Radmarathon-2020-abgesagt/)
-- [Lake Constance Cycling Marathon 2020 Cancelled](https://fatmancycling.tours/en/2020/08/08/Lake-Constance-Cycling-Marathon-2020-cancelled/)
-- [Deutschlandfahrt 2020](https://fatmancycling.tours/de/2020/06/25/Deutschlandfahrt-2020/)
 <!-- KEEPONROLLING:END -->
 
 ➡️ [more blog posts...][blog]
@@ -51,11 +66,11 @@
 ### 📺 Latest YouTube Videos (de)
 
 <!-- YOUTUBE:START -->
+- [Deutschlandfahrt 2020 Tag 25 von Kaiserslautern nach Haguenau](https://www.youtube.com/watch?v=cyCoXojlCF4)
+- [Deutschlandfahrt 2020 Tag 24 von Bacharach nach Kaiserslautern](https://www.youtube.com/watch?v=JPh_cZiOHFY)
 - [Deutschlandfahrt 2020 Tag 23 von Königswinter nach Bacharach](https://www.youtube.com/watch?v=SRDHJz9Hd1k)
 - [Deutschlandfahrt 2020 Tag 22 von Wattenscheid nach Königswinter](https://www.youtube.com/watch?v=I3wq5NCXpMI)
 - [Deutschlandfahrt 2020 Tag 21 von Münster nach Wattenscheid](https://www.youtube.com/watch?v=J1UXRuW9POY)
-- [Deutschlandfahrt 2020 Tag 20 von Damme nach Münster](https://www.youtube.com/watch?v=t3yJrX0_1I8)
-- [Deutschlandfahrt 2020 Tag 19 von Worpswede nach Damme](https://www.youtube.com/watch?v=qmMSg3wKRlw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -65,17 +80,17 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-2. 🗣 Commented on [#1](https://github.com/McPringle/pandemieende/issues/1) in [McPringle/pandemieende](https://github.com/McPringle/pandemieende)
-3. 🗣 Commented on [#321](https://github.com/zdila/gpx-animator/issues/321) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 💪 Opened PR [#323](https://github.com/hackergarten/hackergarten.github.io/pull/323) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❗️ Opened issue [#331](https://github.com/zdila/gpx-animator/issues/331) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+1. 🎉 Merged PR [#192](https://github.com/komunumo/komunumo-server/pull/192) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#53](https://github.com/McPringle/pandemieende-updater/pull/53) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+3. 🎉 Merged PR [#178](https://github.com/komunumo/komunumo-server/pull/178) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#52](https://github.com/McPringle/pandemieende-updater/pull/52) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+5. ❗️ Opened issue [#191](https://github.com/komunumo/komunumo-server/issues/191) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
-![My GitHub stats](https://github-readme-stats.mcpringle.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
 
 <!-- Disabled, because there is something wrong with the calculation (87% JavaScript and only 2% Java can't be correct)!
-![My Top Languages](https://github-readme-stats.mcpringle.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=McPringle&langs_count=5)
 -->
 
 [website]: https://fihlon.swiss/
