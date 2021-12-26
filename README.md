@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on [Komunumo](https://komunumo.org/), [GPX Animator](https://gpx-animator.app/), and [Pandemieende.ch](https://pandemieende.ch/)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
 - 📫 How to reach me: In the [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
-- 🥅 2021 Goal: Writing a book about Webengineering
-- ⚡ Fun fact: In 2019 [I crossed the USA with my bicycle (from Atlantic to Pacific)](https://locatoweb.com/map/single/1238186268) (~7'000 km)
+- 🥅 2022 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
+- ⚡ Fun fact: In 2019 [I crossed the USA with my bicycle (from Atlantic to Pacific)](https://locatoweb.com/map/single/1238186268) (~7'200 km), and in 2023 I will do that again on my Gravel bike.
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
