@@ -102,5 +102,5 @@
 [github]: https://github.com/McPringle/
 [strava]: https://www.strava.com/athletes/38507092
 [komoot]: https://www.komoot.de/user/306059768140
-[blog]: https://fatmancycling.tours/
+[blog]: https://keep-on-rolling.ch/
 [youtube]: https://www.youtube.com/channel/UCVPiWk3TEQtNnuRFmYnafyw
