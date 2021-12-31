@@ -80,11 +80,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#205](https://github.com/komunumo/komunumo-server/issues/205) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#207](https://github.com/komunumo/komunumo-server/issues/207) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Closed issue [#206](https://github.com/komunumo/komunumo-server/issues/206) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#206](https://github.com/komunumo/komunumo-server/issues/206) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#205](https://github.com/komunumo/komunumo-server/issues/205) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🗣 Commented on [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+2. 🗣 Commented on [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+3. ❗️ Opened issue [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+4. ❗️ Closed issue [#169](https://github.com/komunumo/komunumo-server/issues/169) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Closed issue [#170](https://github.com/komunumo/komunumo-server/issues/170) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
