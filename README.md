@@ -80,11 +80,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#208](https://github.com/komunumo/komunumo-server/pull/208) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#209](https://github.com/komunumo/komunumo-server/issues/209) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+1. ❗️ Closed issue [#111](https://github.com/komunumo/komunumo-server/issues/111) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❌ Closed PR [#208](https://github.com/komunumo/komunumo-server/pull/208) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#209](https://github.com/komunumo/komunumo-server/issues/209) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 4. 🗣 Commented on [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
-5. ❗️ Opened issue [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+5. 🗣 Commented on [#35](https://github.com/alejandro-du/report-ui/issues/35) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
