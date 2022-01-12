@@ -55,8 +55,8 @@
 ### 📕 Latest Blog Post (de/en)
 
 <!-- KEEPONROLLING:START -->
+- [Rapha Festive 500](https://keep-on-rolling.ch/de/2022/01/01/Rapha-Festive-500/)
 - [Keep On Rolling](https://keep-on-rolling.ch/de/2021/12/26/Keep-On-Rolling/)
-- [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/Keep-On-Rolling/)
 <!-- KEEPONROLLING:END -->
 
 ➡️ [more blog posts...][blog]
