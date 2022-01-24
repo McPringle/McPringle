@@ -66,11 +66,11 @@
 ### 📺 Latest YouTube Videos (de)
 
 <!-- YOUTUBE:START -->
+- [Deutschlandfahrt 2020 Tag 28 von Erlinsbach nach Luzern](https://www.youtube.com/watch?v=YlAab6w53l4)
 - [Deutschlandfahrt 2020 Tag 27 von Neuf-Brisach nach Erlinsbach](https://www.youtube.com/watch?v=IRCYcadegxA)
 - [Deutschlandfahrt 2020 Tag 26 von Haguenau nach Neuf-Brisach](https://www.youtube.com/watch?v=CoYF7YifdK4)
 - [Deutschlandfahrt 2020 Tag 25 von Kaiserslautern nach Haguenau](https://www.youtube.com/watch?v=cyCoXojlCF4)
 - [Deutschlandfahrt 2020 Tag 24 von Bacharach nach Kaiserslautern](https://www.youtube.com/watch?v=JPh_cZiOHFY)
-- [Deutschlandfahrt 2020 Tag 23 von Königswinter nach Bacharach](https://www.youtube.com/watch?v=SRDHJz9Hd1k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
