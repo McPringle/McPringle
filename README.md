@@ -80,11 +80,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#243](https://github.com/komunumo/komunumo-server/issues/243) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#242](https://github.com/komunumo/komunumo-server/issues/242) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#242](https://github.com/komunumo/komunumo-server/issues/242) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Opened issue [#239](https://github.com/komunumo/komunumo-server/issues/239) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Closed issue [#237](https://github.com/komunumo/komunumo-server/issues/237) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Opened issue [#244](https://github.com/komunumo/komunumo-server/issues/244) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Opened issue [#4](https://github.com/minicli/action-contributors/issues/4) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
+3. 💪 Opened PR [#3](https://github.com/minicli/action-contributors/pull/3) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
+4. 🗣 Commented on [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
+5. ❗️ Opened issue [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
