@@ -25,7 +25,8 @@
 [<img align="left" alt="my Twitter account" title="my Twitter account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="my LinkedIn profile" title="my LinkedIn profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="my GitHub profile" title="my GitHub profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="my GitHub profile" title="Vaadin Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="my StackOverflow profile" title="my StackOverflow profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Vaadin Discord Server" title="Vaadin Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="my Strava profile" title="my Strava profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />][strava]
 [<img align="left" alt="my Komoot profile" title="my Komoot profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
 [<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][blog]
@@ -98,6 +99,7 @@
 [twitter]: https://twitter.com/McPringle
 [linkedin]: https://www.linkedin.com/in/fihlon/
 [github]: https://github.com/McPringle/
+[stackoverflow]: https://stackoverflow.com/users/2428631/mcpringle
 [discord]: https://vaad.in/chat
 [strava]: https://www.strava.com/athletes/38507092
 [komoot]: https://www.komoot.de/user/306059768140
