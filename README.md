@@ -82,11 +82,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#244](https://github.com/komunumo/komunumo-server/issues/244) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#4](https://github.com/minicli/action-contributors/issues/4) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-3. 💪 Opened PR [#3](https://github.com/minicli/action-contributors/pull/3) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-4. 🗣 Commented on [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-5. ❗️ Opened issue [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
+1. ❗️ Closed issue [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#395](https://github.com/zdila/gpx-animator/issues/395) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#395](https://github.com/zdila/gpx-animator/issues/395) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
