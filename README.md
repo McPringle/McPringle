@@ -58,8 +58,8 @@
 ### 📕 Latest Blog Post (de/en)
 
 <!-- KEEPONROLLING:START -->
-- [Rapha Festive 500](https://keep-on-rolling.ch/de/2022/01/01/Rapha-Festive-500/)
 - [Keep On Rolling](https://keep-on-rolling.ch/de/2021/12/26/Keep-On-Rolling/)
+- [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/Keep-On-Rolling/)
 <!-- KEEPONROLLING:END -->
 
 ➡️ [more blog posts...][blog]
@@ -69,11 +69,11 @@
 ### 📺 Latest YouTube Videos (de)
 
 <!-- YOUTUBE:START -->
+- [Velotaxi: Vierwaldstättersee / Lake Lucerne](https://www.youtube.com/watch?v=ujTze6DQMYI)
 - [Deutschlandfahrt 2020 Tag 28 von Erlinsbach nach Luzern](https://www.youtube.com/watch?v=YlAab6w53l4)
 - [Deutschlandfahrt 2020 Tag 27 von Neuf-Brisach nach Erlinsbach](https://www.youtube.com/watch?v=IRCYcadegxA)
 - [Deutschlandfahrt 2020 Tag 26 von Haguenau nach Neuf-Brisach](https://www.youtube.com/watch?v=CoYF7YifdK4)
 - [Deutschlandfahrt 2020 Tag 25 von Kaiserslautern nach Haguenau](https://www.youtube.com/watch?v=cyCoXojlCF4)
-- [Deutschlandfahrt 2020 Tag 24 von Bacharach nach Kaiserslautern](https://www.youtube.com/watch?v=JPh_cZiOHFY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -83,11 +83,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#244](https://github.com/komunumo/komunumo-server/issues/244) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#4](https://github.com/minicli/action-contributors/issues/4) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-3. 💪 Opened PR [#3](https://github.com/minicli/action-contributors/pull/3) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-4. 🗣 Commented on [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-5. ❗️ Opened issue [#2](https://github.com/minicli/action-contributors/issues/2) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
+1. 🗣 Commented on [#396](https://github.com/zdila/gpx-animator/issues/396) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. ❗️ Closed issue [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🗣 Commented on [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Closed issue [#395](https://github.com/zdila/gpx-animator/issues/395) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
