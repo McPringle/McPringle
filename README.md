@@ -83,11 +83,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#397](https://github.com/zdila/gpx-animator/issues/397) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Reopened issue [#395](https://github.com/zdila/gpx-animator/issues/395) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🗣 Commented on [#395](https://github.com/zdila/gpx-animator/issues/395) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#396](https://github.com/zdila/gpx-animator/issues/396) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-5. ❗️ Closed issue [#245](https://github.com/komunumo/komunumo-server/issues/245) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Closed issue [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🗣 Commented on [#11](https://github.com/callmekatootie/carbonate/issues/11) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
+4. 💪 Opened PR [#12](https://github.com/callmekatootie/carbonate/pull/12) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
+5. 🗣 Commented on [#11](https://github.com/callmekatootie/carbonate/issues/11) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
