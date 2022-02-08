@@ -79,11 +79,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#234](https://github.com/komunumo/komunumo-server/issues/234) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Closed issue [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🗣 Commented on [#11](https://github.com/callmekatootie/carbonate/issues/11) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
-5. 💪 Opened PR [#12](https://github.com/callmekatootie/carbonate/pull/12) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
+1. 🗣 Commented on [#2690](https://github.com/vaadin/platform/issues/2690) in [vaadin/platform](https://github.com/vaadin/platform)
+2. ❗️ Closed issue [#234](https://github.com/komunumo/komunumo-server/issues/234) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Closed issue [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#247](https://github.com/komunumo/komunumo-server/issues/247) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#11](https://github.com/callmekatootie/carbonate/issues/11) in [callmekatootie/carbonate](https://github.com/callmekatootie/carbonate)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
