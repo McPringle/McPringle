@@ -79,11 +79,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#92](https://github.com/gatanaso/multiselect-combo-box-flow/issues/92) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
-2. 🗣 Commented on [#94](https://github.com/gatanaso/multiselect-combo-box-flow/issues/94) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
-3. ❗️ Opened issue [#249](https://github.com/komunumo/komunumo-server/issues/249) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#238](https://github.com/komunumo/komunumo-server/pull/238) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🗣 Commented on [#2690](https://github.com/vaadin/platform/issues/2690) in [vaadin/platform](https://github.com/vaadin/platform)
+1. ❗️ Opened issue [#250](https://github.com/komunumo/komunumo-server/issues/250) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#92](https://github.com/gatanaso/multiselect-combo-box-flow/issues/92) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
+3. 🗣 Commented on [#94](https://github.com/gatanaso/multiselect-combo-box-flow/issues/94) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
+4. ❗️ Opened issue [#249](https://github.com/komunumo/komunumo-server/issues/249) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🎉 Merged PR [#238](https://github.com/komunumo/komunumo-server/pull/238) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
