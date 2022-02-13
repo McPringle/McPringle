@@ -79,11 +79,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#250](https://github.com/komunumo/komunumo-server/issues/250) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🗣 Commented on [#92](https://github.com/gatanaso/multiselect-combo-box-flow/issues/92) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
-3. 🗣 Commented on [#94](https://github.com/gatanaso/multiselect-combo-box-flow/issues/94) in [gatanaso/multiselect-combo-box-flow](https://github.com/gatanaso/multiselect-combo-box-flow)
-4. ❗️ Opened issue [#249](https://github.com/komunumo/komunumo-server/issues/249) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#238](https://github.com/komunumo/komunumo-server/pull/238) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. ❗️ Closed issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗️ Reopened issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🗣 Commented on [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Closed issue [#249](https://github.com/komunumo/komunumo-server/issues/249) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Closed issue [#250](https://github.com/komunumo/komunumo-server/issues/250) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
