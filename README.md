@@ -79,11 +79,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5846](https://github.com/ShareX/ShareX/issues/5846) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+1. ❌ Closed PR [#63](https://github.com/McPringle/pandemieende-updater/pull/63) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
 2. 🗣 Commented on [#5846](https://github.com/ShareX/ShareX/issues/5846) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
-3. ❗️ Closed issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗️ Reopened issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🗣 Commented on [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🗣 Commented on [#5846](https://github.com/ShareX/ShareX/issues/5846) in [ShareX/ShareX](https://github.com/ShareX/ShareX)
+4. ❗️ Closed issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗️ Reopened issue [#144](https://github.com/komunumo/komunumo-server/issues/144) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
