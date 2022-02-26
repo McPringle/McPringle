@@ -55,14 +55,23 @@
 
 ---
 
-### 📕 Latest Blog Post (de/en)
+### 📕 Latest Personal Blog Posts
 
-<!-- KEEPONROLLING:START -->
+<!-- PERSONALBLOG:START -->
+<!-- PERSONALBLOG:END -->
+
+➡️ [more blog posts...][personalblog]
+
+---
+
+### 🚴‍ Latest Cycling Blog Posts
+
+<!-- CYCLINGBLOG:START -->
 - [Keep On Rolling](https://keep-on-rolling.ch/de/2021/12/26/Keep-On-Rolling/)
 - [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/Keep-On-Rolling/)
-<!-- KEEPONROLLING:END -->
+<!-- CYCLINGBLOG:END -->
 
-➡️ [more blog posts...][blog]
+➡️ [more blog posts...][cyclingblog]
 
 ---
 
@@ -100,5 +109,6 @@
 [discord]: https://vaad.in/chat
 [strava]: https://www.strava.com/athletes/38507092
 [komoot]: https://www.komoot.de/user/306059768140
-[blog]: https://keep-on-rolling.ch/
+[personalblog]: https://fihlon.swiss/
+[cyclingblog]: https://keep-on-rolling.ch/
 [youtube]: https://www.youtube.com/channel/UCVPiWk3TEQtNnuRFmYnafyw
