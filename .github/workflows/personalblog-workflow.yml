@@ -1,4 +1,4 @@
-name: Keep On Rolling workflow
+name: Personal blog workflow
 
 on:
   schedule: # Run workflow automatically
