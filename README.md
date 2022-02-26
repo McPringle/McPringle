@@ -55,7 +55,7 @@
 
 ---
 
-### 📕 Latest Personal Blog Posts
+### 📕 Latest Personal Blog Posts 🇩🇪 🇬🇧
 
 <!-- PERSONALBLOG:START -->
 - [Reset](https://fihlon.swiss/en/post/reset/)
@@ -65,7 +65,7 @@
 
 ---
 
-### 🚴‍ Latest Cycling Blog Posts
+### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
 - [Keep On Rolling](https://keep-on-rolling.ch/de/2021/12/26/Keep-On-Rolling/)
@@ -79,7 +79,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos (de)
+### 📺 Latest YouTube Videos 🇩🇪
 
 <!-- YOUTUBE:START -->
 - [Velotaxi: Vierwaldstättersee / Lake Lucerne](https://www.youtube.com/watch?v=ujTze6DQMYI)
