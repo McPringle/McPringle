@@ -81,8 +81,8 @@
 
 ### 📺 Latest YouTube Videos 🇩🇪
 
-<!-- YOUTUBE:START -->
-- [Velotaxi: Vierwaldstättersee / Lake Lucerne](https://www.youtube.com/watch?v=ujTze6DQMYI)
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ujTze6DQMYI"><img width="140px" src="https://i.ytimg.com/vi/ujTze6DQMYI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ujTze6DQMYI">Velotaxi: Vierwaldstättersee / Lake Lucerne</a><br/>Sat Jan 29 2022 11:00 PM</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
