@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/), [Komunumo](https://komunumo.org/), and [Pandemieende.ch](https://pandemieende.ch/)
+- 🔭 I’m currently working on [GPX Animator](https://gpx-animator.app/) and [Komunumo](https://komunumo.org/)
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [jOOQ](https://www.jooq.org/)
 - 📫 How to reach me: In the public [Slack channel](https://jugch.slack.com/) of the [Java User Group Switzerland](https://www.jug.ch/) (get a free [Invite](http://slack.jug.ch/))
 - 🥅 2022 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
