@@ -30,7 +30,8 @@
 [<img align="left" alt="Vaadin Discord Server" title="Vaadin Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="my Strava profile" title="my Strava profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/strava.svg" />][strava]
 [<img align="left" alt="my Komoot profile" title="my Komoot profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/komoot.svg" />][komoot]
-[<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jekyll.svg" />][blog]
+[<img align="left" alt="my cycling blog" title="my personal blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />][personalblog]
+[<img align="left" alt="my cycling blog" title="my cycling blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hugo.svg" />][cyclingblog]
 [<img align="left" alt="my cycling videos" title="my cycling videos" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 <br clear="all"/>
 
