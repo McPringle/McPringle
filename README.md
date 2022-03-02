@@ -93,11 +93,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#310](https://github.com/lxndrblz/anatole/issues/310) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🗣 Commented on [#315](https://github.com/lxndrblz/anatole/issues/315) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-3. ❗️ Opened issue [#315](https://github.com/lxndrblz/anatole/issues/315) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-4. ❗️ Opened issue [#313](https://github.com/lxndrblz/anatole/issues/313) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-5. ❗️ Opened issue [#310](https://github.com/lxndrblz/anatole/issues/310) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+1. ❗️ Closed issue [#310](https://github.com/lxndrblz/anatole/issues/310) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+2. 🗣 Commented on [#310](https://github.com/lxndrblz/anatole/issues/310) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+3. 🗣 Commented on [#310](https://github.com/lxndrblz/anatole/issues/310) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🗣 Commented on [#315](https://github.com/lxndrblz/anatole/issues/315) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. ❗️ Opened issue [#315](https://github.com/lxndrblz/anatole/issues/315) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
