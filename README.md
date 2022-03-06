@@ -93,11 +93,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#263](https://github.com/komunumo/komunumo-server/pull/263) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#265](https://github.com/komunumo/komunumo-server/pull/265) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#3](https://github.com/McPringle/McPringle/pull/3) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
-4. ❌ Reopened PR [#3](https://github.com/McPringle/McPringle/pull/3) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
-5. 🎉 Merged PR [#69](https://github.com/McPringle/pandemieende-updater/pull/69) in [McPringle/pandemieende-updater](https://github.com/McPringle/pandemieende-updater)
+1. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
+2. ❗️ Opened issue [#275](https://github.com/komunumo/komunumo-server/issues/275) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗️ Opened issue [#274](https://github.com/komunumo/komunumo-server/issues/274) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
+5. 🗣 Commented on [#329](https://github.com/hackergarten/hackergarten.github.io/issues/329) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
