@@ -93,11 +93,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
-2. ❗️ Opened issue [#275](https://github.com/komunumo/komunumo-server/issues/275) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗️ Opened issue [#274](https://github.com/komunumo/komunumo-server/issues/274) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
-5. 🗣 Commented on [#329](https://github.com/hackergarten/hackergarten.github.io/issues/329) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 💪 Opened PR [#330](https://github.com/hackergarten/hackergarten.github.io/pull/330) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
+3. ❗️ Opened issue [#275](https://github.com/komunumo/komunumo-server/issues/275) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗️ Opened issue [#274](https://github.com/komunumo/komunumo-server/issues/274) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
