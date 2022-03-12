@@ -69,11 +69,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
-- [Keep On Rolling](https://keep-on-rolling.ch/de/2021/12/26/Keep-On-Rolling/)
-- [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/Keep-On-Rolling/)
-- [Bodensee Radmarathon 2021 abgesagt](https://keep-on-rolling.ch/de/2021/09/01/Bodensee-Radmarathon-2021-abgesagt/)
-- [Lake Constance Cycling Marathon 2021 Cancelled](https://keep-on-rolling.ch/en/2020/09/01/Lake-Constance-Cycling-Marathon-2021-cancelled/)
-- [Erste Videos zu meiner Deutschlandfahrt 2020](https://keep-on-rolling.ch/de/2020/08/11/Deutschlandfahrt-2020-Videos/)
+- [Redesign &amp; Reboot](https://keep-on-rolling.ch/en/2022/03/09/redesign-reboot/)
+- [Live](https://keep-on-rolling.ch/en/live/)
+- [Videos](https://keep-on-rolling.ch/en/videos/)
+- [Imprint](https://keep-on-rolling.ch/en/imprint/)
+- [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/keep-on-rolling/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
