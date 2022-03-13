@@ -19,7 +19,7 @@ jobs:
           commit_message: Updating latest personal blog posts
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://keep-on-rolling.ch/en/index.xml"
+          feed_list: "https://keep-on-rolling.ch/en/blog/index.xml"
           max_post_count: 5
           comment_tag_name: CYCLINGBLOG
           commit_message: Updating latest cycling blog posts
