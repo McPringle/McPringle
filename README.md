@@ -71,9 +71,7 @@
 <!-- CYCLINGBLOG:START -->
 - [Black Friday](https://keep-on-rolling.ch/en/2022/03/12/black-friday/)
 - [Redesign &amp; Reboot](https://keep-on-rolling.ch/en/2022/03/09/redesign-reboot/)
-- [Live](https://keep-on-rolling.ch/en/live/)
-- [Videos](https://keep-on-rolling.ch/en/videos/)
-- [Imprint](https://keep-on-rolling.ch/en/imprint/)
+- [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/keep-on-rolling/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
