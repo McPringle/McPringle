@@ -69,6 +69,7 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
+- [Goodbye Rotor](https://keep-on-rolling.ch/en/2022/03/14/goodbye-rotor/)
 - [Black Friday](https://keep-on-rolling.ch/en/2022/03/12/black-friday/)
 - [Redesign &amp; Reboot](https://keep-on-rolling.ch/en/2022/03/09/redesign-reboot/)
 - [Keep On Rolling](https://keep-on-rolling.ch/en/2021/12/26/keep-on-rolling/)
