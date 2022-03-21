@@ -59,7 +59,7 @@
 ### 📕 Latest Personal Blog Posts 🇩🇪 🇬🇧
 
 <!-- PERSONALBLOG:START -->
-- [Reset](https://fihlon.swiss/en/post/reset/)
+- [Reset](https://fihlon.swiss/en/post/2022-02-25_reset/)
 <!-- PERSONALBLOG:END -->
 
 ➡️ [more blog posts...][personalblog]
