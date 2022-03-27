@@ -93,11 +93,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#841](https://github.com/adityatelange/hugo-PaperMod/issues/841) in [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-2. 💪 Opened PR [#330](https://github.com/hackergarten/hackergarten.github.io/pull/330) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🗣 Commented on [#3707](https://github.com/apache/netbeans/issues/3707) in [apache/netbeans](https://github.com/apache/netbeans)
-4. ❗️ Opened issue [#275](https://github.com/komunumo/komunumo-server/issues/275) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. ❗️ Opened issue [#274](https://github.com/komunumo/komunumo-server/issues/274) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🎉 Merged PR [#16](https://github.com/McPringle/dummySMTP/pull/16) in [McPringle/dummySMTP](https://github.com/McPringle/dummySMTP)
+2. 🎉 Merged PR [#15](https://github.com/McPringle/dummySMTP/pull/15) in [McPringle/dummySMTP](https://github.com/McPringle/dummySMTP)
+3. 🎉 Merged PR [#14](https://github.com/McPringle/dummySMTP/pull/14) in [McPringle/dummySMTP](https://github.com/McPringle/dummySMTP)
+4. 🎉 Merged PR [#13](https://github.com/McPringle/dummySMTP/pull/13) in [McPringle/dummySMTP](https://github.com/McPringle/dummySMTP)
+5. 🎉 Merged PR [#12](https://github.com/McPringle/dummySMTP/pull/12) in [McPringle/dummySMTP](https://github.com/McPringle/dummySMTP)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
