@@ -59,7 +59,7 @@
 ### 📕 Latest Personal Blog Posts 🇩🇪 🇬🇧
 
 <!-- PERSONALBLOG:START -->
-- [Is Scrum still up to date?](https://fihlon.swiss/en/post/2022-04-16_scrum/)
+- [My Projects](https://fihlon.swiss/en/post/2022-05-07_projects/)
 - [Reset](https://fihlon.swiss/en/post/2022-02-25_reset/)
 <!-- PERSONALBLOG:END -->
 
