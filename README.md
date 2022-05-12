@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#382](https://github.com/zdila/gpx-animator/issues/382) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Closed issue [#396](https://github.com/zdila/gpx-animator/issues/396) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🎉 Merged PR [#302](https://github.com/komunumo/komunumo-server/pull/302) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🗣 Commented on [#3358](https://github.com/vaadin/web-components/issues/3358) in [vaadin/web-components](https://github.com/vaadin/web-components)
-5. 🗣 Commented on [#334](https://github.com/hackergarten/hackergarten.github.io/issues/334) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. ❗️ Opened issue [#1066](https://github.com/rubenlagus/TelegramBots/issues/1066) in [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots)
+2. ❗️ Opened issue [#1065](https://github.com/rubenlagus/TelegramBots/issues/1065) in [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots)
+3. ❗️ Closed issue [#382](https://github.com/zdila/gpx-animator/issues/382) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. ❗️ Closed issue [#396](https://github.com/zdila/gpx-animator/issues/396) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🎉 Merged PR [#302](https://github.com/komunumo/komunumo-server/pull/302) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
