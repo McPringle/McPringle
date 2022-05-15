@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/chatbot-workshop/java-telegram-workshop/pull/7) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-2. 🎉 Merged PR [#11](https://github.com/chatbot-workshop/java-telegram-workshop/pull/11) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-3. 🗣 Commented on [#1066](https://github.com/rubenlagus/TelegramBots/issues/1066) in [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots)
-4. 🎉 Merged PR [#2](https://github.com/McPringle/jsr-354-demo/pull/2) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
-5. 🎉 Merged PR [#3](https://github.com/McPringle/jsr-354-demo/pull/3) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
+1. 💪 Opened PR [#337](https://github.com/hackergarten/hackergarten.github.io/pull/337) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🎉 Merged PR [#7](https://github.com/chatbot-workshop/java-telegram-workshop/pull/7) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+3. 🎉 Merged PR [#11](https://github.com/chatbot-workshop/java-telegram-workshop/pull/11) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+4. 🗣 Commented on [#1066](https://github.com/rubenlagus/TelegramBots/issues/1066) in [rubenlagus/TelegramBots](https://github.com/rubenlagus/TelegramBots)
+5. 🎉 Merged PR [#2](https://github.com/McPringle/jsr-354-demo/pull/2) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
