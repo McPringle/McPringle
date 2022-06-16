@@ -70,11 +70,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
+- [Around Lake Lucerne](https://keep-on-rolling.ch/en/2022/05/15/around-lake-lucerne/)
 - [First Hundred](https://keep-on-rolling.ch/en/2022/04/17/first-hundred/)
 - [On the Road Again](https://keep-on-rolling.ch/en/2022/04/09/on-the-road-again/)
 - [Hello SRAM](https://keep-on-rolling.ch/en/2022/03/17/hello-sram/)
 - [Goodbye Rotor](https://keep-on-rolling.ch/en/2022/03/14/goodbye-rotor/)
-- [Black Friday](https://keep-on-rolling.ch/en/2022/03/12/black-friday/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
