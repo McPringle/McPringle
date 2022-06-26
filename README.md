@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#369](https://github.com/lxndrblz/anatole/issues/369) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-3. ❗️ Opened issue [#369](https://github.com/lxndrblz/anatole/issues/369) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-4. 🎉 Merged PR [#306](https://github.com/komunumo/komunumo-server/pull/306) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#285](https://github.com/komunumo/komunumo-server/pull/285) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 💪 Opened PR [#338](https://github.com/hackergarten/hackergarten.github.io/pull/338) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🗣 Commented on [#369](https://github.com/lxndrblz/anatole/issues/369) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+3. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. ❗️ Opened issue [#369](https://github.com/lxndrblz/anatole/issues/369) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. 🎉 Merged PR [#306](https://github.com/komunumo/komunumo-server/pull/306) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
