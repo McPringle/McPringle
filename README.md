@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🎉 Merged PR [#4](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/4) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
-3. 🎉 Merged PR [#5](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/5) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
-4. 🎉 Merged PR [#2](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/2) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-5. 🎉 Merged PR [#3](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/3) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+1. 💪 Opened PR [#339](https://github.com/hackergarten/hackergarten.github.io/pull/339) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#44](https://github.com/adoptium/jmc-build/pull/44) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
+3. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🎉 Merged PR [#4](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/4) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
+5. 🎉 Merged PR [#5](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/5) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
