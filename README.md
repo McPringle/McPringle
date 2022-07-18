@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#340](https://github.com/hackergarten/hackergarten.github.io/pull/340) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#339](https://github.com/hackergarten/hackergarten.github.io/pull/339) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 💪 Opened PR [#44](https://github.com/adoptium/jmc-build/pull/44) in [adoptium/jmc-build](https://github.com/adoptium/jmc-build)
-4. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-5. 🎉 Merged PR [#4](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/4) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
+1. ❗️ Closed issue [#411](https://github.com/zdila/gpx-animator/issues/411) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. 🗣 Commented on [#411](https://github.com/zdila/gpx-animator/issues/411) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. ❗️ Closed issue [#409](https://github.com/zdila/gpx-animator/issues/409) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#409](https://github.com/zdila/gpx-animator/issues/409) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+5. 🗣 Commented on [#407](https://github.com/zdila/gpx-animator/issues/407) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
