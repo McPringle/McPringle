@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#943](https://github.com/jreleaser/jreleaser/pull/943) in [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser)
-2. 💪 Opened PR [#34](https://github.com/jreleaser/jreleaser.github.io/pull/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
-3. ❗️ Opened issue [#344](https://github.com/komunumo/komunumo-server/issues/344) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#2](https://github.com/keep-on-rolling/keep-on-rolling.github.io/pull/2) in [keep-on-rolling/keep-on-rolling.github.io](https://github.com/keep-on-rolling/keep-on-rolling.github.io)
-5. 🎉 Merged PR [#342](https://github.com/komunumo/komunumo-server/pull/342) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 💪 Opened PR [#20](https://github.com/ijug-ev/JavaLand/pull/20) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
+2. 💪 Opened PR [#348](https://github.com/hackergarten/hackergarten.github.io/pull/348) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. ❌ Closed PR [#34](https://github.com/jreleaser/jreleaser.github.io/pull/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
+4. 🗣 Commented on [#34](https://github.com/jreleaser/jreleaser.github.io/issues/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
+5. 💪 Opened PR [#347](https://github.com/hackergarten/hackergarten.github.io/pull/347) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
