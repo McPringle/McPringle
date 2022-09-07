@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/ijug-ev/JavaLand/pull/20) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-2. 💪 Opened PR [#348](https://github.com/hackergarten/hackergarten.github.io/pull/348) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❌ Closed PR [#34](https://github.com/jreleaser/jreleaser.github.io/pull/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
-4. 🗣 Commented on [#34](https://github.com/jreleaser/jreleaser.github.io/issues/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
-5. 💪 Opened PR [#347](https://github.com/hackergarten/hackergarten.github.io/pull/347) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 💪 Opened PR [#52](https://github.com/kordamp/gm/pull/52) in [kordamp/gm](https://github.com/kordamp/gm)
+2. 💪 Opened PR [#20](https://github.com/ijug-ev/JavaLand/pull/20) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
+3. 💪 Opened PR [#348](https://github.com/hackergarten/hackergarten.github.io/pull/348) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. ❌ Closed PR [#34](https://github.com/jreleaser/jreleaser.github.io/pull/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
+5. 🗣 Commented on [#34](https://github.com/jreleaser/jreleaser.github.io/issues/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
