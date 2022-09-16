@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#418](https://github.com/zdila/gpx-animator/issues/418) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. 💪 Opened PR [#52](https://github.com/kordamp/gm/pull/52) in [kordamp/gm](https://github.com/kordamp/gm)
-3. 💪 Opened PR [#20](https://github.com/ijug-ev/JavaLand/pull/20) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-4. 💪 Opened PR [#348](https://github.com/hackergarten/hackergarten.github.io/pull/348) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❌ Closed PR [#34](https://github.com/jreleaser/jreleaser.github.io/pull/34) in [jreleaser/jreleaser.github.io](https://github.com/jreleaser/jreleaser.github.io)
+1. 🎉 Merged PR [#8](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/8) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+2. 🎉 Merged PR [#9](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/9) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+3. 🎉 Merged PR [#18](https://github.com/chatbot-workshop/java-telegram-workshop/pull/18) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+4. 🎉 Merged PR [#20](https://github.com/chatbot-workshop/java-telegram-workshop/pull/20) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+5. 🎉 Merged PR [#19](https://github.com/chatbot-workshop/java-telegram-workshop/pull/19) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
