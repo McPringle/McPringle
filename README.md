@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/8) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-2. 🎉 Merged PR [#9](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/9) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-3. 🎉 Merged PR [#18](https://github.com/chatbot-workshop/java-telegram-workshop/pull/18) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-4. 🎉 Merged PR [#20](https://github.com/chatbot-workshop/java-telegram-workshop/pull/20) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-5. 🎉 Merged PR [#19](https://github.com/chatbot-workshop/java-telegram-workshop/pull/19) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+1. 🎉 Merged PR [#14](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/14) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
+2. 🎉 Merged PR [#7](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/7) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
+3. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🎉 Merged PR [#10](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/10) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+5. 🎉 Merged PR [#25](https://github.com/chatbot-workshop/java-telegram-workshop/pull/25) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
