@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/jsr-354-demo/pull/4) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
-2. 🎉 Merged PR [#15](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/15) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
-3. 🎉 Merged PR [#14](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/14) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
-4. 🎉 Merged PR [#7](https://github.com/chatbot-workshop/java-messenger-watchdog/pull/7) in [chatbot-workshop/java-messenger-watchdog](https://github.com/chatbot-workshop/java-messenger-watchdog)
-5. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+1. ❗️ Opened issue [#12](https://github.com/marmota-app/feedback/issues/12) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+2. ❗️ Opened issue [#11](https://github.com/marmota-app/feedback/issues/11) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+3. ❗️ Opened issue [#10](https://github.com/marmota-app/feedback/issues/10) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+4. ❗️ Opened issue [#9](https://github.com/marmota-app/feedback/issues/9) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+5. ❗️ Opened issue [#8](https://github.com/marmota-app/feedback/issues/8) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
