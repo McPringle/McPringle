@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/chatbot-workshop/java-telegram-workshop/pull/26) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-2. 🎉 Merged PR [#27](https://github.com/chatbot-workshop/java-telegram-workshop/pull/27) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-3. 🎉 Merged PR [#12](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/12) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-4. 🎉 Merged PR [#11](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/11) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-5. ❗️ Opened issue [#384](https://github.com/lxndrblz/anatole/issues/384) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+1. 🗣 Commented on [#10](https://github.com/marmota-app/feedback/issues/10) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+2. 🎉 Merged PR [#26](https://github.com/chatbot-workshop/java-telegram-workshop/pull/26) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+3. 🎉 Merged PR [#27](https://github.com/chatbot-workshop/java-telegram-workshop/pull/27) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+4. 🎉 Merged PR [#12](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/12) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+5. 🎉 Merged PR [#11](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/11) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
