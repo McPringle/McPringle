@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/marmota-app/feedback/issues/10) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
-2. 🎉 Merged PR [#26](https://github.com/chatbot-workshop/java-telegram-workshop/pull/26) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-3. 🎉 Merged PR [#27](https://github.com/chatbot-workshop/java-telegram-workshop/pull/27) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-4. 🎉 Merged PR [#12](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/12) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
-5. 🎉 Merged PR [#11](https://github.com/chatbot-workshop/kotlin-slack-hello/pull/11) in [chatbot-workshop/kotlin-slack-hello](https://github.com/chatbot-workshop/kotlin-slack-hello)
+1. 🗣 Commented on [#417](https://github.com/zdila/gpx-animator/issues/417) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+2. ❗️ Closed issue [#417](https://github.com/zdila/gpx-animator/issues/417) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+3. 🎉 Merged PR [#422](https://github.com/zdila/gpx-animator/pull/422) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
+4. 🗣 Commented on [#10](https://github.com/marmota-app/feedback/issues/10) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
+5. 🎉 Merged PR [#26](https://github.com/chatbot-workshop/java-telegram-workshop/pull/26) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
