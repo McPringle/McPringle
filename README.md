@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#417](https://github.com/zdila/gpx-animator/issues/417) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-2. ❗️ Closed issue [#417](https://github.com/zdila/gpx-animator/issues/417) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-3. 🎉 Merged PR [#422](https://github.com/zdila/gpx-animator/pull/422) in [zdila/gpx-animator](https://github.com/zdila/gpx-animator)
-4. 🗣 Commented on [#10](https://github.com/marmota-app/feedback/issues/10) in [marmota-app/feedback](https://github.com/marmota-app/feedback)
-5. 🎉 Merged PR [#26](https://github.com/chatbot-workshop/java-telegram-workshop/pull/26) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+1. ❗️ Closed issue [#393](https://github.com/gpx-animator/gpx-animator/issues/393) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#393](https://github.com/gpx-animator/gpx-animator/issues/393) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#384](https://github.com/lxndrblz/anatole/issues/384) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🗣 Commented on [#421](https://github.com/gpx-animator/gpx-animator/issues/421) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Closed issue [#418](https://github.com/gpx-animator/gpx-animator/issues/418) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
