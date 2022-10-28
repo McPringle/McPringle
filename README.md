@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/pirxthepilot/wtfis/issues/22) in [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis)
-2. ❗️ Closed issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗️ Opened issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. ❗️ Closed issue [#388](https://github.com/gpx-animator/gpx-animator/issues/388) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#388](https://github.com/gpx-animator/gpx-animator/issues/388) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 💪 Opened PR [#353](https://github.com/hackergarten/hackergarten.github.io/pull/353) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. ❗️ Opened issue [#22](https://github.com/pirxthepilot/wtfis/issues/22) in [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis)
+3. ❗️ Closed issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗️ Opened issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Closed issue [#388](https://github.com/gpx-animator/gpx-animator/issues/388) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
