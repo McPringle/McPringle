@@ -70,11 +70,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
+- [The smart travels in the course](https://keep-on-rolling.ch/en/2022/05/24/the-smart-travels-in-the-course/)
 - [Passo Monte Ceneri](https://keep-on-rolling.ch/en/2022/05/23/passo-monte-ceneri/)
 - [The Gotthard Pass](https://keep-on-rolling.ch/en/2022/05/22/the-gotthard-pass/)
 - [To Venice by Bicycle](https://keep-on-rolling.ch/en/2022/05/21/to-venice-by-bicycle/)
 - [Around Lake Lucerne](https://keep-on-rolling.ch/en/2022/05/15/around-lake-lucerne/)
-- [First Hundred](https://keep-on-rolling.ch/en/2022/04/17/first-hundred/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
