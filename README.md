@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#106](https://github.com/openapi-tools/swagger-maven-plugin/issues/106) in [openapi-tools/swagger-maven-plugin](https://github.com/openapi-tools/swagger-maven-plugin)
-2. 💪 Opened PR [#353](https://github.com/hackergarten/hackergarten.github.io/pull/353) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❗️ Opened issue [#22](https://github.com/pirxthepilot/wtfis/issues/22) in [pirxthepilot/wtfis](https://github.com/pirxthepilot/wtfis)
-4. ❗️ Closed issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❗️ Opened issue [#426](https://github.com/gpx-animator/gpx-animator/issues/426) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 💪 Opened PR [#11](https://github.com/marchof/javabubble/pull/11) in [marchof/javabubble](https://github.com/marchof/javabubble)
+2. ❗️ Closed issue [#245](https://github.com/gpx-animator/gpx-animator/issues/245) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#245](https://github.com/gpx-animator/gpx-animator/issues/245) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#428](https://github.com/gpx-animator/gpx-animator/pull/428) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Opened issue [#106](https://github.com/openapi-tools/swagger-maven-plugin/issues/106) in [openapi-tools/swagger-maven-plugin](https://github.com/openapi-tools/swagger-maven-plugin)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
