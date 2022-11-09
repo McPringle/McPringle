@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#438](https://github.com/gpx-animator/gpx-animator/pull/438) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🎉 Merged PR [#437](https://github.com/gpx-animator/gpx-animator/pull/437) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗️ Closed issue [#432](https://github.com/gpx-animator/gpx-animator/issues/432) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#432](https://github.com/gpx-animator/gpx-animator/issues/432) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#436](https://github.com/gpx-animator/gpx-animator/issues/436) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
+2. ❗️ Opened issue [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
+3. 🎉 Merged PR [#438](https://github.com/gpx-animator/gpx-animator/pull/438) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#437](https://github.com/gpx-animator/gpx-animator/pull/437) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Closed issue [#432](https://github.com/gpx-animator/gpx-animator/issues/432) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
