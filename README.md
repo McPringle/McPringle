@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
-2. ❗️ Opened issue [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
-3. 🎉 Merged PR [#438](https://github.com/gpx-animator/gpx-animator/pull/438) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#437](https://github.com/gpx-animator/gpx-animator/pull/437) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❗️ Closed issue [#432](https://github.com/gpx-animator/gpx-animator/issues/432) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🎉 Merged PR [#380](https://github.com/komunumo/komunumo-server/pull/380) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#15](https://github.com/fenwick67/mastofeed/issues/15) in [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed)
+3. 💪 Opened PR [#357](https://github.com/hackergarten/hackergarten.github.io/pull/357) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
+5. ❗️ Opened issue [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
