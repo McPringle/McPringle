@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#380](https://github.com/komunumo/komunumo-server/pull/380) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🗣 Commented on [#15](https://github.com/fenwick67/mastofeed/issues/15) in [fenwick67/mastofeed](https://github.com/fenwick67/mastofeed)
-3. 💪 Opened PR [#357](https://github.com/hackergarten/hackergarten.github.io/pull/357) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
-5. ❗️ Opened issue [#70](https://github.com/marchof/javabubble/issues/70) in [marchof/javabubble](https://github.com/marchof/javabubble)
+1. 🗣 Commented on [#28](https://github.com/vaadin-component-factory/multiselect-combo-box/issues/28) in [vaadin-component-factory/multiselect-combo-box](https://github.com/vaadin-component-factory/multiselect-combo-box)
+2. 🎉 Merged PR [#28](https://github.com/chatbot-workshop/java-telegram-workshop/pull/28) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+3. 🎉 Merged PR [#29](https://github.com/chatbot-workshop/java-telegram-workshop/pull/29) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+4. 🎉 Merged PR [#30](https://github.com/chatbot-workshop/java-telegram-workshop/pull/30) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+5. 🎉 Merged PR [#380](https://github.com/komunumo/komunumo-server/pull/380) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
