@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/alejandro-du/report-ui/issues/36) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
-2. ❗️ Opened issue [#37](https://github.com/alejandro-du/report-ui/issues/37) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
-3. 🗣 Commented on [#28](https://github.com/vaadin-component-factory/multiselect-combo-box/issues/28) in [vaadin-component-factory/multiselect-combo-box](https://github.com/vaadin-component-factory/multiselect-combo-box)
-4. 🎉 Merged PR [#28](https://github.com/chatbot-workshop/java-telegram-workshop/pull/28) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
-5. 🎉 Merged PR [#29](https://github.com/chatbot-workshop/java-telegram-workshop/pull/29) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+1. 💪 Opened PR [#100](https://github.com/marchof/javabubble/pull/100) in [marchof/javabubble](https://github.com/marchof/javabubble)
+2. 🗣 Commented on [#36](https://github.com/alejandro-du/report-ui/issues/36) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+3. ❗️ Opened issue [#37](https://github.com/alejandro-du/report-ui/issues/37) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
+4. 🗣 Commented on [#28](https://github.com/vaadin-component-factory/multiselect-combo-box/issues/28) in [vaadin-component-factory/multiselect-combo-box](https://github.com/vaadin-component-factory/multiselect-combo-box)
+5. 🎉 Merged PR [#28](https://github.com/chatbot-workshop/java-telegram-workshop/pull/28) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
