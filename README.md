@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#100](https://github.com/marchof/javabubble/pull/100) in [marchof/javabubble](https://github.com/marchof/javabubble)
-2. 🗣 Commented on [#36](https://github.com/alejandro-du/report-ui/issues/36) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
-3. ❗️ Opened issue [#37](https://github.com/alejandro-du/report-ui/issues/37) in [alejandro-du/report-ui](https://github.com/alejandro-du/report-ui)
-4. 🗣 Commented on [#28](https://github.com/vaadin-component-factory/multiselect-combo-box/issues/28) in [vaadin-component-factory/multiselect-combo-box](https://github.com/vaadin-component-factory/multiselect-combo-box)
-5. 🎉 Merged PR [#28](https://github.com/chatbot-workshop/java-telegram-workshop/pull/28) in [chatbot-workshop/java-telegram-workshop](https://github.com/chatbot-workshop/java-telegram-workshop)
+1. ❗️ Opened issue [#1057](https://github.com/jreleaser/jreleaser/issues/1057) in [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser)
+2. ❗️ Closed issue [#313](https://github.com/lxndrblz/anatole/issues/313) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+3. 🗣 Commented on [#313](https://github.com/lxndrblz/anatole/issues/313) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🗣 Commented on [#384](https://github.com/lxndrblz/anatole/issues/384) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. ❗️ Opened issue [#399](https://github.com/lxndrblz/anatole/issues/399) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
