@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1057](https://github.com/jreleaser/jreleaser/issues/1057) in [jreleaser/jreleaser](https://github.com/jreleaser/jreleaser)
-2. ❗️ Closed issue [#313](https://github.com/lxndrblz/anatole/issues/313) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-3. 🗣 Commented on [#313](https://github.com/lxndrblz/anatole/issues/313) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-4. 🗣 Commented on [#384](https://github.com/lxndrblz/anatole/issues/384) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-5. ❗️ Opened issue [#399](https://github.com/lxndrblz/anatole/issues/399) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+1. 🎉 Merged PR [#2](https://github.com/McPringle/javaland-sternfahrt-2023/pull/2) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+2. 🎉 Merged PR [#1](https://github.com/McPringle/javaland-sternfahrt-2023/pull/1) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+3. ❗️ Closed issue [#460](https://github.com/gpx-animator/gpx-animator/issues/460) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#461](https://github.com/gpx-animator/gpx-animator/pull/461) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#461](https://github.com/gpx-animator/gpx-animator/issues/461) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
