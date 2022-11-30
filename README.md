@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/javaland-sternfahrt-2023/pull/4) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-2. 🎉 Merged PR [#3](https://github.com/McPringle/javaland-sternfahrt-2023/pull/3) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-3. 🎉 Merged PR [#2](https://github.com/McPringle/javaland-sternfahrt-2023/pull/2) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-4. 🎉 Merged PR [#1](https://github.com/McPringle/javaland-sternfahrt-2023/pull/1) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-5. ❗️ Closed issue [#460](https://github.com/gpx-animator/gpx-animator/issues/460) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 💪 Opened PR [#155](https://github.com/marchof/javabubble/pull/155) in [marchof/javabubble](https://github.com/marchof/javabubble)
+2. 🎉 Merged PR [#4](https://github.com/McPringle/javaland-sternfahrt-2023/pull/4) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+3. 🎉 Merged PR [#3](https://github.com/McPringle/javaland-sternfahrt-2023/pull/3) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+4. 🎉 Merged PR [#2](https://github.com/McPringle/javaland-sternfahrt-2023/pull/2) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+5. 🎉 Merged PR [#1](https://github.com/McPringle/javaland-sternfahrt-2023/pull/1) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
