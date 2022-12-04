@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/hackergarten/hackergarten.github.io/issues/359) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#360](https://github.com/hackergarten/hackergarten.github.io/pull/360) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 💪 Opened PR [#155](https://github.com/marchof/javabubble/pull/155) in [marchof/javabubble](https://github.com/marchof/javabubble)
-4. 🎉 Merged PR [#4](https://github.com/McPringle/javaland-sternfahrt-2023/pull/4) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-5. 🎉 Merged PR [#3](https://github.com/McPringle/javaland-sternfahrt-2023/pull/3) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+1. ❗️ Reopened issue [#454](https://github.com/gpx-animator/gpx-animator/issues/454) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. ❗️ Reopened issue [#453](https://github.com/gpx-animator/gpx-animator/issues/453) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#458](https://github.com/gpx-animator/gpx-animator/issues/458) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#465](https://github.com/gpx-animator/gpx-animator/pull/465) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 💪 Opened PR [#465](https://github.com/gpx-animator/gpx-animator/pull/465) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
