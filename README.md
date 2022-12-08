@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#454](https://github.com/gpx-animator/gpx-animator/issues/454) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. ❗️ Reopened issue [#453](https://github.com/gpx-animator/gpx-animator/issues/453) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#458](https://github.com/gpx-animator/gpx-animator/issues/458) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#465](https://github.com/gpx-animator/gpx-animator/pull/465) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 💪 Opened PR [#465](https://github.com/gpx-animator/gpx-animator/pull/465) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 💪 Opened PR [#38](https://github.com/ijug-ev/JavaLand/pull/38) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
+2. ❗️ Reopened issue [#454](https://github.com/gpx-animator/gpx-animator/issues/454) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. ❗️ Reopened issue [#453](https://github.com/gpx-animator/gpx-animator/issues/453) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#458](https://github.com/gpx-animator/gpx-animator/issues/458) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🎉 Merged PR [#465](https://github.com/gpx-animator/gpx-animator/pull/465) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
