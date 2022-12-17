@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#384](https://github.com/komunumo/komunumo-server/pull/384) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#467](https://github.com/gpx-animator/gpx-animator/pull/467) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗️ Opened issue [#30](https://github.com/ybroeker/pmd-idea/issues/30) in [ybroeker/pmd-idea](https://github.com/ybroeker/pmd-idea)
-4. 💪 Opened PR [#38](https://github.com/ijug-ev/JavaLand/pull/38) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-5. ❗️ Reopened issue [#454](https://github.com/gpx-animator/gpx-animator/issues/454) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. ❌ Closed PR [#383](https://github.com/komunumo/komunumo-server/pull/383) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🗣 Commented on [#383](https://github.com/komunumo/komunumo-server/issues/383) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#6](https://github.com/McPringle/javaland-sternfahrt-2023/pull/6) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+4. 🗣 Commented on [#5](https://github.com/McPringle/javaland-sternfahrt-2023/issues/5) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+5. 🎉 Merged PR [#5](https://github.com/McPringle/javaland-sternfahrt-2023/pull/5) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
