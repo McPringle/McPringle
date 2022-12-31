@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#466](https://github.com/gpx-animator/gpx-animator/issues/466) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. ❗️ Closed issue [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. ❗️ Opened issue [#469](https://github.com/gpx-animator/gpx-animator/issues/469) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❌ Closed PR [#383](https://github.com/komunumo/komunumo-server/pull/383) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+2. 🗣 Commented on [#466](https://github.com/gpx-animator/gpx-animator/issues/466) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. ❗️ Closed issue [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Opened issue [#469](https://github.com/gpx-animator/gpx-animator/issues/469) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
