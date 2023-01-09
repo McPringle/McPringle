@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22954](https://github.com/mastodon/mastodon/issues/22954) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-2. 🗣 Commented on [#359](https://github.com/hackergarten/hackergarten.github.io/issues/359) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❗️ Opened issue [#22954](https://github.com/mastodon/mastodon/issues/22954) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-4. 🗣 Commented on [#361](https://github.com/hackergarten/hackergarten.github.io/issues/361) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🗣 Commented on [#361](https://github.com/hackergarten/hackergarten.github.io/issues/361) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#182](https://github.com/hackergarten/hackergarten.github.io/issues/182) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🗣 Commented on [#276](https://github.com/hackergarten/hackergarten.github.io/issues/276) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 🗣 Commented on [#275](https://github.com/hackergarten/hackergarten.github.io/issues/275) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🗣 Commented on [#182](https://github.com/hackergarten/hackergarten.github.io/issues/182) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. ❗️ Opened issue [#365](https://github.com/hackergarten/hackergarten.github.io/issues/365) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
