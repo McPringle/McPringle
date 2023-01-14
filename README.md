@@ -95,11 +95,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#387](https://github.com/komunumo/komunumo-server/pull/387) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+1. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+2. 🎉 Merged PR [#387](https://github.com/komunumo/komunumo-server/pull/387) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
 3. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-4. 🗣 Commented on [#4](https://github.com/minicli/action-contributors/issues/4) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-5. 🗣 Commented on [#182](https://github.com/hackergarten/hackergarten.github.io/issues/182) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+5. 🗣 Commented on [#4](https://github.com/minicli/action-contributors/issues/4) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
