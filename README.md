@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-2. 💪 Opened PR [#145](https://github.com/JavaMoney/jsr354-api/pull/145) in [JavaMoney/jsr354-api](https://github.com/JavaMoney/jsr354-api)
-3. ❌ Closed PR [#137](https://github.com/JavaMoney/jsr354-api/pull/137) in [JavaMoney/jsr354-api](https://github.com/JavaMoney/jsr354-api)
-4. 🗣 Commented on [#137](https://github.com/JavaMoney/jsr354-api/issues/137) in [JavaMoney/jsr354-api](https://github.com/JavaMoney/jsr354-api)
-5. 💪 Opened PR [#144](https://github.com/JavaMoney/jsr354-api/pull/144) in [JavaMoney/jsr354-api](https://github.com/JavaMoney/jsr354-api)
+1. 🗣 Commented on [#476](https://github.com/gpx-animator/gpx-animator/issues/476) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. ❗️ Closed issue [#387](https://github.com/gpx-animator/gpx-animator/issues/387) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#387](https://github.com/gpx-animator/gpx-animator/issues/387) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#476](https://github.com/gpx-animator/gpx-animator/pull/476) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
