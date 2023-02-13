@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. ❗️ Opened issue [#23549](https://github.com/mastodon/mastodon/issues/23549) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
 2. 🗣 Commented on [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#481](https://github.com/gpx-animator/gpx-animator/issues/481) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 💪 Opened PR [#372](https://github.com/hackergarten/hackergarten.github.io/pull/372) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🎉 Merged PR [#479](https://github.com/gpx-animator/gpx-animator/pull/479) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#427](https://github.com/gpx-animator/gpx-animator/issues/427) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#481](https://github.com/gpx-animator/gpx-animator/issues/481) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 💪 Opened PR [#372](https://github.com/hackergarten/hackergarten.github.io/pull/372) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
