@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#481](https://github.com/tumic0/GPXSee/issues/481) in [tumic0/GPXSee](https://github.com/tumic0/GPXSee)
-2. ❗️ Closed issue [#158](https://github.com/gpx-animator/gpx-animator/issues/158) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#158](https://github.com/gpx-animator/gpx-animator/issues/158) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#486](https://github.com/gpx-animator/gpx-animator/issues/486) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🎉 Merged PR [#486](https://github.com/gpx-animator/gpx-animator/pull/486) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#487](https://github.com/gpx-animator/gpx-animator/issues/487) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. ❗️ Closed issue [#487](https://github.com/gpx-animator/gpx-animator/issues/487) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#487](https://github.com/gpx-animator/gpx-animator/issues/487) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗️ Opened issue [#481](https://github.com/tumic0/GPXSee/issues/481) in [tumic0/GPXSee](https://github.com/tumic0/GPXSee)
+5. ❗️ Closed issue [#158](https://github.com/gpx-animator/gpx-animator/issues/158) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
