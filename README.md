@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#374](https://github.com/hackergarten/hackergarten.github.io/pull/374) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. ❗️ Opened issue [#13](https://github.com/minicli/action-contributors/issues/13) in [minicli/action-contributors](https://github.com/minicli/action-contributors)
-3. 💪 Opened PR [#373](https://github.com/hackergarten/hackergarten.github.io/pull/373) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. ❗️ Closed issue [#335](https://github.com/gpx-animator/gpx-animator/issues/335) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#335](https://github.com/gpx-animator/gpx-animator/issues/335) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#499](https://github.com/gpx-animator/gpx-animator/issues/499) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#18958](https://github.com/mastodon/mastodon/issues/18958) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+3. 🎉 Merged PR [#394](https://github.com/komunumo/komunumo-server/pull/394) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🗣 Commented on [#499](https://github.com/gpx-animator/gpx-animator/issues/499) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗️ Opened issue [#501](https://github.com/gpx-animator/gpx-animator/issues/501) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
