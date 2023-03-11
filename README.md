@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#399](https://github.com/komunumo/komunumo-server/pull/399) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#398](https://github.com/komunumo/komunumo-server/pull/398) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#5](https://github.com/McPringle/alfons/pull/5) in [McPringle/alfons](https://github.com/McPringle/alfons)
-4. 🎉 Merged PR [#3](https://github.com/McPringle/alfons/pull/3) in [McPringle/alfons](https://github.com/McPringle/alfons)
-5. 🎉 Merged PR [#2](https://github.com/McPringle/alfons/pull/2) in [McPringle/alfons](https://github.com/McPringle/alfons)
+1. 🎉 Merged PR [#503](https://github.com/gpx-animator/gpx-animator/pull/503) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🎉 Merged PR [#399](https://github.com/komunumo/komunumo-server/pull/399) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 🎉 Merged PR [#398](https://github.com/komunumo/komunumo-server/pull/398) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#5](https://github.com/McPringle/alfons/pull/5) in [McPringle/alfons](https://github.com/McPringle/alfons)
+5. 🎉 Merged PR [#3](https://github.com/McPringle/alfons/pull/3) in [McPringle/alfons](https://github.com/McPringle/alfons)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
