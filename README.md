@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#407](https://github.com/komunumo/komunumo-server/issues/407) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗️ Opened issue [#406](https://github.com/komunumo/komunumo-server/issues/406) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🎉 Merged PR [#503](https://github.com/gpx-animator/gpx-animator/pull/503) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#399](https://github.com/komunumo/komunumo-server/pull/399) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🎉 Merged PR [#398](https://github.com/komunumo/komunumo-server/pull/398) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+1. 🗣 Commented on [#151](https://github.com/tinfoil/devise-two-factor/issues/151) in [tinfoil/devise-two-factor](https://github.com/tinfoil/devise-two-factor)
+2. 🗣 Commented on [#10149](https://github.com/mastodon/mastodon/issues/10149) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+3. ❗️ Closed issue [#6](https://github.com/McPringle/alfons/issues/6) in [McPringle/alfons](https://github.com/McPringle/alfons)
+4. 🗣 Commented on [#6](https://github.com/McPringle/alfons/issues/6) in [McPringle/alfons](https://github.com/McPringle/alfons)
+5. ❗️ Opened issue [#6](https://github.com/McPringle/alfons/issues/6) in [McPringle/alfons](https://github.com/McPringle/alfons)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
