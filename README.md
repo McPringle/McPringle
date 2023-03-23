@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/McPringle/javaland-sternfahrt-2023/pull/10) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-2. 🎉 Merged PR [#8](https://github.com/McPringle/javaland-sternfahrt-2023/pull/8) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-3. 🗣 Commented on [#681](https://github.com/all-contributors/all-contributors/issues/681) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-4. 🗣 Commented on [#151](https://github.com/tinfoil/devise-two-factor/issues/151) in [tinfoil/devise-two-factor](https://github.com/tinfoil/devise-two-factor)
-5. 🗣 Commented on [#10149](https://github.com/mastodon/mastodon/issues/10149) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+1. 🎉 Merged PR [#11](https://github.com/McPringle/javaland-sternfahrt-2023/pull/11) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+2. 🎉 Merged PR [#10](https://github.com/McPringle/javaland-sternfahrt-2023/pull/10) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+3. 🎉 Merged PR [#8](https://github.com/McPringle/javaland-sternfahrt-2023/pull/8) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+4. 🗣 Commented on [#681](https://github.com/all-contributors/all-contributors/issues/681) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+5. 🗣 Commented on [#151](https://github.com/tinfoil/devise-two-factor/issues/151) in [tinfoil/devise-two-factor](https://github.com/tinfoil/devise-two-factor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
