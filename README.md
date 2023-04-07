@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#412](https://github.com/komunumo/komunumo-server/pull/412) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 🎉 Merged PR [#11](https://github.com/McPringle/javaland-sternfahrt-2023/pull/11) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-3. 🎉 Merged PR [#10](https://github.com/McPringle/javaland-sternfahrt-2023/pull/10) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-4. 🎉 Merged PR [#8](https://github.com/McPringle/javaland-sternfahrt-2023/pull/8) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-5. 🗣 Commented on [#681](https://github.com/all-contributors/all-contributors/issues/681) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
+1. 🗣 Commented on [#399](https://github.com/gpx-animator/gpx-animator/issues/399) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 💪 Opened PR [#2](https://github.com/ldziedziul/j/pull/2) in [ldziedziul/j](https://github.com/ldziedziul/j)
+3. 🎉 Merged PR [#412](https://github.com/komunumo/komunumo-server/pull/412) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. 🎉 Merged PR [#11](https://github.com/McPringle/javaland-sternfahrt-2023/pull/11) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+5. 🎉 Merged PR [#10](https://github.com/McPringle/javaland-sternfahrt-2023/pull/10) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
