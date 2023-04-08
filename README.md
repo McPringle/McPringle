@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#399](https://github.com/gpx-animator/gpx-animator/issues/399) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 💪 Opened PR [#2](https://github.com/ldziedziul/j/pull/2) in [ldziedziul/j](https://github.com/ldziedziul/j)
-3. 🎉 Merged PR [#412](https://github.com/komunumo/komunumo-server/pull/412) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 🎉 Merged PR [#11](https://github.com/McPringle/javaland-sternfahrt-2023/pull/11) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
-5. 🎉 Merged PR [#10](https://github.com/McPringle/javaland-sternfahrt-2023/pull/10) in [McPringle/javaland-sternfahrt-2023](https://github.com/McPringle/javaland-sternfahrt-2023)
+1. ❗️ Closed issue [#403](https://github.com/gpx-animator/gpx-animator/issues/403) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#403](https://github.com/gpx-animator/gpx-animator/issues/403) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#399](https://github.com/gpx-animator/gpx-animator/issues/399) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗️ Opened issue [#514](https://github.com/gpx-animator/gpx-animator/issues/514) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#319](https://github.com/gpx-animator/gpx-animator/issues/319) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
