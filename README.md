@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#403](https://github.com/komunumo/komunumo-server/pull/403) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. 💪 Opened PR [#382](https://github.com/hackergarten/hackergarten.github.io/pull/382) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❗️ Closed issue [#504](https://github.com/gpx-animator/gpx-animator/issues/504) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#504](https://github.com/gpx-animator/gpx-animator/issues/504) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❗️ Opened issue [#516](https://github.com/gpx-animator/gpx-animator/issues/516) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. ❗️ Opened issue [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+2. 🎉 Merged PR [#403](https://github.com/komunumo/komunumo-server/pull/403) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. 💪 Opened PR [#382](https://github.com/hackergarten/hackergarten.github.io/pull/382) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. ❗️ Closed issue [#504](https://github.com/gpx-animator/gpx-animator/issues/504) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#504](https://github.com/gpx-animator/gpx-animator/issues/504) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
