@@ -93,8 +93,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
 2. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
-3. 💪 Opened PR [#7](https://github.com/jhoffmann99/vaadin-trix-editor/pull/7) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
-4. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+3. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+4. 💪 Opened PR [#7](https://github.com/jhoffmann99/vaadin-trix-editor/pull/7) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
 5. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
 <!--END_SECTION:activity-->
 
