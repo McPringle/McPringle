@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#518](https://github.com/gpx-animator/gpx-animator/issues/518) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+1. 🗣 Commented on [#501](https://github.com/nektos/act/issues/501) in [nektos/act](https://github.com/nektos/act)
+2. 🗣 Commented on [#518](https://github.com/gpx-animator/gpx-animator/issues/518) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 3. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
 4. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
-5. 💪 Opened PR [#7](https://github.com/jhoffmann99/vaadin-trix-editor/pull/7) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+5. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
