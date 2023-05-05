@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
-2. 🎉 Merged PR [#432](https://github.com/komunumo/komunumo-server/pull/432) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. 🗣 Commented on [#501](https://github.com/nektos/act/issues/501) in [nektos/act](https://github.com/nektos/act)
-4. 🗣 Commented on [#518](https://github.com/gpx-animator/gpx-animator/issues/518) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#5](https://github.com/jhoffmann99/vaadin-trix-editor/issues/5) in [jhoffmann99/vaadin-trix-editor](https://github.com/jhoffmann99/vaadin-trix-editor)
+1. 🗣 Commented on [#58](https://github.com/gpx-animator/gpx-animator/issues/58) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#113](https://github.com/codacy/codacy-analysis-cli-action/issues/113) in [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action)
+3. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
+4. 🎉 Merged PR [#432](https://github.com/komunumo/komunumo-server/pull/432) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 🗣 Commented on [#501](https://github.com/nektos/act/issues/501) in [nektos/act](https://github.com/nektos/act)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
