@@ -71,7 +71,7 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪 🇬🇧
 
 <!-- CYCLINGBLOG:START -->
-- [Brief outlook for 2023](https://keep-on-rolling.ch/en/2023/01/01/brief-outlook-for-2023/)
+- [Kleiner Ausblick auf 2023](https://keep-on-rolling.ch/kleiner-ausblick-auf-2023?pk_campaign=rss-feed)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
