@@ -91,11 +91,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/gpx-animator/gpx-animator/issues/58) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#113](https://github.com/codacy/codacy-analysis-cli-action/issues/113) in [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action)
-3. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
-4. 🎉 Merged PR [#432](https://github.com/komunumo/komunumo-server/pull/432) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-5. 🗣 Commented on [#501](https://github.com/nektos/act/issues/501) in [nektos/act](https://github.com/nektos/act)
+1. ❗️ Closed issue [#23549](https://github.com/mastodon/mastodon/issues/23549) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+2. 🗣 Commented on [#23549](https://github.com/mastodon/mastodon/issues/23549) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+3. 🗣 Commented on [#58](https://github.com/gpx-animator/gpx-animator/issues/58) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#113](https://github.com/codacy/codacy-analysis-cli-action/issues/113) in [codacy/codacy-analysis-cli-action](https://github.com/codacy/codacy-analysis-cli-action)
+5. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
