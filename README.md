@@ -92,11 +92,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
-2. 🗣 Commented on [#49](https://github.com/kordamp/gm/issues/49) in [kordamp/gm](https://github.com/kordamp/gm)
-3. 🗣 Commented on [#681](https://github.com/all-contributors/all-contributors/issues/681) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
-4. ❗️ Closed issue [#23549](https://github.com/mastodon/mastodon/issues/23549) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-5. 🗣 Commented on [#23549](https://github.com/mastodon/mastodon/issues/23549) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+1. 🎉 Merged PR [#442](https://github.com/komunumo/komunumo-server/pull/442) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#39](https://github.com/McPringle/alfons/pull/39) in [McPringle/alfons](https://github.com/McPringle/alfons)
+3. 🗣 Commented on [#19](https://github.com/test-room-7/action-update-file/issues/19) in [test-room-7/action-update-file](https://github.com/test-room-7/action-update-file)
+4. 🗣 Commented on [#49](https://github.com/kordamp/gm/issues/49) in [kordamp/gm](https://github.com/kordamp/gm)
+5. 🗣 Commented on [#681](https://github.com/all-contributors/all-contributors/issues/681) in [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
