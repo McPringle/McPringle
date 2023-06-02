@@ -71,6 +71,7 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Eine Testfahrt mit dem neuen Reiserad](https://keep-on-rolling.ch/eine-testfahrt-mit-dem-neuen-reiserad?pk_campaign=rss-feed)
 - [Der Countdown läuft](https://keep-on-rolling.ch/der-countdown-lauft?pk_campaign=rss-feed)
 - [Kleiner Ausblick auf 2023](https://keep-on-rolling.ch/kleiner-ausblick-auf-2023?pk_campaign=rss-feed)
 <!-- CYCLINGBLOG:END -->
