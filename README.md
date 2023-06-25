@@ -71,6 +71,7 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Routenplanung zum Java Forum Stuttgart](https://keep-on-rolling.ch/routenplanung-zum-java-forum-stuttgart?pk_campaign=rss-feed)
 - [Weniger ist Meer](https://keep-on-rolling.ch/weniger-ist-meer?pk_campaign=rss-feed)
 - [Eine Testfahrt mit dem neuen Reiserad](https://keep-on-rolling.ch/eine-testfahrt-mit-dem-neuen-reiserad?pk_campaign=rss-feed)
 - [Der Countdown läuft](https://keep-on-rolling.ch/der-countdown-lauft?pk_campaign=rss-feed)
