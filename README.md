@@ -56,7 +56,7 @@
 
 ---
 
-### 📕 Latest Personal Blog Posts 🇩🇪 🇬🇧
+### 📕 Latest Personal Blog Posts 🇩🇪
 
 <!-- PERSONALBLOG:START -->
 - [Mastodon](https://fihlon.swiss/en/post/2022-11-01_mastodon/)
