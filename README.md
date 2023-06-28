@@ -59,9 +59,7 @@
 ### 📕 Latest Personal Blog Posts 🇩🇪
 
 <!-- PERSONALBLOG:START -->
-- [Mastodon](https://fihlon.swiss/en/post/2022-11-01_mastodon/)
-- [My Projects](https://fihlon.swiss/en/post/2022-05-07_projects/)
-- [Reset](https://fihlon.swiss/en/post/2022-02-25_reset/)
+- [Java Forum Stuttgart 2023](https://fihlon.swiss/java-forum-stuttgart-2023?pk_campaign=rss-feed)
 <!-- PERSONALBLOG:END -->
 
 ➡️ [more blog posts...][personalblog]
