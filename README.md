@@ -60,6 +60,7 @@
 
 <!-- PERSONALBLOG:START -->
 - [Java Forum Stuttgart 2023](https://fihlon.swiss/java-forum-stuttgart-2023?pk_campaign=rss-feed)
+- [Web Components mit Polymer](https://fihlon.swiss/web-components-mit-polymer?pk_campaign=rss-feed)
 <!-- PERSONALBLOG:END -->
 
 ➡️ [more blog posts...][personalblog]
