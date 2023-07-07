@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#547](https://github.com/gpx-animator/gpx-animator/issues/547) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🔒 Closed issue [#546](https://github.com/gpx-animator/gpx-animator/issues/546) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#546](https://github.com/gpx-animator/gpx-animator/issues/546) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#537](https://github.com/gpx-animator/gpx-animator/pull/537) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#485](https://github.com/hetznercloud/cli/issues/485) in [hetznercloud/cli](https://github.com/hetznercloud/cli)
+1. 🗣 Commented on [#552](https://github.com/gpx-animator/gpx-animator/issues/552) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#552](https://github.com/gpx-animator/gpx-animator/issues/552) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#547](https://github.com/gpx-animator/gpx-animator/issues/547) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🔒 Closed issue [#546](https://github.com/gpx-animator/gpx-animator/issues/546) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#546](https://github.com/gpx-animator/gpx-animator/issues/546) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
