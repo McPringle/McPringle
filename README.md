@@ -70,11 +70,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Die Hitzeschlacht beginnt](https://keep-on-rolling.ch/die-hitzeschlacht-beginnt?pk_campaign=rss-feed)
 - [Routenplanung zum Java Forum Stuttgart](https://keep-on-rolling.ch/routenplanung-zum-java-forum-stuttgart?pk_campaign=rss-feed)
 - [Weniger ist Meer](https://keep-on-rolling.ch/weniger-ist-meer?pk_campaign=rss-feed)
 - [Eine Testfahrt mit dem neuen Reiserad](https://keep-on-rolling.ch/eine-testfahrt-mit-dem-neuen-reiserad?pk_campaign=rss-feed)
 - [Der Countdown läuft](https://keep-on-rolling.ch/der-countdown-lauft?pk_campaign=rss-feed)
-- [Kleiner Ausblick auf 2023](https://keep-on-rolling.ch/kleiner-ausblick-auf-2023?pk_campaign=rss-feed)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
