@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-2. ❗ Opened issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-3. ❗ Opened issue [#3](https://github.com/McPringle/mastodon-autosetup/issues/3) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-4. ❗ Opened issue [#2](https://github.com/McPringle/mastodon-autosetup/issues/2) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-5. ❗ Opened issue [#1](https://github.com/McPringle/mastodon-autosetup/issues/1) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+1. ❗ Opened issue [#557](https://github.com/gpx-animator/gpx-animator/issues/557) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. ❗ Opened issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+3. ❗ Opened issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+4. ❗ Opened issue [#3](https://github.com/McPringle/mastodon-autosetup/issues/3) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+5. ❗ Opened issue [#2](https://github.com/McPringle/mastodon-autosetup/issues/2) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
