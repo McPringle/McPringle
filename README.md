@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#538](https://github.com/gpx-animator/gpx-animator/pull/538) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. ❗ Opened issue [#557](https://github.com/gpx-animator/gpx-animator/issues/557) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗ Opened issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-4. ❗ Opened issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-5. ❗ Opened issue [#3](https://github.com/McPringle/mastodon-autosetup/issues/3) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+1. 🎉 Merged PR [#478](https://github.com/komunumo/komunumo-server/pull/478) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. 🎉 Merged PR [#538](https://github.com/gpx-animator/gpx-animator/pull/538) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. ❗ Opened issue [#557](https://github.com/gpx-animator/gpx-animator/issues/557) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗ Opened issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+5. ❗ Opened issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
