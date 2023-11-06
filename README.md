@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#502](https://github.com/komunumo/komunumo-server/issues/502) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗ Opened issue [#501](https://github.com/komunumo/komunumo-server/issues/501) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❗ Opened issue [#500](https://github.com/komunumo/komunumo-server/issues/500) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. 💪 Opened PR [#45](https://github.com/ijug-ev/JavaLand/pull/45) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-5. 🔒 Closed issue [#590](https://github.com/gpx-animator/gpx-animator/issues/590) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🎉 Merged PR [#1](https://github.com/jugch/javaland-sternfahrt-2024/pull/1) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
+2. ❗ Opened issue [#502](https://github.com/komunumo/komunumo-server/issues/502) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❗ Opened issue [#501](https://github.com/komunumo/komunumo-server/issues/501) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+4. ❗ Opened issue [#500](https://github.com/komunumo/komunumo-server/issues/500) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. 💪 Opened PR [#45](https://github.com/ijug-ev/JavaLand/pull/45) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
