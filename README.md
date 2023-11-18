@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/ijug-ev/JavaLand/pull/47) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-2. 🔒 Closed issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-3. 🔒 Closed issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-4. 🔒 Closed issue [#3](https://github.com/McPringle/mastodon-autosetup/issues/3) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-5. 🗣 Commented on [#1](https://github.com/McPringle/mastodon-autosetup/issues/1#issuecomment-1813230460) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+1. 💪 Opened PR [#409](https://github.com/hackergarten/hackergarten.github.io/pull/409) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#47](https://github.com/ijug-ev/JavaLand/pull/47) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
+3. 🔒 Closed issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+4. 🔒 Closed issue [#4](https://github.com/McPringle/mastodon-autosetup/issues/4) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+5. 🔒 Closed issue [#3](https://github.com/McPringle/mastodon-autosetup/issues/3) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
