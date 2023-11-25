@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/ijug-ev/JavaLand/pull/47#issuecomment-1817599888) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-2. 💪 Opened PR [#322](https://github.com/marchof/javabubble/pull/322) in [marchof/javabubble](https://github.com/marchof/javabubble)
-3. 💪 Opened PR [#409](https://github.com/hackergarten/hackergarten.github.io/pull/409) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#47](https://github.com/ijug-ev/JavaLand/pull/47) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-5. 🔒 Closed issue [#5](https://github.com/McPringle/mastodon-autosetup/issues/5) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+1. 🗣 Commented on [#603](https://github.com/gpx-animator/gpx-animator/pull/603#issuecomment-1825633797) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🎉 Merged PR [#603](https://github.com/gpx-animator/gpx-animator/pull/603) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#599](https://github.com/gpx-animator/gpx-animator/pull/599#issuecomment-1825607772) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❌ Closed PR [#599](https://github.com/gpx-animator/gpx-animator/pull/599) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🔒 Closed issue [#592](https://github.com/gpx-animator/gpx-animator/issues/592) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
