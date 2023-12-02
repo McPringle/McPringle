@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#607](https://github.com/gpx-animator/gpx-animator/pull/607) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#603](https://github.com/gpx-animator/gpx-animator/pull/603#issuecomment-1825633797) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🎉 Merged PR [#603](https://github.com/gpx-animator/gpx-animator/pull/603) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#599](https://github.com/gpx-animator/gpx-animator/pull/599#issuecomment-1825607772) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❌ Closed PR [#599](https://github.com/gpx-animator/gpx-animator/pull/599) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. ❌ Closed PR [#1](https://github.com/McPringle/app-route-demo/pull/1) in [McPringle/app-route-demo](https://github.com/McPringle/app-route-demo)
+2. ❌ Closed PR [#12](https://github.com/jugch/javaland-sternfahrt-2023/pull/12) in [jugch/javaland-sternfahrt-2023](https://github.com/jugch/javaland-sternfahrt-2023)
+3. 🎉 Merged PR [#607](https://github.com/gpx-animator/gpx-animator/pull/607) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#603](https://github.com/gpx-animator/gpx-animator/pull/603#issuecomment-1825633797) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🎉 Merged PR [#603](https://github.com/gpx-animator/gpx-animator/pull/603) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
