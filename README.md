@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/McPringle/bookworm/pull/1) in [McPringle/bookworm](https://github.com/McPringle/bookworm)
-2. 🎉 Merged PR [#612](https://github.com/gpx-animator/gpx-animator/pull/612) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❌ Closed PR [#1](https://github.com/McPringle/app-route-demo/pull/1) in [McPringle/app-route-demo](https://github.com/McPringle/app-route-demo)
-4. ❌ Closed PR [#12](https://github.com/jugch/javaland-sternfahrt-2023/pull/12) in [jugch/javaland-sternfahrt-2023](https://github.com/jugch/javaland-sternfahrt-2023)
-5. 🎉 Merged PR [#607](https://github.com/gpx-animator/gpx-animator/pull/607) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#1454](https://github.com/testcontainers/testcontainers-java/issues/1454#issuecomment-1842562694) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
+2. 🎉 Merged PR [#522](https://github.com/komunumo/komunumo-server/pull/522) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+3. ❌ Closed PR [#1](https://github.com/McPringle/bookworm/pull/1) in [McPringle/bookworm](https://github.com/McPringle/bookworm)
+4. 🎉 Merged PR [#612](https://github.com/gpx-animator/gpx-animator/pull/612) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❌ Closed PR [#1](https://github.com/McPringle/app-route-demo/pull/1) in [McPringle/app-route-demo](https://github.com/McPringle/app-route-demo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
