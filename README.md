@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1454](https://github.com/testcontainers/testcontainers-java/issues/1454#issuecomment-1842562694) in [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java)
-2. 🎉 Merged PR [#522](https://github.com/komunumo/komunumo-server/pull/522) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-3. ❌ Closed PR [#1](https://github.com/McPringle/bookworm/pull/1) in [McPringle/bookworm](https://github.com/McPringle/bookworm)
-4. 🎉 Merged PR [#612](https://github.com/gpx-animator/gpx-animator/pull/612) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❌ Closed PR [#1](https://github.com/McPringle/app-route-demo/pull/1) in [McPringle/app-route-demo](https://github.com/McPringle/app-route-demo)
+1. 🗣 Commented on [#369](https://github.com/gpx-animator/gpx-animator/issues/369#issuecomment-1850125727) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🔒 Closed issue [#369](https://github.com/gpx-animator/gpx-animator/issues/369) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🔒 Closed issue [#493](https://github.com/gpx-animator/gpx-animator/issues/493) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗ Opened issue [#624](https://github.com/gpx-animator/gpx-animator/issues/624) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗ Opened issue [#623](https://github.com/gpx-animator/gpx-animator/issues/623) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
