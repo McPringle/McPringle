@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#531](https://github.com/komunumo/komunumo-server/pull/531) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-2. ❗ Opened issue [#639](https://github.com/gpx-animator/gpx-animator/issues/639) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗ Opened issue [#638](https://github.com/gpx-animator/gpx-animator/issues/638) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. ❗ Opened issue [#637](https://github.com/gpx-animator/gpx-animator/issues/637) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. ❗ Opened issue [#636](https://github.com/gpx-animator/gpx-animator/issues/636) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🔒 Closed issue [#639](https://github.com/gpx-animator/gpx-animator/issues/639) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🎉 Merged PR [#641](https://github.com/gpx-animator/gpx-animator/pull/641) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#641](https://github.com/gpx-animator/gpx-animator/pull/641#issuecomment-1866679931) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🎉 Merged PR [#531](https://github.com/komunumo/komunumo-server/pull/531) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+5. ❗ Opened issue [#639](https://github.com/gpx-animator/gpx-animator/issues/639) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
