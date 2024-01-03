@@ -94,11 +94,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#644](https://github.com/gpx-animator/gpx-animator/issues/644#issuecomment-1868245483) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🔒 Closed issue [#644](https://github.com/gpx-animator/gpx-animator/issues/644) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🎉 Merged PR [#645](https://github.com/gpx-animator/gpx-animator/pull/645) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#617](https://github.com/gpx-animator/gpx-animator/pull/617#issuecomment-1867804302) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#639](https://github.com/gpx-animator/gpx-animator/issues/639#issuecomment-1867759034) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2024/pull/3) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
+2. 🗣 Commented on [#3550](https://github.com/pixelfed/pixelfed/issues/3550#issuecomment-1873875126) in [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+3. 🗣 Commented on [#3554](https://github.com/pixelfed/pixelfed/pull/3554#issuecomment-1873865562) in [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+4. 🗣 Commented on [#644](https://github.com/gpx-animator/gpx-animator/issues/644#issuecomment-1868245483) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🔒 Closed issue [#644](https://github.com/gpx-animator/gpx-animator/issues/644) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
