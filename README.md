@@ -116,5 +116,5 @@
 [strava]: https://www.strava.com/athletes/38507092
 [komoot]: https://www.komoot.de/user/306059768140
 [personalblog]: https://fihlon.swiss/
-[cyclingblog]: https://keep-on-rolling.ch/
-[youtube]: https://www.youtube.com/channel/UCVPiWk3TEQtNnuRFmYnafyw
+[cyclingblog]: https://sattelgeschichten.ch/
+[youtube]: https://www.youtube.com/@Sattelgeschichten
