@@ -70,11 +70,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
-- [Nur noch zwei mal schlafen!](https://keep-on-rolling.ch/nur-noch-zwei-mal-schlafen?pk_campaign=rss-feed)
-- [Die Hitzeschlacht beginnt](https://keep-on-rolling.ch/die-hitzeschlacht-beginnt?pk_campaign=rss-feed)
-- [Routenplanung zum Java Forum Stuttgart](https://keep-on-rolling.ch/routenplanung-zum-java-forum-stuttgart?pk_campaign=rss-feed)
-- [Weniger ist Meer](https://keep-on-rolling.ch/weniger-ist-meer?pk_campaign=rss-feed)
-- [Eine Testfahrt mit dem neuen Reiserad](https://keep-on-rolling.ch/eine-testfahrt-mit-dem-neuen-reiserad?pk_campaign=rss-feed)
+- [Vorbei? Vorbei!](https://sattelgeschichten.ch/blog/2024/01/08/vorbei/)
+- [Sattelgeschichten](https://sattelgeschichten.ch/blog/2024/01/07/sattelgeschichten/)
+- [Nur noch zwei mal schlafen!](https://sattelgeschichten.ch/blog/2023/07/27/nur-noch-zwei-mal-schlafen/)
+- [Die Hitzeschlacht beginnt](https://sattelgeschichten.ch/blog/2023/07/10/die-hitzeschlacht-beginnt/)
+- [Routenplanung zum Java Forum Stuttgart](https://sattelgeschichten.ch/blog/2023/06/24/routenplanung-zum-java-forum-stuttgart/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
