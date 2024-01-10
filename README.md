@@ -8,7 +8,7 @@
 - 💬 Ask me about speaking at the [Java User Group Switzerland](https://www.jug.ch/) or everything about bikepacking
 - ⚡ Fun fact: I crossed the USA twice with my bicycle:
     - 2019 from Philadelphia to San Francisco
-    - 2023 from New York to Los Angeles.
+    - 2023 from New York to Los Angeles
 <!--
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: ...
