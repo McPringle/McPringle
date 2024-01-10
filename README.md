@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning [Vaadin Flow](https://vaadin.com/docs/flow/Overview.html) and [Rust](https://www.rust-lang.org/)
 - 📫 You can reach me with [Matrix](https://matrix.to/#/@mcpringle:matrix.org) and on [Mastodon](https://fosstodon.org/@McPringle)
 - 🥅 2024 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
-- ⚡ Fun fact: I crossed the USA twice with my bicycle (2019 from Philadelphia to San Francisco, 2023 from New York to Los Angeles).
 - 🤔 I’m looking for help with [GPX Animator](https://github.com/gpx-animator) and [Komunumo](https://github.com/komunumo)
 - 💬 Ask me about speaking at the [Java User Group Switzerland](https://www.jug.ch/) or everything about bikepacking
+- ⚡ Fun fact: I crossed the USA twice with my bicycle (2019 from Philadelphia to San Francisco, 2023 from New York to Los Angeles).
 <!--
 - 👯 I’m looking to collaborate on open source projects
 - 😄 Pronouns: ...
