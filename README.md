@@ -72,11 +72,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
-- [Vorbei? Vorbei!](https://sattelgeschichten.ch/blog/2024/01/08/vorbei/)
-- [Sattelgeschichten](https://sattelgeschichten.ch/blog/2024/01/07/sattelgeschichten/)
-- [Nur noch zwei mal schlafen!](https://sattelgeschichten.ch/blog/2023/07/27/nur-noch-zwei-mal-schlafen/)
-- [Die Hitzeschlacht beginnt](https://sattelgeschichten.ch/blog/2023/07/10/die-hitzeschlacht-beginnt/)
-- [Routenplanung zum Java Forum Stuttgart](https://sattelgeschichten.ch/blog/2023/06/24/routenplanung-zum-java-forum-stuttgart/)
+- [Sternfahrt zur JavaLand](https://sattelgeschichten.ch/blog/2024-01-11/sternfahrt-zur-javaland/)
+- [Vorbei? Vorbei!](https://sattelgeschichten.ch/blog/2024-01-08/vorbei/)
+- [Sattelgeschichten](https://sattelgeschichten.ch/blog/2024-01-07/sattelgeschichten/)
+- [Nur noch zwei mal schlafen!](https://sattelgeschichten.ch/blog/2023-07-27/nur-noch-zwei-mal-schlafen/)
+- [Die Hitzeschlacht beginnt](https://sattelgeschichten.ch/blog/2023-07-10/die-hitzeschlacht-beginnt/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
