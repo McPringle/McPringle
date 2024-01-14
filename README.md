@@ -96,11 +96,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/McPringle/McPringle/pull/4) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
-2. 💪 Opened PR [#414](https://github.com/hackergarten/hackergarten.github.io/pull/414) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2024/pull/3) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
-4. 🗣 Commented on [#3550](https://github.com/pixelfed/pixelfed/issues/3550#issuecomment-1873875126) in [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
-5. 🗣 Commented on [#3554](https://github.com/pixelfed/pixelfed/pull/3554#issuecomment-1873865562) in [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
+1. 🗣 Commented on [#617](https://github.com/gpx-animator/gpx-animator/pull/617#issuecomment-1890393484) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🎉 Merged PR [#4](https://github.com/McPringle/McPringle/pull/4) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
+3. 💪 Opened PR [#414](https://github.com/hackergarten/hackergarten.github.io/pull/414) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2024/pull/3) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
+5. 🗣 Commented on [#3550](https://github.com/pixelfed/pixelfed/issues/3550#issuecomment-1873875126) in [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
