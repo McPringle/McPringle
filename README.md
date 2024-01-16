@@ -85,8 +85,8 @@
 
 ### 📺 Latest YouTube Videos 🇩🇪
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=ujTze6DQMYI"><img width="140px" src="https://i.ytimg.com/vi/ujTze6DQMYI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ujTze6DQMYI">Velotaxi: Vierwaldstättersee / Lake Lucerne</a><br/>2022-01-29</td></tr></table>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=loG6OVgVWYY"><img width="140px" src="https://i.ytimg.com/vi/loG6OVgVWYY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=loG6OVgVWYY">Auf der Mittelland-Route vom Bodensee zum Genfersee</a><br/>2024-01-15</td></tr></table>
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
