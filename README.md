@@ -72,11 +72,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Termine slowUp Schweiz](https://sattelgeschichten.ch/blog/2024-01-15/termine-slowup-schweiz/)
 - [Jetzt neu bei PeerTube](https://sattelgeschichten.ch/blog/2024-01-12/jetzt-neu-bei-peertube/)
 - [Sternfahrt zur JavaLand](https://sattelgeschichten.ch/blog/2024-01-11/sternfahrt-zur-javaland/)
 - [Vorbei? Vorbei!](https://sattelgeschichten.ch/blog/2024-01-08/vorbei/)
 - [Sattelgeschichten](https://sattelgeschichten.ch/blog/2024-01-07/sattelgeschichten/)
-- [Nur noch zwei mal schlafen!](https://sattelgeschichten.ch/blog/2023-07-27/nur-noch-zwei-mal-schlafen/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
