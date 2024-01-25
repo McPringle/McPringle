@@ -96,11 +96,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ijug-ev/infra/issues/1#issuecomment-1900657425) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
-2. 🔒 Closed issue [#1](https://github.com/ijug-ev/infra/issues/1) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
-3. 🗣 Commented on [#617](https://github.com/gpx-animator/gpx-animator/pull/617#issuecomment-1890393484) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🎉 Merged PR [#4](https://github.com/McPringle/McPringle/pull/4) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
-5. 💪 Opened PR [#414](https://github.com/hackergarten/hackergarten.github.io/pull/414) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#4](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/4#issuecomment-1907624572) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
+2. 🗣 Commented on [#1](https://github.com/ijug-ev/infra/issues/1#issuecomment-1900657425) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
+3. 🔒 Closed issue [#1](https://github.com/ijug-ev/infra/issues/1) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
+4. 🗣 Commented on [#617](https://github.com/gpx-animator/gpx-animator/pull/617#issuecomment-1890393484) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🎉 Merged PR [#4](https://github.com/McPringle/McPringle/pull/4) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
