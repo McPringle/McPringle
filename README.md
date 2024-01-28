@@ -96,11 +96,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jugch/javaland-sternfahrt-2024/pull/4) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
-2. 🗣 Commented on [#4](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/4#issuecomment-1907624572) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
-3. 🗣 Commented on [#1](https://github.com/ijug-ev/infra/issues/1#issuecomment-1900657425) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
-4. 🔒 Closed issue [#1](https://github.com/ijug-ev/infra/issues/1) in [ijug-ev/infra](https://github.com/ijug-ev/infra)
-5. 🗣 Commented on [#617](https://github.com/gpx-animator/gpx-animator/pull/617#issuecomment-1890393484) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#6](https://github.com/java-aktuell/javaaktuell-asciidoc-template/issues/6#issuecomment-1913138142) in [java-aktuell/javaaktuell-asciidoc-template](https://github.com/java-aktuell/javaaktuell-asciidoc-template)
+2. ❗ Opened issue [#6](https://github.com/java-aktuell/javaaktuell-asciidoc-template/issues/6) in [java-aktuell/javaaktuell-asciidoc-template](https://github.com/java-aktuell/javaaktuell-asciidoc-template)
+3. ❗ Opened issue [#5](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/5) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
+4. 🎉 Merged PR [#4](https://github.com/jugch/javaland-sternfahrt-2024/pull/4) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
+5. 🗣 Commented on [#4](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/4#issuecomment-1907624572) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
