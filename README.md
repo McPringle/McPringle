@@ -96,11 +96,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/java-aktuell/javaaktuell-asciidoc-template/issues/6#issuecomment-1913138142) in [java-aktuell/javaaktuell-asciidoc-template](https://github.com/java-aktuell/javaaktuell-asciidoc-template)
-2. ❗ Opened issue [#6](https://github.com/java-aktuell/javaaktuell-asciidoc-template/issues/6) in [java-aktuell/javaaktuell-asciidoc-template](https://github.com/java-aktuell/javaaktuell-asciidoc-template)
-3. ❗ Opened issue [#5](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/5) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
-4. 🎉 Merged PR [#4](https://github.com/jugch/javaland-sternfahrt-2024/pull/4) in [jugch/javaland-sternfahrt-2024](https://github.com/jugch/javaland-sternfahrt-2024)
-5. 🗣 Commented on [#4](https://github.com/ijug-ev/javaaktuell-asciidoc-template/issues/4#issuecomment-1907624572) in [ijug-ev/javaaktuell-asciidoc-template](https://github.com/ijug-ev/javaaktuell-asciidoc-template)
+1. 🗣 Commented on [#391](https://github.com/hackergarten/hackergarten.github.io/issues/391#issuecomment-1922289074) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🗣 Commented on [#395](https://github.com/hackergarten/hackergarten.github.io/issues/395#issuecomment-1922154501) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 🗣 Commented on [#355](https://github.com/hackergarten/hackergarten.github.io/issues/355#issuecomment-1922143681) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 💪 Opened PR [#416](https://github.com/hackergarten/hackergarten.github.io/pull/416) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 🗣 Commented on [#89](https://github.com/pe-st/garmin-connect-export/issues/89#issuecomment-1920879121) in [pe-st/garmin-connect-export](https://github.com/pe-st/garmin-connect-export)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
