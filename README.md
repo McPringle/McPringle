@@ -65,7 +65,7 @@
 - [Java Forum Stuttgart 2023](https://fihlon.swiss/blog/2023-06-27/java-forum-stuttgart-2023/)
 - [Keiner versammelt Hacker so verlässlich wie dieser Luzerner](https://fihlon.swiss/blog/2023-01-24/keiner-versammelt-hacker-so-verl%C3%A4sslich-wie-dieser-luzerner/)
 - [Mastodon](https://fihlon.swiss/blog/2022-11-01/mastodon/)
-- [Web Components mit Polymer](https://fihlon.swiss/blog/2017-02-28/web-components-mit-polymer/)
+- [Korrektur zum WebComponents Artikel](https://fihlon.swiss/blog/2017-03-28/javapro-korrektur/)
 <!-- PERSONALBLOG:END -->
 
 ➡️ [more blog posts...][personalblog]
