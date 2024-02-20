@@ -61,11 +61,11 @@
 ### 📕 Latest Personal Blog Posts 🇩🇪
 
 <!-- PERSONALBLOG:START -->
+- [Mastodon vs. Threads vs. Bluesky](https://fihlon.swiss/blog/2024-02-19/mastodon-threads-bluesky/)
 - [Interview zur Mitwirkung beim JavaLand](https://fihlon.swiss/blog/2024-02-06/interview-zur-mitwirkung-beim-javaland/)
 - [Java Forum Stuttgart 2023](https://fihlon.swiss/blog/2023-06-27/java-forum-stuttgart-2023/)
 - [Keiner versammelt Hacker so verlässlich wie dieser Luzerner](https://fihlon.swiss/blog/2023-01-24/keiner-versammelt-hacker-so-verl%C3%A4sslich-wie-dieser-luzerner/)
 - [Mastodon](https://fihlon.swiss/blog/2022-11-01/mastodon/)
-- [Korrektur zum WebComponents Artikel](https://fihlon.swiss/blog/2017-03-28/javapro-korrektur/)
 <!-- PERSONALBLOG:END -->
 
 ➡️ [more blog posts...][personalblog]
