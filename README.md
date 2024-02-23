@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#493](https://github.com/lxndrblz/anatole/issues/493) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🗣 Commented on [#343](https://github.com/marchof/javabubble/pull/343#issuecomment-1949970024) in [marchof/javabubble](https://github.com/marchof/javabubble)
-3. 🗣 Commented on [#343](https://github.com/marchof/javabubble/pull/343#issuecomment-1949929716) in [marchof/javabubble](https://github.com/marchof/javabubble)
-4. 💪 Opened PR [#343](https://github.com/marchof/javabubble/pull/343) in [marchof/javabubble](https://github.com/marchof/javabubble)
-5. 💪 Opened PR [#340](https://github.com/marchof/javabubble/pull/340) in [marchof/javabubble](https://github.com/marchof/javabubble)
+1. 🗣 Commented on [#14123](https://github.com/checkstyle/checkstyle/issues/14123#issuecomment-1960110527) in [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle)
+2. 🗣 Commented on [#665](https://github.com/gpx-animator/gpx-animator/pull/665#issuecomment-1959384953) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. ❌ Closed PR [#665](https://github.com/gpx-animator/gpx-animator/pull/665) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗ Opened issue [#493](https://github.com/lxndrblz/anatole/issues/493) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. 🗣 Commented on [#343](https://github.com/marchof/javabubble/pull/343#issuecomment-1949970024) in [marchof/javabubble](https://github.com/marchof/javabubble)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
