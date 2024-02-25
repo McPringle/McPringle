@@ -75,11 +75,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Statistik Januar 2024](https://sattelgeschichten.ch/blog/2024-02-24/statistik/)
 - [Ride with GPS](https://sattelgeschichten.ch/blog/2024-02-20/ride-with-gps/)
 - [Route 66 mit dem Velo](https://sattelgeschichten.ch/blog/2024-02-17/route-66-mit-dem-velo/)
 - [Projekt Eurostar](https://sattelgeschichten.ch/blog/2024-02-01/projekt-eurostar/)
 - [Termine slowUp Schweiz](https://sattelgeschichten.ch/blog/2024-01-15/termine-slowup-schweiz/)
-- [Jetzt neu bei PeerTube](https://sattelgeschichten.ch/blog/2024-01-12/jetzt-neu-bei-peertube/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
