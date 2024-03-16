@@ -75,11 +75,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Planung der Sternfahrt zur JavaLand](https://sattelgeschichten.ch/blog/2024-03-15/planung-der-sternfahrt-zur-javaland/)
 - [Statistik Februar 2024](https://sattelgeschichten.ch/blog/2024-03-09/statistik/)
 - [Statistik Januar 2024](https://sattelgeschichten.ch/blog/2024-02-24/statistik/)
 - [Ride with GPS](https://sattelgeschichten.ch/blog/2024-02-20/ride-with-gps/)
 - [Route 66 mit dem Velo](https://sattelgeschichten.ch/blog/2024-02-17/route-66-mit-dem-velo/)
-- [Projekt Eurostar](https://sattelgeschichten.ch/blog/2024-02-01/projekt-eurostar/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
