@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#666](https://github.com/gpx-animator/gpx-animator/pull/666) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#354](https://github.com/marchof/javabubble/issues/354#issuecomment-1976345323) in [marchof/javabubble](https://github.com/marchof/javabubble)
-3. 💪 Opened PR [#355](https://github.com/marchof/javabubble/pull/355) in [marchof/javabubble](https://github.com/marchof/javabubble)
-4. ❌ Closed PR [#3](https://github.com/McPringle/javabubble/pull/3) in [McPringle/javabubble](https://github.com/McPringle/javabubble)
-5. 🗣 Commented on [#354](https://github.com/marchof/javabubble/issues/354#issuecomment-1976339019) in [marchof/javabubble](https://github.com/marchof/javabubble)
+1. ❗ Opened issue [#44](https://github.com/Mastodon4J/Mastodon4J/issues/44) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
+2. 🎉 Merged PR [#666](https://github.com/gpx-animator/gpx-animator/pull/666) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#354](https://github.com/marchof/javabubble/issues/354#issuecomment-1976345323) in [marchof/javabubble](https://github.com/marchof/javabubble)
+4. 💪 Opened PR [#355](https://github.com/marchof/javabubble/pull/355) in [marchof/javabubble](https://github.com/marchof/javabubble)
+5. ❌ Closed PR [#3](https://github.com/McPringle/javabubble/pull/3) in [McPringle/javabubble](https://github.com/McPringle/javabubble)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
