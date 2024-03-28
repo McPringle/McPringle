@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/Mastodon4J/Mastodon4J/issues/44) in [Mastodon4J/Mastodon4J](https://github.com/Mastodon4J/Mastodon4J)
-2. 🎉 Merged PR [#666](https://github.com/gpx-animator/gpx-animator/pull/666) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#354](https://github.com/marchof/javabubble/issues/354#issuecomment-1976345323) in [marchof/javabubble](https://github.com/marchof/javabubble)
-4. 💪 Opened PR [#355](https://github.com/marchof/javabubble/pull/355) in [marchof/javabubble](https://github.com/marchof/javabubble)
-5. ❌ Closed PR [#3](https://github.com/McPringle/javabubble/pull/3) in [McPringle/javabubble](https://github.com/McPringle/javabubble)
+1. ❗ Opened issue [#39](https://github.com/McPringle/apus/issues/39) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#37](https://github.com/McPringle/apus/issues/37) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#35](https://github.com/McPringle/apus/issues/35) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#362](https://github.com/marchof/javabubble/issues/362#issuecomment-2023228150) in [marchof/javabubble](https://github.com/marchof/javabubble)
+5. 🗣 Commented on [#32](https://github.com/moelholm/bot-javabubble/issues/32#issuecomment-2023226393) in [moelholm/bot-javabubble](https://github.com/moelholm/bot-javabubble)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
