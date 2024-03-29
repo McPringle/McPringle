@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#39](https://github.com/McPringle/apus/issues/39) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🔒 Closed issue [#37](https://github.com/McPringle/apus/issues/37) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🔒 Closed issue [#35](https://github.com/McPringle/apus/issues/35) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🗣 Commented on [#362](https://github.com/marchof/javabubble/issues/362#issuecomment-2023228150) in [marchof/javabubble](https://github.com/marchof/javabubble)
-5. 🗣 Commented on [#32](https://github.com/moelholm/bot-javabubble/issues/32#issuecomment-2023226393) in [moelholm/bot-javabubble](https://github.com/moelholm/bot-javabubble)
+1. 🗣 Commented on [#46](https://github.com/McPringle/apus/pull/46#issuecomment-2026324993) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🎉 Merged PR [#45](https://github.com/McPringle/apus/pull/45) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#4](https://github.com/McPringle/apus/issues/4) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#44](https://github.com/McPringle/apus/issues/44) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#43](https://github.com/McPringle/apus/issues/43) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
