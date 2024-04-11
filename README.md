@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#78](https://github.com/McPringle/apus/issues/78) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🔒 Closed issue [#80](https://github.com/McPringle/apus/issues/80) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#80](https://github.com/McPringle/apus/issues/80) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#79](https://github.com/McPringle/apus/issues/79) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ❗ Opened issue [#79](https://github.com/McPringle/apus/issues/79) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#83](https://github.com/McPringle/apus/issues/83) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#82](https://github.com/McPringle/apus/issues/82) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🚀 Published release [Version 1](https://github.com/McPringle/apus/releases/tag/v1) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🚀 Published release [v1](https://github.com/McPringle/apus/releases/tag/v1) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🚀 Published release [v1](https://github.com/McPringle/apus/releases/tag/v1) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
