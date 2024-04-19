@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#85](https://github.com/McPringle/apus/issues/85#issuecomment-2061930350) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#85](https://github.com/McPringle/apus/issues/85#issuecomment-2057790943) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#89](https://github.com/McPringle/apus/issues/89) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#84](https://github.com/McPringle/apus/issues/84) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🎉 Merged PR [#87](https://github.com/McPringle/apus/pull/87) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#86](https://github.com/McPringle/apus/issues/86) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#86](https://github.com/McPringle/apus/issues/86#issuecomment-2065299130) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#96](https://github.com/McPringle/apus/issues/96) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🔒 Closed issue [#59](https://github.com/McPringle/apus/issues/59) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#95](https://github.com/McPringle/apus/issues/95) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
