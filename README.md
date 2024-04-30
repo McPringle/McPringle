@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/McPringle/pensum/issues/5) in [McPringle/pensum](https://github.com/McPringle/pensum)
-2. ❗ Opened issue [#4](https://github.com/McPringle/pensum/issues/4) in [McPringle/pensum](https://github.com/McPringle/pensum)
-3. ❗ Opened issue [#104](https://github.com/McPringle/apus/issues/104) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#103](https://github.com/McPringle/apus/issues/103) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🔒 Closed issue [#96](https://github.com/McPringle/apus/issues/96) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#92](https://github.com/McPringle/apus/issues/92) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#103](https://github.com/McPringle/apus/issues/103) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#93](https://github.com/McPringle/apus/issues/93) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#5](https://github.com/McPringle/pensum/issues/5) in [McPringle/pensum](https://github.com/McPringle/pensum)
+5. ❗ Opened issue [#4](https://github.com/McPringle/pensum/issues/4) in [McPringle/pensum](https://github.com/McPringle/pensum)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
