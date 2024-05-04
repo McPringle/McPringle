@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#51](https://github.com/McPringle/apus/issues/51) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#11](https://github.com/lukecarr/nightly-check/issues/11) in [lukecarr/nightly-check](https://github.com/lukecarr/nightly-check)
-3. 🎉 Merged PR [#110](https://github.com/McPringle/apus/pull/110) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🎉 Merged PR [#109](https://github.com/McPringle/apus/pull/109) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ❗ Opened issue [#3](https://github.com/ijug-ev/infra.ijug.eu/issues/3) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+1. ❗ Opened issue [#583](https://github.com/cpfair/tapiriik/issues/583) in [cpfair/tapiriik](https://github.com/cpfair/tapiriik)
+2. ❗ Opened issue [#1](https://github.com/ijug-ev/monika/issues/1) in [ijug-ev/monika](https://github.com/ijug-ev/monika)
+3. 🎉 Merged PR [#111](https://github.com/McPringle/apus/pull/111) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#11](https://github.com/McPringle/pensum/pull/11) in [McPringle/pensum](https://github.com/McPringle/pensum)
+5. 🔒 Closed issue [#51](https://github.com/McPringle/apus/issues/51) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
