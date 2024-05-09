@@ -75,11 +75,11 @@
 ### 🚴‍ Latest Cycling Blog Posts 🇩🇪
 
 <!-- CYCLINGBLOG:START -->
+- [Saisonauftakt Vierwaldstättersee](https://sattelgeschichten.ch/blog/2024-05-08/saisonauftakt-vierwaldstaettersee/)
 - [Statistik April 2024](https://sattelgeschichten.ch/blog/2024-05-07/statistik/)
 - [Meine JavaLand Sternfahrt 2024](https://sattelgeschichten.ch/blog/2024-05-06/meine-javaland-sternfahrt-2024/)
 - [Statistik März 2024](https://sattelgeschichten.ch/blog/2024-04-22/statistik/)
 - [Planung der Sternfahrt zur JavaLand](https://sattelgeschichten.ch/blog/2024-03-15/planung-der-sternfahrt-zur-javaland/)
-- [Statistik Februar 2024](https://sattelgeschichten.ch/blog/2024-03-09/statistik/)
 <!-- CYCLINGBLOG:END -->
 
 ➡️ [more blog posts...][cyclingblog]
