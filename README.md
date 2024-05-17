@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#112](https://github.com/McPringle/apus/pull/112#issuecomment-2102128562) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#424](https://github.com/hackergarten/hackergarten.github.io/pull/424#issuecomment-2102104656) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❗ Opened issue [#3](https://github.com/McPringle/velo-statista/issues/3) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
-4. ❗ Opened issue [#2](https://github.com/McPringle/velo-statista/issues/2) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
-5. 🗣 Commented on [#36](https://github.com/McPringle/apus/issues/36#issuecomment-2101363756) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🎉 Merged PR [#112](https://github.com/McPringle/apus/pull/112) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#112](https://github.com/McPringle/apus/pull/112#issuecomment-2102128562) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🗣 Commented on [#424](https://github.com/hackergarten/hackergarten.github.io/pull/424#issuecomment-2102104656) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. ❗ Opened issue [#3](https://github.com/McPringle/velo-statista/issues/3) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
+5. ❗ Opened issue [#2](https://github.com/McPringle/velo-statista/issues/2) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
