@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2118731018) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2118720843) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🎉 Merged PR [#112](https://github.com/McPringle/apus/pull/112) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🗣 Commented on [#112](https://github.com/McPringle/apus/pull/112#issuecomment-2102128562) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#424](https://github.com/hackergarten/hackergarten.github.io/pull/424#issuecomment-2102104656) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2123426164) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#17](https://github.com/McPringle/pensum/issues/17) in [McPringle/pensum](https://github.com/McPringle/pensum)
+3. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2118731018) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2118720843) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🎉 Merged PR [#112](https://github.com/McPringle/apus/pull/112) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
