@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/McPringle/apus/issues/105#issuecomment-2128023935) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#2](https://github.com/hack-commit-push/lucerne2024/pull/2) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
-3. 🎉 Merged PR [#1](https://github.com/hack-commit-push/lucerne2024/pull/1) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
-4. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2125099764) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2123426164) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🗣 Commented on [#83](https://github.com/McPringle/apus/issues/83#issuecomment-2131220595) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#105](https://github.com/McPringle/apus/issues/105#issuecomment-2128023935) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🎉 Merged PR [#2](https://github.com/hack-commit-push/lucerne2024/pull/2) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
+4. 🎉 Merged PR [#1](https://github.com/hack-commit-push/lucerne2024/pull/1) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
+5. 🗣 Commented on [#119](https://github.com/McPringle/apus/pull/119#issuecomment-2125099764) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
