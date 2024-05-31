@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#33](https://github.com/moelholm/bot-javabubble/issues/33) in [moelholm/bot-javabubble](https://github.com/moelholm/bot-javabubble)
-2. 🗣 Commented on [#83](https://github.com/McPringle/apus/issues/83#issuecomment-2131220595) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#105](https://github.com/McPringle/apus/issues/105#issuecomment-2128023935) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🎉 Merged PR [#2](https://github.com/hack-commit-push/lucerne2024/pull/2) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
-5. 🎉 Merged PR [#1](https://github.com/hack-commit-push/lucerne2024/pull/1) in [hack-commit-push/lucerne2024](https://github.com/hack-commit-push/lucerne2024)
+1. 💪 Opened PR [#429](https://github.com/hackergarten/hackergarten.github.io/pull/429) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#428](https://github.com/hackergarten/hackergarten.github.io/pull/428) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. ❗ Opened issue [#130](https://github.com/McPringle/apus/issues/130) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#89](https://github.com/McPringle/apus/issues/89#issuecomment-2140876044) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#89](https://github.com/McPringle/apus/issues/89) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
