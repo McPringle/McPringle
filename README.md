@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/McPringle/mastodon-autosetup/issues/9#issuecomment-2145546667) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
-2. 🎉 Merged PR [#131](https://github.com/McPringle/apus/pull/131) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 💪 Opened PR [#429](https://github.com/hackergarten/hackergarten.github.io/pull/429) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#428](https://github.com/hackergarten/hackergarten.github.io/pull/428) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❗ Opened issue [#130](https://github.com/McPringle/apus/issues/130) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🎉 Merged PR [#134](https://github.com/McPringle/apus/pull/134) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#9](https://github.com/McPringle/mastodon-autosetup/issues/9#issuecomment-2145546667) in [McPringle/mastodon-autosetup](https://github.com/McPringle/mastodon-autosetup)
+3. 🎉 Merged PR [#131](https://github.com/McPringle/apus/pull/131) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 💪 Opened PR [#429](https://github.com/hackergarten/hackergarten.github.io/pull/429) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 💪 Opened PR [#428](https://github.com/hackergarten/hackergarten.github.io/pull/428) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
