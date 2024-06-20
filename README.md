@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/McPringle/pensum/pull/29) in [McPringle/pensum](https://github.com/McPringle/pensum)
-2. 🎉 Merged PR [#143](https://github.com/McPringle/apus/pull/143) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🔒 Closed issue [#98](https://github.com/McPringle/apus/issues/98) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#56](https://github.com/McPringle/apus/issues/56) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#138](https://github.com/McPringle/apus/issues/138#issuecomment-2170422628) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+2. 🎉 Merged PR [#29](https://github.com/McPringle/pensum/pull/29) in [McPringle/pensum](https://github.com/McPringle/pensum)
+3. 🎉 Merged PR [#143](https://github.com/McPringle/apus/pull/143) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🔒 Closed issue [#98](https://github.com/McPringle/apus/issues/98) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#56](https://github.com/McPringle/apus/issues/56) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
