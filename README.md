@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
-2. 🎉 Merged PR [#29](https://github.com/McPringle/pensum/pull/29) in [McPringle/pensum](https://github.com/McPringle/pensum)
-3. 🎉 Merged PR [#143](https://github.com/McPringle/apus/pull/143) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#98](https://github.com/McPringle/apus/issues/98) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🔒 Closed issue [#56](https://github.com/McPringle/apus/issues/56) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2180755633) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+2. 💪 Opened PR [#45](https://github.com/manoelcampos/asciidoctor-ghpages-action/pull/45) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+3. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2179968270) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+4. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2179930821) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+5. ❗ Opened issue [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
