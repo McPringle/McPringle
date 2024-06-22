@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2180755633) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
-2. 💪 Opened PR [#45](https://github.com/manoelcampos/asciidoctor-ghpages-action/pull/45) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
-3. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2179968270) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
-4. 🗣 Commented on [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44#issuecomment-2179930821) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
-5. ❗ Opened issue [#44](https://github.com/manoelcampos/asciidoctor-ghpages-action/issues/44) in [manoelcampos/asciidoctor-ghpages-action](https://github.com/manoelcampos/asciidoctor-ghpages-action)
+1. ❗ Opened issue [#11](https://github.com/ijug-ev/infra.ijug.eu/issues/11) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+2. 🔒 Closed issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+3. 🔒 Closed issue [#6](https://github.com/ijug-ev/infra.ijug.eu/issues/6) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+4. ❗ Opened issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+5. 🗣 Commented on [#6](https://github.com/ijug-ev/infra.ijug.eu/issues/6#issuecomment-2182678043) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
