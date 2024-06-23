@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/ijug-ev/infra.ijug.eu/issues/11) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-2. 🔒 Closed issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-3. 🔒 Closed issue [#6](https://github.com/ijug-ev/infra.ijug.eu/issues/6) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-4. ❗ Opened issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-5. 🗣 Commented on [#6](https://github.com/ijug-ev/infra.ijug.eu/issues/6#issuecomment-2182678043) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+1. ❗ Opened issue [#611](https://github.com/komunumo/komunumo-server/issues/611) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
+2. ❗ Opened issue [#11](https://github.com/ijug-ev/infra.ijug.eu/issues/11) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+3. 🔒 Closed issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+4. 🔒 Closed issue [#6](https://github.com/ijug-ev/infra.ijug.eu/issues/6) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+5. ❗ Opened issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
