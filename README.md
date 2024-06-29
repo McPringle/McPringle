@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/McPringle/pensum/pull/36) in [McPringle/pensum](https://github.com/McPringle/pensum)
-2. 🎉 Merged PR [#150](https://github.com/McPringle/apus/pull/150) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#611](https://github.com/komunumo/komunumo-server/issues/611) in [komunumo/komunumo-server](https://github.com/komunumo/komunumo-server)
-4. ❗ Opened issue [#11](https://github.com/ijug-ev/infra.ijug.eu/issues/11) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-5. 🔒 Closed issue [#10](https://github.com/ijug-ev/infra.ijug.eu/issues/10) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+1. 🗣 Commented on [#26](https://github.com/McPringle/apus/issues/26#issuecomment-2197061707) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#26](https://github.com/McPringle/apus/issues/26) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🎉 Merged PR [#152](https://github.com/McPringle/apus/pull/152) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#36](https://github.com/McPringle/pensum/pull/36) in [McPringle/pensum](https://github.com/McPringle/pensum)
+5. 🎉 Merged PR [#150](https://github.com/McPringle/apus/pull/150) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
