@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/McPringle/apus/issues/25#issuecomment-2198327859) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🔒 Closed issue [#25](https://github.com/McPringle/apus/issues/25) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#2](https://github.com/McPringle/mastodon-media-grabber/issues/2) in [McPringle/mastodon-media-grabber](https://github.com/McPringle/mastodon-media-grabber)
-4. 🗣 Commented on [#130](https://github.com/McPringle/apus/issues/130#issuecomment-2198208425) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#130](https://github.com/McPringle/apus/issues/130#issuecomment-2198208176) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🎉 Merged PR [#6](https://github.com/McPringle/jsr-354-demo/pull/6) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
+2. 🎉 Merged PR [#1](https://github.com/McPringle/dashboard/pull/1) in [McPringle/dashboard](https://github.com/McPringle/dashboard)
+3. 🗣 Commented on [#25](https://github.com/McPringle/apus/issues/25#issuecomment-2198327859) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🔒 Closed issue [#25](https://github.com/McPringle/apus/issues/25) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#2](https://github.com/McPringle/mastodon-media-grabber/issues/2) in [McPringle/mastodon-media-grabber](https://github.com/McPringle/mastodon-media-grabber)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
