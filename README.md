@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#155](https://github.com/McPringle/apus/issues/155) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#6](https://github.com/McPringle/jsr-354-demo/pull/6) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
-3. 🎉 Merged PR [#1](https://github.com/McPringle/dashboard/pull/1) in [McPringle/dashboard](https://github.com/McPringle/dashboard)
-4. 🗣 Commented on [#25](https://github.com/McPringle/apus/issues/25#issuecomment-2198327859) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🔒 Closed issue [#25](https://github.com/McPringle/apus/issues/25) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#156](https://github.com/McPringle/apus/issues/156) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#510](https://github.com/flameshot-org/flameshot/issues/510#issuecomment-2210470672) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+3. 💪 Opened PR [#434](https://github.com/hackergarten/hackergarten.github.io/pull/434) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. ❗ Opened issue [#155](https://github.com/McPringle/apus/issues/155) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🎉 Merged PR [#6](https://github.com/McPringle/jsr-354-demo/pull/6) in [McPringle/jsr-354-demo](https://github.com/McPringle/jsr-354-demo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
