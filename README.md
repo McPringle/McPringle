@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#140](https://github.com/McPringle/apus/issues/140) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#156](https://github.com/McPringle/apus/issues/156) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#510](https://github.com/flameshot-org/flameshot/issues/510#issuecomment-2210470672) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-4. 💪 Opened PR [#434](https://github.com/hackergarten/hackergarten.github.io/pull/434) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❗ Opened issue [#155](https://github.com/McPringle/apus/issues/155) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#155](https://github.com/McPringle/apus/issues/155) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#33](https://github.com/McPringle/apus/issues/33) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#162](https://github.com/McPringle/apus/issues/162) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#161](https://github.com/McPringle/apus/issues/161) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#13](https://github.com/ijug-ev/infra.ijug.eu/issues/13) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
