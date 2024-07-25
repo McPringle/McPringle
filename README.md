@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#173](https://github.com/McPringle/apus/issues/173) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#172](https://github.com/McPringle/apus/issues/172) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#171](https://github.com/McPringle/apus/issues/171) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#170](https://github.com/McPringle/apus/issues/170) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ❗ Opened issue [#169](https://github.com/McPringle/apus/issues/169) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#176](https://github.com/McPringle/apus/issues/176) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#175](https://github.com/McPringle/apus/issues/175) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#174](https://github.com/McPringle/apus/issues/174) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#173](https://github.com/McPringle/apus/issues/173) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#172](https://github.com/McPringle/apus/issues/172) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
