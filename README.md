@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#185](https://github.com/McPringle/apus/issues/185) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#184](https://github.com/McPringle/apus/issues/184) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2277454529) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
-4. 🔒 Closed issue [#139](https://github.com/McPringle/apus/issues/139) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🔒 Closed issue [#105](https://github.com/McPringle/apus/issues/105) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🚀 Published release [Version 2](https://github.com/McPringle/apus/releases/tag/v2) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#162](https://github.com/McPringle/apus/issues/162) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#185](https://github.com/McPringle/apus/issues/185) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#184](https://github.com/McPringle/apus/issues/184) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2277454529) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
