@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368#issuecomment-2296518297) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-2. 🗣 Commented on [#408](https://github.com/lxndrblz/anatole/pull/408#issuecomment-2296516258) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-3. ❗ Opened issue [#189](https://github.com/McPringle/apus/issues/189) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#188](https://github.com/McPringle/apus/issues/188) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🚀 Published release [Version 2](https://github.com/McPringle/apus/releases/tag/v2) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 💪 Opened PR [#473](https://github.com/andregasser/bigbone/pull/473) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
+2. 🔒 Closed issue [#44](https://github.com/McPringle/apus/issues/44) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#203](https://github.com/McPringle/apus/issues/203) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368#issuecomment-2296518297) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. 🗣 Commented on [#408](https://github.com/lxndrblz/anatole/pull/408#issuecomment-2296516258) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
