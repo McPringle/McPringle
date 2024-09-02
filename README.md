@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#473](https://github.com/andregasser/bigbone/pull/473) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
-2. 🔒 Closed issue [#44](https://github.com/McPringle/apus/issues/44) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#203](https://github.com/McPringle/apus/issues/203) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🗣 Commented on [#368](https://github.com/lxndrblz/anatole/issues/368#issuecomment-2296518297) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
-5. 🗣 Commented on [#408](https://github.com/lxndrblz/anatole/pull/408#issuecomment-2296516258) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+1. ❗ Opened issue [#642](https://github.com/McPringle/komunumo/issues/642) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ❗ Opened issue [#641](https://github.com/McPringle/komunumo/issues/641) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#640](https://github.com/McPringle/komunumo/issues/640) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 💪 Opened PR [#473](https://github.com/andregasser/bigbone/pull/473) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
+5. 🔒 Closed issue [#44](https://github.com/McPringle/apus/issues/44) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
