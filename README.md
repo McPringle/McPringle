@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#184](https://github.com/McPringle/apus/issues/184) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#206](https://github.com/McPringle/apus/issues/206) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#317](https://github.com/erkin/ponysay/issues/317#issuecomment-2335728515) in [erkin/ponysay](https://github.com/erkin/ponysay)
-4. ❗ Opened issue [#642](https://github.com/McPringle/komunumo/issues/642) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#641](https://github.com/McPringle/komunumo/issues/641) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#210](https://github.com/McPringle/apus/issues/210) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#209](https://github.com/McPringle/apus/issues/209) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#156](https://github.com/McPringle/apus/issues/156) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🔒 Closed issue [#206](https://github.com/McPringle/apus/issues/206) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#208](https://github.com/McPringle/apus/issues/208) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
