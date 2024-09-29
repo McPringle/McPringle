@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#43](https://github.com/McPringle/apus/issues/43) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 💪 Opened PR [#438](https://github.com/hackergarten/hackergarten.github.io/pull/438) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🗣 Commented on [#67](https://github.com/quentinsf/IMAPdedup/issues/67#issuecomment-2374600174) in [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup)
-4. 🎉 Merged PR [#218](https://github.com/McPringle/apus/pull/218) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🎉 Merged PR [#739](https://github.com/gpx-animator/gpx-animator/pull/739) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🔒 Closed issue [#63](https://github.com/McPringle/apus/issues/63) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#43](https://github.com/McPringle/apus/issues/43) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 💪 Opened PR [#438](https://github.com/hackergarten/hackergarten.github.io/pull/438) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🗣 Commented on [#67](https://github.com/quentinsf/IMAPdedup/issues/67#issuecomment-2374600174) in [quentinsf/IMAPdedup](https://github.com/quentinsf/IMAPdedup)
+5. 🎉 Merged PR [#218](https://github.com/McPringle/apus/pull/218) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
