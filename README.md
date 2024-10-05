@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#224](https://github.com/McPringle/apus/pull/224) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#744](https://github.com/gpx-animator/gpx-animator/issues/744#issuecomment-2385473423) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🔒 Closed issue [#63](https://github.com/McPringle/apus/issues/63) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#43](https://github.com/McPringle/apus/issues/43) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 💪 Opened PR [#438](https://github.com/hackergarten/hackergarten.github.io/pull/438) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#72](https://github.com/McPringle/pensum/issues/72#issuecomment-2392975396) in [McPringle/pensum](https://github.com/McPringle/pensum)
+2. 🔒 Closed issue [#72](https://github.com/McPringle/pensum/issues/72) in [McPringle/pensum](https://github.com/McPringle/pensum)
+3. ❗ Opened issue [#72](https://github.com/McPringle/pensum/issues/72) in [McPringle/pensum](https://github.com/McPringle/pensum)
+4. ❌ Closed PR [#69](https://github.com/McPringle/pensum/pull/69) in [McPringle/pensum](https://github.com/McPringle/pensum)
+5. ❌ Closed PR [#224](https://github.com/McPringle/apus/pull/224) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
