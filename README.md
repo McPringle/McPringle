@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/McPringle/pensum/issues/72#issuecomment-2392975396) in [McPringle/pensum](https://github.com/McPringle/pensum)
-2. 🔒 Closed issue [#72](https://github.com/McPringle/pensum/issues/72) in [McPringle/pensum](https://github.com/McPringle/pensum)
-3. ❗ Opened issue [#72](https://github.com/McPringle/pensum/issues/72) in [McPringle/pensum](https://github.com/McPringle/pensum)
-4. ❌ Closed PR [#69](https://github.com/McPringle/pensum/pull/69) in [McPringle/pensum](https://github.com/McPringle/pensum)
-5. ❌ Closed PR [#224](https://github.com/McPringle/apus/pull/224) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❌ Closed PR [#657](https://github.com/McPringle/komunumo/pull/657) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🗣 Commented on [#745](https://github.com/gpx-animator/gpx-animator/issues/745#issuecomment-2396594386) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🔒 Closed issue [#745](https://github.com/gpx-animator/gpx-animator/issues/745) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#750](https://github.com/gpx-animator/gpx-animator/issues/750#issuecomment-2396524972) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🔒 Closed issue [#750](https://github.com/gpx-animator/gpx-animator/issues/750) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
