@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#658](https://github.com/McPringle/komunumo/issues/658) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❌ Closed PR [#657](https://github.com/McPringle/komunumo/pull/657) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🗣 Commented on [#745](https://github.com/gpx-animator/gpx-animator/issues/745#issuecomment-2396594386) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🔒 Closed issue [#745](https://github.com/gpx-animator/gpx-animator/issues/745) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#750](https://github.com/gpx-animator/gpx-animator/issues/750#issuecomment-2396524972) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. ❗ Opened issue [#659](https://github.com/McPringle/komunumo/issues/659) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🎉 Merged PR [#74](https://github.com/McPringle/pensum/pull/74) in [McPringle/pensum](https://github.com/McPringle/pensum)
+3. 🎉 Merged PR [#228](https://github.com/McPringle/apus/pull/228) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#751](https://github.com/gpx-animator/gpx-animator/pull/751) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. ❗ Opened issue [#658](https://github.com/McPringle/komunumo/issues/658) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
