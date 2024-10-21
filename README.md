@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#683](https://github.com/McPringle/komunumo/issues/683) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#682](https://github.com/McPringle/komunumo/issues/682) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❗ Opened issue [#681](https://github.com/McPringle/komunumo/issues/681) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#680](https://github.com/McPringle/komunumo/issues/680) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#677](https://github.com/McPringle/komunumo/issues/677) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🎉 Merged PR [#236](https://github.com/McPringle/apus/pull/236) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#235](https://github.com/McPringle/apus/issues/235#issuecomment-2424966046) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🗣 Commented on [#232](https://github.com/McPringle/apus/pull/232#issuecomment-2424696392) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❌ Closed PR [#232](https://github.com/McPringle/apus/pull/232) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#235](https://github.com/McPringle/apus/issues/235) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
