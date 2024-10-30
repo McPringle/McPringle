@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Version 4](https://github.com/McPringle/apus/releases/tag/v4) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🔒 Closed issue [#83](https://github.com/McPringle/apus/issues/83) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#78](https://github.com/McPringle/pensum/pull/78#issuecomment-2441471868) in [McPringle/pensum](https://github.com/McPringle/pensum)
-4. ❌ Closed PR [#78](https://github.com/McPringle/pensum/pull/78) in [McPringle/pensum](https://github.com/McPringle/pensum)
-5. 🗣 Commented on [#71](https://github.com/McPringle/pensum/pull/71#issuecomment-2441470926) in [McPringle/pensum](https://github.com/McPringle/pensum)
+1. 🎉 Merged PR [#1](https://github.com/McPringle/vanilla-os-tuxedo-image/pull/1) in [McPringle/vanilla-os-tuxedo-image](https://github.com/McPringle/vanilla-os-tuxedo-image)
+2. 🚀 Published release [Version 4](https://github.com/McPringle/apus/releases/tag/v4) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#83](https://github.com/McPringle/apus/issues/83) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#78](https://github.com/McPringle/pensum/pull/78#issuecomment-2441471868) in [McPringle/pensum](https://github.com/McPringle/pensum)
+5. ❌ Closed PR [#78](https://github.com/McPringle/pensum/pull/78) in [McPringle/pensum](https://github.com/McPringle/pensum)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
