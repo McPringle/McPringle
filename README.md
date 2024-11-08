@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#672](https://github.com/McPringle/komunumo/issues/672#issuecomment-2453103536) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🔒 Closed issue [#667](https://github.com/McPringle/komunumo/issues/667) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#691](https://github.com/McPringle/komunumo/issues/691) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🔒 Closed issue [#679](https://github.com/McPringle/komunumo/issues/679) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#691](https://github.com/McPringle/komunumo/issues/691) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#120](https://github.com/sonnyp/Commit/issues/120) in [sonnyp/Commit](https://github.com/sonnyp/Commit)
+2. 🗣 Commented on [#672](https://github.com/McPringle/komunumo/issues/672#issuecomment-2453103536) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🔒 Closed issue [#667](https://github.com/McPringle/komunumo/issues/667) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🔒 Closed issue [#691](https://github.com/McPringle/komunumo/issues/691) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🔒 Closed issue [#679](https://github.com/McPringle/komunumo/issues/679) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
