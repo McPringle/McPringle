@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#419](https://github.com/tuxedocomputers/tuxedo-control-center/issues/419) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
-2. 🗣 Commented on [#1444](https://github.com/nvbn/thefuck/issues/1444#issuecomment-2463295423) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
-3. ❗ Opened issue [#120](https://github.com/sonnyp/Commit/issues/120) in [sonnyp/Commit](https://github.com/sonnyp/Commit)
-4. 🗣 Commented on [#672](https://github.com/McPringle/komunumo/issues/672#issuecomment-2453103536) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#667](https://github.com/McPringle/komunumo/issues/667) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
+2. 🗣 Commented on [#713](https://github.com/linuxmint/cinnamon-spices-themes/issues/713#issuecomment-2466821157) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
+3. ❗ Opened issue [#419](https://github.com/tuxedocomputers/tuxedo-control-center/issues/419) in [tuxedocomputers/tuxedo-control-center](https://github.com/tuxedocomputers/tuxedo-control-center)
+4. 🗣 Commented on [#1444](https://github.com/nvbn/thefuck/issues/1444#issuecomment-2463295423) in [nvbn/thefuck](https://github.com/nvbn/thefuck)
+5. ❗ Opened issue [#120](https://github.com/sonnyp/Commit/issues/120) in [sonnyp/Commit](https://github.com/sonnyp/Commit)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
