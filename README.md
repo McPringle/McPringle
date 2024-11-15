@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#186](https://github.com/d0x2f/retro.tools/pull/186) in [d0x2f/retro.tools](https://github.com/d0x2f/retro.tools)
-2. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70#issuecomment-2468490091) in [marchof/javabubble](https://github.com/marchof/javabubble)
-3. 🗣 Commented on [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830#issuecomment-2467494744) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
-4. ❗ Opened issue [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
-5. 🗣 Commented on [#713](https://github.com/linuxmint/cinnamon-spices-themes/issues/713#issuecomment-2466821157) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
+1. ❗ Opened issue [#78](https://github.com/agateau/nanonote/issues/78) in [agateau/nanonote](https://github.com/agateau/nanonote)
+2. 💪 Opened PR [#186](https://github.com/d0x2f/retro.tools/pull/186) in [d0x2f/retro.tools](https://github.com/d0x2f/retro.tools)
+3. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70#issuecomment-2468490091) in [marchof/javabubble](https://github.com/marchof/javabubble)
+4. 🗣 Commented on [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830#issuecomment-2467494744) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
+5. ❗ Opened issue [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
