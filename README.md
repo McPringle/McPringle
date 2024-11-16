@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#78](https://github.com/agateau/nanonote/issues/78) in [agateau/nanonote](https://github.com/agateau/nanonote)
-2. 💪 Opened PR [#186](https://github.com/d0x2f/retro.tools/pull/186) in [d0x2f/retro.tools](https://github.com/d0x2f/retro.tools)
-3. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70#issuecomment-2468490091) in [marchof/javabubble](https://github.com/marchof/javabubble)
-4. 🗣 Commented on [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830#issuecomment-2467494744) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
-5. ❗ Opened issue [#830](https://github.com/linuxmint/cinnamon-spices-themes/issues/830) in [linuxmint/cinnamon-spices-themes](https://github.com/linuxmint/cinnamon-spices-themes)
+1. 🎉 Merged PR [#699](https://github.com/McPringle/komunumo/pull/699) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🎉 Merged PR [#251](https://github.com/McPringle/apus/pull/251) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#78](https://github.com/agateau/nanonote/issues/78) in [agateau/nanonote](https://github.com/agateau/nanonote)
+4. 💪 Opened PR [#186](https://github.com/d0x2f/retro.tools/pull/186) in [d0x2f/retro.tools](https://github.com/d0x2f/retro.tools)
+5. 🗣 Commented on [#70](https://github.com/marchof/javabubble/issues/70#issuecomment-2468490091) in [marchof/javabubble](https://github.com/marchof/javabubble)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
