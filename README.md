@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#212](https://github.com/McPringle/apus/issues/212#issuecomment-2480632116) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#699](https://github.com/McPringle/komunumo/pull/699) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🎉 Merged PR [#251](https://github.com/McPringle/apus/pull/251) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#78](https://github.com/agateau/nanonote/issues/78) in [agateau/nanonote](https://github.com/agateau/nanonote)
-5. 💪 Opened PR [#186](https://github.com/d0x2f/retro.tools/pull/186) in [d0x2f/retro.tools](https://github.com/d0x2f/retro.tools)
+1. 🎉 Merged PR [#767](https://github.com/gpx-animator/gpx-animator/pull/767) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#767](https://github.com/gpx-animator/gpx-animator/pull/767#issuecomment-2481061190) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#212](https://github.com/McPringle/apus/issues/212#issuecomment-2480632116) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#699](https://github.com/McPringle/komunumo/pull/699) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🎉 Merged PR [#251](https://github.com/McPringle/apus/pull/251) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
