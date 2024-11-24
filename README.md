@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#767](https://github.com/gpx-animator/gpx-animator/pull/767) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#767](https://github.com/gpx-animator/gpx-animator/pull/767#issuecomment-2481061190) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🗣 Commented on [#212](https://github.com/McPringle/apus/issues/212#issuecomment-2480632116) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🎉 Merged PR [#699](https://github.com/McPringle/komunumo/pull/699) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🎉 Merged PR [#251](https://github.com/McPringle/apus/pull/251) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 💪 Opened PR [#1430](https://github.com/alfio-event/alf.io/pull/1430) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+2. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2495429829) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+3. 🎉 Merged PR [#767](https://github.com/gpx-animator/gpx-animator/pull/767) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🗣 Commented on [#767](https://github.com/gpx-animator/gpx-animator/pull/767#issuecomment-2481061190) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#212](https://github.com/McPringle/apus/issues/212#issuecomment-2480632116) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
