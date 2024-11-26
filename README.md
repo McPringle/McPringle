@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1430](https://github.com/alfio-event/alf.io/pull/1430) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
-2. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2495429829) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
-3. 🎉 Merged PR [#767](https://github.com/gpx-animator/gpx-animator/pull/767) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🗣 Commented on [#767](https://github.com/gpx-animator/gpx-animator/pull/767#issuecomment-2481061190) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#212](https://github.com/McPringle/apus/issues/212#issuecomment-2480632116) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#48](https://github.com/khmarbaise/maven-buildtime-profiler/issues/48) in [khmarbaise/maven-buildtime-profiler](https://github.com/khmarbaise/maven-buildtime-profiler)
+2. 💪 Opened PR [#1430](https://github.com/alfio-event/alf.io/pull/1430) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+3. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2495429829) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+4. 🎉 Merged PR [#767](https://github.com/gpx-animator/gpx-animator/pull/767) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+5. 🗣 Commented on [#767](https://github.com/gpx-animator/gpx-animator/pull/767#issuecomment-2481061190) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
