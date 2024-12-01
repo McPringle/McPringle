@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/McPringle/apus/issues/23#issuecomment-2506780037) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#255](https://github.com/McPringle/apus/pull/255) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#48](https://github.com/khmarbaise/maven-buildtime-profiler/issues/48) in [khmarbaise/maven-buildtime-profiler](https://github.com/khmarbaise/maven-buildtime-profiler)
-4. 💪 Opened PR [#1430](https://github.com/alfio-event/alf.io/pull/1430) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
-5. 🗣 Commented on [#1384](https://github.com/alfio-event/alf.io/issues/1384#issuecomment-2495429829) in [alfio-event/alf.io](https://github.com/alfio-event/alf.io)
+1. 🎉 Merged PR [#258](https://github.com/McPringle/apus/pull/258) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#258](https://github.com/McPringle/apus/pull/258#issuecomment-2509034813) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🗣 Commented on [#23](https://github.com/McPringle/apus/issues/23#issuecomment-2506780037) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#255](https://github.com/McPringle/apus/pull/255) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#48](https://github.com/khmarbaise/maven-buildtime-profiler/issues/48) in [khmarbaise/maven-buildtime-profiler](https://github.com/khmarbaise/maven-buildtime-profiler)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
