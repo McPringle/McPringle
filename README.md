@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/McPringle/adventofcode/issues/1) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-2. ❗ Opened issue [#25](https://github.com/McPringle/adventofcode/issues/25) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-3. ❗ Opened issue [#24](https://github.com/McPringle/adventofcode/issues/24) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-4. ❗ Opened issue [#23](https://github.com/McPringle/adventofcode/issues/23) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-5. ❗ Opened issue [#22](https://github.com/McPringle/adventofcode/issues/22) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+1. 🔒 Closed issue [#23](https://github.com/McPringle/apus/issues/23) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#23](https://github.com/McPringle/apus/issues/23#issuecomment-2511857359) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#261](https://github.com/McPringle/apus/issues/261) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#260](https://github.com/McPringle/apus/pull/260) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#2](https://github.com/McPringle/adventofcode/issues/2) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
