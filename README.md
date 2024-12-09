@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/McPringle/adventofcode/issues/5) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-2. 🗣 Commented on [#5996](https://github.com/borgbackup/borg/issues/5996#issuecomment-2523449661) in [borgbackup/borg](https://github.com/borgbackup/borg)
-3. 🔒 Closed issue [#4](https://github.com/McPringle/adventofcode/issues/4) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-4. 🔒 Closed issue [#3](https://github.com/McPringle/adventofcode/issues/3) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-5. 🔒 Closed issue [#23](https://github.com/McPringle/apus/issues/23) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#7](https://github.com/McPringle/adventofcode/issues/7) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+2. 🎉 Merged PR [#26](https://github.com/McPringle/adventofcode/pull/26) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+3. 🔒 Closed issue [#5](https://github.com/McPringle/adventofcode/issues/5) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+4. 🗣 Commented on [#5996](https://github.com/borgbackup/borg/issues/5996#issuecomment-2523449661) in [borgbackup/borg](https://github.com/borgbackup/borg)
+5. 🔒 Closed issue [#4](https://github.com/McPringle/adventofcode/issues/4) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
