@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/McPringle/komunumo/issues/2) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#2](https://github.com/McPringle/komunumo/issues/2) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#11](https://github.com/McPringle/adventofcode/issues/11) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-4. 🔒 Closed issue [#7](https://github.com/McPringle/adventofcode/issues/7) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
-5. 🎉 Merged PR [#26](https://github.com/McPringle/adventofcode/pull/26) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+1. 🎉 Merged PR [#1](https://github.com/jugch/javaland-sternfahrt-2025/pull/1) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+2. 🔒 Closed issue [#2](https://github.com/McPringle/komunumo/issues/2) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#2](https://github.com/McPringle/komunumo/issues/2) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🔒 Closed issue [#11](https://github.com/McPringle/adventofcode/issues/11) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
+5. 🔒 Closed issue [#7](https://github.com/McPringle/adventofcode/issues/7) in [McPringle/adventofcode](https://github.com/McPringle/adventofcode)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
