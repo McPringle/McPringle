@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/McPringle/komunumo/issues/3) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#5](https://github.com/McPringle/komunumo/issues/5) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❗ Opened issue [#4](https://github.com/McPringle/komunumo/issues/4) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#3](https://github.com/McPringle/komunumo/issues/3) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🎉 Merged PR [#1](https://github.com/jugch/javaland-sternfahrt-2025/pull/1) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+1. 🗣 Commented on [#775](https://github.com/gpx-animator/gpx-animator/issues/775#issuecomment-2554678883) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🔒 Closed issue [#775](https://github.com/gpx-animator/gpx-animator/issues/775) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🗣 Commented on [#775](https://github.com/gpx-animator/gpx-animator/issues/775#issuecomment-2554621889) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. 🔒 Closed issue [#3](https://github.com/McPringle/komunumo/issues/3) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#5](https://github.com/McPringle/komunumo/issues/5) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
