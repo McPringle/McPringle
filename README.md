@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/McPringle/rallyman/issues/1) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-2. ❗ Opened issue [#1](https://github.com/McPringle/rallyman/issues/1) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-3. 🗣 Commented on [#775](https://github.com/gpx-animator/gpx-animator/issues/775#issuecomment-2554678883) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. 🔒 Closed issue [#775](https://github.com/gpx-animator/gpx-animator/issues/775) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-5. 🗣 Commented on [#775](https://github.com/gpx-animator/gpx-animator/issues/775#issuecomment-2554621889) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🔒 Closed issue [#3](https://github.com/McPringle/rallyman/issues/3) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+2. 🔒 Closed issue [#6](https://github.com/McPringle/rallyman/issues/6) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+3. 🔒 Closed issue [#7](https://github.com/McPringle/rallyman/issues/7) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+4. 🔒 Closed issue [#5](https://github.com/McPringle/rallyman/issues/5) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+5. ❗ Opened issue [#7](https://github.com/McPringle/rallyman/issues/7) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
