@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/McPringle/rallyman/issues/3) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-2. 🔒 Closed issue [#6](https://github.com/McPringle/rallyman/issues/6) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-3. 🔒 Closed issue [#7](https://github.com/McPringle/rallyman/issues/7) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-4. 🔒 Closed issue [#5](https://github.com/McPringle/rallyman/issues/5) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-5. ❗ Opened issue [#7](https://github.com/McPringle/rallyman/issues/7) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. 🗣 Commented on [#529](https://github.com/lxndrblz/anatole/issues/529#issuecomment-2558574777) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+2. 🗣 Commented on [#529](https://github.com/lxndrblz/anatole/issues/529#issuecomment-2558570153) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+3. ❗ Opened issue [#529](https://github.com/lxndrblz/anatole/issues/529) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+4. 🗣 Commented on [#384](https://github.com/lxndrblz/anatole/issues/384#issuecomment-2558555304) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
+5. 🔒 Closed issue [#384](https://github.com/lxndrblz/anatole/issues/384) in [lxndrblz/anatole](https://github.com/lxndrblz/anatole)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
