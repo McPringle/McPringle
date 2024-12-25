@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/McPringle/rallyman/issues/10) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-2. ❗ Opened issue [#13](https://github.com/McPringle/rallyman/issues/13) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-3. ❗ Opened issue [#12](https://github.com/McPringle/rallyman/issues/12) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-4. ❗ Opened issue [#11](https://github.com/McPringle/rallyman/issues/11) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-5. ❗ Opened issue [#10](https://github.com/McPringle/rallyman/issues/10) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. ❗ Opened issue [#20](https://github.com/McPringle/rallyman/issues/20) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+2. ❗ Opened issue [#19](https://github.com/McPringle/rallyman/issues/19) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+3. ❗ Opened issue [#18](https://github.com/McPringle/rallyman/issues/18) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+4. ❗ Opened issue [#17](https://github.com/McPringle/rallyman/issues/17) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+5. ❗ Opened issue [#16](https://github.com/McPringle/rallyman/issues/16) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
