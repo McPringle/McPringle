@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/McPringle/rallyman/issues/31) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-2. 🔒 Closed issue [#25](https://github.com/McPringle/rallyman/issues/25) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-3. 🔒 Closed issue [#15](https://github.com/McPringle/rallyman/issues/15) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-4. ❗ Opened issue [#30](https://github.com/McPringle/rallyman/issues/30) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-5. ❗ Opened issue [#29](https://github.com/McPringle/rallyman/issues/29) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. ❗ Opened issue [#32](https://github.com/McPringle/rallyman/issues/32) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+2. 🗣 Commented on [#20](https://github.com/McPringle/rallyman/issues/20#issuecomment-2571708565) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+3. 🔒 Closed issue [#20](https://github.com/McPringle/rallyman/issues/20) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+4. 🔒 Closed issue [#26](https://github.com/McPringle/rallyman/issues/26) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+5. ❗ Opened issue [#31](https://github.com/McPringle/rallyman/issues/31) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
