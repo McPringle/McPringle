@@ -99,11 +99,11 @@
 ### :zap: GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/McPringle/rallyman/issues/32) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-2. 🗣 Commented on [#20](https://github.com/McPringle/rallyman/issues/20#issuecomment-2571708565) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-3. 🔒 Closed issue [#20](https://github.com/McPringle/rallyman/issues/20) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-4. 🔒 Closed issue [#26](https://github.com/McPringle/rallyman/issues/26) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-5. ❗ Opened issue [#31](https://github.com/McPringle/rallyman/issues/31) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. 🎉 Merged PR [#2](https://github.com/jugch/javaland-sternfahrt-2025/pull/2) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+2. 🔒 Closed issue [#27](https://github.com/McPringle/rallyman/issues/27) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+3. 🎉 Merged PR [#33](https://github.com/McPringle/rallyman/pull/33) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+4. 💪 Opened PR [#33](https://github.com/McPringle/rallyman/pull/33) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+5. ❗ Opened issue [#32](https://github.com/McPringle/rallyman/issues/32) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=McPringle&count_private=true&show_icons=true)
