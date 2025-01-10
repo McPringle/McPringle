@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#272](https://github.com/McPringle/apus/pull/272) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#791](https://github.com/gpx-animator/gpx-animator/issues/791) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. 🎉 Merged PR [#2](https://github.com/jugch/javaland-sternfahrt-2025/pull/2) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
-4. 🔒 Closed issue [#27](https://github.com/McPringle/rallyman/issues/27) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-5. 🎉 Merged PR [#33](https://github.com/McPringle/rallyman/pull/33) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. 🗣 Commented on [#789](https://github.com/gpx-animator/gpx-animator/pull/789#issuecomment-2579548233) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. ❗ Opened issue [#792](https://github.com/gpx-animator/gpx-animator/issues/792) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. ❗ Opened issue [#273](https://github.com/McPringle/apus/issues/273) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#11](https://github.com/McPringle/komunumo/issues/11) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#34](https://github.com/McPringle/rallyman/issues/34) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
