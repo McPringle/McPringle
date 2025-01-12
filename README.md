@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#789](https://github.com/gpx-animator/gpx-animator/pull/789#issuecomment-2579548233) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. ❗ Opened issue [#792](https://github.com/gpx-animator/gpx-animator/issues/792) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗ Opened issue [#273](https://github.com/McPringle/apus/issues/273) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#11](https://github.com/McPringle/komunumo/issues/11) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#34](https://github.com/McPringle/rallyman/issues/34) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. ❗ Opened issue [#1463](https://github.com/pop-os/cosmic-epoch/issues/1463) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+2. ❗ Opened issue [#1462](https://github.com/pop-os/cosmic-epoch/issues/1462) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+3. ❗ Opened issue [#6](https://github.com/McPringle/velo-statista/issues/6) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
+4. ❗ Opened issue [#275](https://github.com/McPringle/apus/issues/275) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#37](https://github.com/McPringle/rallyman/issues/37) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
