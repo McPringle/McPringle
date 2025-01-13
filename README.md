@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1463](https://github.com/pop-os/cosmic-epoch/issues/1463) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
-2. ❗ Opened issue [#1462](https://github.com/pop-os/cosmic-epoch/issues/1462) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
-3. ❗ Opened issue [#6](https://github.com/McPringle/velo-statista/issues/6) in [McPringle/velo-statista](https://github.com/McPringle/velo-statista)
-4. ❗ Opened issue [#275](https://github.com/McPringle/apus/issues/275) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ❗ Opened issue [#37](https://github.com/McPringle/rallyman/issues/37) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+1. ❗ Opened issue [#38](https://github.com/McPringle/rallyman/issues/38) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
+2. 🗣 Commented on [#202](https://github.com/andregasser/bigbone/pull/202#issuecomment-2585739136) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
+3. 🗣 Commented on [#789](https://github.com/gpx-animator/gpx-animator/pull/789#issuecomment-2585730312) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗ Opened issue [#1463](https://github.com/pop-os/cosmic-epoch/issues/1463) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
+5. ❗ Opened issue [#1462](https://github.com/pop-os/cosmic-epoch/issues/1462) in [pop-os/cosmic-epoch](https://github.com/pop-os/cosmic-epoch)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
