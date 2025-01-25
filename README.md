@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/McPringle/komunumo/issues/15) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#276](https://github.com/McPringle/apus/issues/276) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#38](https://github.com/McPringle/rallyman/issues/38) in [McPringle/rallyman](https://github.com/McPringle/rallyman)
-4. 🗣 Commented on [#202](https://github.com/andregasser/bigbone/pull/202#issuecomment-2585739136) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
-5. 🗣 Commented on [#789](https://github.com/gpx-animator/gpx-animator/pull/789#issuecomment-2585730312) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#2838](https://github.com/bluesky-social/atproto/issues/2838#issuecomment-2611877213) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
+2. 🔒 Closed issue [#282](https://github.com/McPringle/apus/issues/282) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#282](https://github.com/McPringle/apus/issues/282) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#15](https://github.com/McPringle/komunumo/issues/15) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#276](https://github.com/McPringle/apus/issues/276) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
