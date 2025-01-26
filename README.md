@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2838](https://github.com/bluesky-social/atproto/issues/2838#issuecomment-2611877213) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
-2. 🔒 Closed issue [#282](https://github.com/McPringle/apus/issues/282) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#282](https://github.com/McPringle/apus/issues/282) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#15](https://github.com/McPringle/komunumo/issues/15) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#276](https://github.com/McPringle/apus/issues/276) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#52](https://github.com/Jean28518/invoice-creator-german/issues/52) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+2. ❗ Opened issue [#51](https://github.com/Jean28518/invoice-creator-german/issues/51) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+3. ❗ Opened issue [#50](https://github.com/Jean28518/invoice-creator-german/issues/50) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+4. 🗣 Commented on [#2838](https://github.com/bluesky-social/atproto/issues/2838#issuecomment-2611877213) in [bluesky-social/atproto](https://github.com/bluesky-social/atproto)
+5. 🔒 Closed issue [#282](https://github.com/McPringle/apus/issues/282) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
