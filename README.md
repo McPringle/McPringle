@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2025/pull/3) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
-2. ❗ Opened issue [#920](https://github.com/linuxmint/mintupdate/issues/920) in [linuxmint/mintupdate](https://github.com/linuxmint/mintupdate)
-3. ❗ Opened issue [#52](https://github.com/Jean28518/invoice-creator-german/issues/52) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
-4. ❗ Opened issue [#51](https://github.com/Jean28518/invoice-creator-german/issues/51) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
-5. ❗ Opened issue [#50](https://github.com/Jean28518/invoice-creator-german/issues/50) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+1. 🔒 Closed issue [#188](https://github.com/McPringle/apus/issues/188) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2025/pull/3) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+3. ❗ Opened issue [#920](https://github.com/linuxmint/mintupdate/issues/920) in [linuxmint/mintupdate](https://github.com/linuxmint/mintupdate)
+4. ❗ Opened issue [#52](https://github.com/Jean28518/invoice-creator-german/issues/52) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+5. ❗ Opened issue [#51](https://github.com/Jean28518/invoice-creator-german/issues/51) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
