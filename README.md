@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#24](https://github.com/McPringle/komunumo/issues/24) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#287](https://github.com/McPringle/apus/issues/287) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#23](https://github.com/McPringle/komunumo/issues/23) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🔒 Closed issue [#188](https://github.com/McPringle/apus/issues/188) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🎉 Merged PR [#3](https://github.com/jugch/javaland-sternfahrt-2025/pull/3) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+1. ❗ Opened issue [#289](https://github.com/McPringle/apus/issues/289) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#24](https://github.com/McPringle/komunumo/issues/24) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#287](https://github.com/McPringle/apus/issues/287) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ❗ Opened issue [#23](https://github.com/McPringle/komunumo/issues/23) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🔒 Closed issue [#188](https://github.com/McPringle/apus/issues/188) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
