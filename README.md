@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#289](https://github.com/McPringle/apus/issues/289) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#24](https://github.com/McPringle/komunumo/issues/24) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❗ Opened issue [#287](https://github.com/McPringle/apus/issues/287) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#23](https://github.com/McPringle/komunumo/issues/23) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#188](https://github.com/McPringle/apus/issues/188) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#294](https://github.com/McPringle/apus/issues/294) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#293](https://github.com/McPringle/apus/issues/293) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#292](https://github.com/McPringle/apus/issues/292) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#290](https://github.com/McPringle/apus/pull/290) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#524](https://github.com/andregasser/bigbone/issues/524#issuecomment-2643568348) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
