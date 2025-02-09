@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#294](https://github.com/McPringle/apus/issues/294) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#293](https://github.com/McPringle/apus/issues/293) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ❗ Opened issue [#292](https://github.com/McPringle/apus/issues/292) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🎉 Merged PR [#290](https://github.com/McPringle/apus/pull/290) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#524](https://github.com/andregasser/bigbone/issues/524#issuecomment-2643568348) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
+1. ❗ Opened issue [#296](https://github.com/McPringle/apus/issues/296) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#276](https://github.com/McPringle/apus/issues/276) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#212](https://github.com/McPringle/apus/issues/212) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#185](https://github.com/McPringle/apus/issues/185#issuecomment-2644743351) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#185](https://github.com/McPringle/apus/issues/185) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
