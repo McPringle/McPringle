@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#295](https://github.com/McPringle/apus/issues/295) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#1](https://github.com/jugch/sponsorslides/pull/1) in [jugch/sponsorslides](https://github.com/jugch/sponsorslides)
-3. 🔒 Closed issue [#298](https://github.com/McPringle/apus/issues/298) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🗣 Commented on [#524](https://github.com/andregasser/bigbone/issues/524#issuecomment-2648316955) in [andregasser/bigbone](https://github.com/andregasser/bigbone)
-5. 🔒 Closed issue [#294](https://github.com/McPringle/apus/issues/294) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🗣 Commented on [#3](https://github.com/jugch/intro-slides/pull/3#issuecomment-2665887728) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+2. ❌ Closed PR [#3](https://github.com/jugch/intro-slides/pull/3) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+3. 🗣 Commented on [#2](https://github.com/jugch/intro-slides/pull/2#issuecomment-2665884261) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+4. ❌ Closed PR [#2](https://github.com/jugch/intro-slides/pull/2) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+5. 🔒 Closed issue [#295](https://github.com/McPringle/apus/issues/295) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
