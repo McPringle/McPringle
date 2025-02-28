@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#273](https://github.com/McPringle/apus/issues/273) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#24](https://github.com/McPringle/apus/issues/24#issuecomment-2676760656) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🔒 Closed issue [#24](https://github.com/McPringle/apus/issues/24) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#174](https://github.com/McPringle/apus/issues/174#issuecomment-2676758564) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#313](https://github.com/McPringle/apus/issues/313) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#273](https://github.com/McPringle/apus/issues/273) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❗ Opened issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#24](https://github.com/McPringle/apus/issues/24#issuecomment-2676760656) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🔒 Closed issue [#24](https://github.com/McPringle/apus/issues/24) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
