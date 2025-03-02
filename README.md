@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#313](https://github.com/McPringle/apus/issues/313) in [McPringle/apus](https://github.com/McPringle/apus)
-2. ❗ Opened issue [#313](https://github.com/McPringle/apus/issues/313) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🔒 Closed issue [#273](https://github.com/McPringle/apus/issues/273) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#24](https://github.com/McPringle/apus/issues/24#issuecomment-2676760656) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#314](https://github.com/McPringle/apus/issues/314) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🗣 Commented on [#289](https://github.com/McPringle/apus/issues/289#issuecomment-2692141983) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🗣 Commented on [#289](https://github.com/McPringle/apus/issues/289#issuecomment-2692133820) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#289](https://github.com/McPringle/apus/issues/289#issuecomment-2692129822) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#289](https://github.com/McPringle/apus/issues/289#issuecomment-2692109228) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
