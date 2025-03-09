@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#55](https://github.com/kordamp/gm/issues/55) in [kordamp/gm](https://github.com/kordamp/gm)
-2. 🔒 Closed issue [#323](https://github.com/McPringle/apus/issues/323) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#323](https://github.com/McPringle/apus/issues/323#issuecomment-2707112481) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 💪 Opened PR [#455](https://github.com/hackergarten/hackergarten.github.io/pull/455) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🗣 Commented on [#323](https://github.com/McPringle/apus/issues/323#issuecomment-2706040024) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🎉 Merged PR [#7](https://github.com/jugch/intro-slides/pull/7) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+3. ❗ Opened issue [#55](https://github.com/kordamp/gm/issues/55) in [kordamp/gm](https://github.com/kordamp/gm)
+4. 🔒 Closed issue [#323](https://github.com/McPringle/apus/issues/323) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#323](https://github.com/McPringle/apus/issues/323#issuecomment-2707112481) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
