@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#7](https://github.com/jugch/intro-slides/pull/7) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
-3. ❗ Opened issue [#55](https://github.com/kordamp/gm/issues/55) in [kordamp/gm](https://github.com/kordamp/gm)
-4. 🔒 Closed issue [#323](https://github.com/McPringle/apus/issues/323) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🗣 Commented on [#323](https://github.com/McPringle/apus/issues/323#issuecomment-2707112481) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🔒 Closed issue [#291](https://github.com/McPringle/apus/issues/291) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🔒 Closed issue [#309](https://github.com/McPringle/apus/issues/309) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🎉 Merged PR [#7](https://github.com/jugch/intro-slides/pull/7) in [jugch/intro-slides](https://github.com/jugch/intro-slides)
+4. ❗ Opened issue [#55](https://github.com/kordamp/gm/issues/55) in [kordamp/gm](https://github.com/kordamp/gm)
+5. 🔒 Closed issue [#323](https://github.com/McPringle/apus/issues/323) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
