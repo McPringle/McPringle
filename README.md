@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#203](https://github.com/McPringle/apus/issues/203) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🎉 Merged PR [#331](https://github.com/McPringle/apus/pull/331) in [McPringle/apus](https://github.com/McPringle/apus)
-3. 🗣 Commented on [#330](https://github.com/McPringle/apus/pull/330#issuecomment-2730027053) in [McPringle/apus](https://github.com/McPringle/apus)
-4. 🗣 Commented on [#330](https://github.com/McPringle/apus/pull/330#issuecomment-2730012319) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🎉 Merged PR [#4](https://github.com/jugch/javaland-sternfahrt-2025/pull/4) in [jugch/javaland-sternfahrt-2025](https://github.com/jugch/javaland-sternfahrt-2025)
+1. ❗ Opened issue [#336](https://github.com/McPringle/apus/issues/336) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ❗ Opened issue [#335](https://github.com/McPringle/apus/issues/335) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#203](https://github.com/McPringle/apus/issues/203) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#331](https://github.com/McPringle/apus/pull/331) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#330](https://github.com/McPringle/apus/pull/330#issuecomment-2730027053) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
