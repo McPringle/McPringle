@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#81](https://github.com/McPringle/komunumo/issues/81) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#81](https://github.com/McPringle/komunumo/issues/81) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 💪 Opened PR [#463](https://github.com/hackergarten/hackergarten.github.io/pull/463) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#462](https://github.com/hackergarten/hackergarten.github.io/pull/462) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🔒 Closed issue [#72](https://github.com/McPringle/komunumo/issues/72) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#83](https://github.com/McPringle/komunumo/issues/83) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🔒 Closed issue [#73](https://github.com/McPringle/komunumo/issues/73) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#82](https://github.com/McPringle/komunumo/issues/82) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🔒 Closed issue [#81](https://github.com/McPringle/komunumo/issues/81) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#81](https://github.com/McPringle/komunumo/issues/81) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
