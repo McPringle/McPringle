@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#110](https://github.com/McPringle/komunumo/issues/110) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#109](https://github.com/McPringle/komunumo/issues/109) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❗ Opened issue [#108](https://github.com/McPringle/komunumo/issues/108) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#107](https://github.com/McPringle/komunumo/issues/107) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#94](https://github.com/McPringle/komunumo/issues/94) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#113](https://github.com/McPringle/komunumo/issues/113) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ❗ Opened issue [#112](https://github.com/McPringle/komunumo/issues/112) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#111](https://github.com/McPringle/komunumo/issues/111) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#117](https://github.com/pop-os/cosmic-greeter/issues/117#issuecomment-2888239401) in [pop-os/cosmic-greeter](https://github.com/pop-os/cosmic-greeter)
+5. ❗ Opened issue [#110](https://github.com/McPringle/komunumo/issues/110) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
