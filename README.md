@@ -1,6 +1,6 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [Apus](https://github.com/McPringle/apus), [GPX Animator](https://github.com/gpx-animator/gpx-animator), [Komunumo](https://github.com/McPringle/komunumo), and [Rallyman](https://github.com/McPringle/rallyman/)
+- 🔭 I’m currently working on [Apus](https://github.com/McPringle/apus), [GPX Animator](https://github.com/gpx-animator/gpx-animator), and [Komunumo](https://github.com/McPringle/komunumo)
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
 - 📫 You can reach me with [Matrix](https://matrix.to/#/@mcpringle:matrix.org) and follow me on [Mastodon](https://fosstodon.org/@McPringle)
 - 🥅 2025 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
