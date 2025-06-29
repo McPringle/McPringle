@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#178](https://github.com/McPringle/komunumo/issues/178) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🗣 Commented on [#176](https://github.com/McPringle/komunumo/pull/176#issuecomment-3012113960) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❌ Closed PR [#176](https://github.com/McPringle/komunumo/pull/176) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🔒 Closed issue [#158](https://github.com/McPringle/komunumo/issues/158) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🗣 Commented on [#177](https://github.com/McPringle/komunumo/pull/177#issuecomment-3009937232) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🔒 Closed issue [#178](https://github.com/McPringle/komunumo/issues/178) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ❗ Opened issue [#178](https://github.com/McPringle/komunumo/issues/178) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🗣 Commented on [#176](https://github.com/McPringle/komunumo/pull/176#issuecomment-3012113960) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. ❌ Closed PR [#176](https://github.com/McPringle/komunumo/pull/176) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🔒 Closed issue [#158](https://github.com/McPringle/komunumo/issues/158) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
