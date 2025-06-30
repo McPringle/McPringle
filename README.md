@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#178](https://github.com/McPringle/komunumo/issues/178) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#178](https://github.com/McPringle/komunumo/issues/178) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🗣 Commented on [#176](https://github.com/McPringle/komunumo/pull/176#issuecomment-3012113960) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❌ Closed PR [#176](https://github.com/McPringle/komunumo/pull/176) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#158](https://github.com/McPringle/komunumo/issues/158) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3017255133) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🗣 Commented on [#50](https://github.com/Jean28518/invoice-creator-german/issues/50#issuecomment-3016894201) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
+3. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3016867206) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3016358047) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❌ Closed PR [#180](https://github.com/McPringle/komunumo/pull/180) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
