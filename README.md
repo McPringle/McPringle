@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#381](https://github.com/McPringle/apus/pull/381) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3017255133) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🗣 Commented on [#50](https://github.com/Jean28518/invoice-creator-german/issues/50#issuecomment-3016894201) in [Jean28518/invoice-creator-german](https://github.com/Jean28518/invoice-creator-german)
-4. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3016867206) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3016358047) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 💪 Opened PR [#471](https://github.com/hackergarten/hackergarten.github.io/pull/471) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🚀 Published release [v6](https://github.com/McPringle/apus/releases/tag/v6) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🔒 Closed issue [#378](https://github.com/McPringle/apus/issues/378) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🎉 Merged PR [#381](https://github.com/McPringle/apus/pull/381) in [McPringle/apus](https://github.com/McPringle/apus)
+5. 🗣 Commented on [#180](https://github.com/McPringle/komunumo/pull/180#issuecomment-3017255133) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
