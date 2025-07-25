@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#205](https://github.com/McPringle/komunumo/issues/205) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#204](https://github.com/McPringle/komunumo/issues/204) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#195](https://github.com/McPringle/komunumo/issues/195) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🔒 Closed issue [#112](https://github.com/McPringle/komunumo/issues/112) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#199](https://github.com/McPringle/komunumo/issues/199) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#210](https://github.com/McPringle/komunumo/issues/210) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ❗ Opened issue [#209](https://github.com/McPringle/komunumo/issues/209) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#208](https://github.com/McPringle/komunumo/issues/208) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🔒 Closed issue [#206](https://github.com/McPringle/komunumo/issues/206) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#207](https://github.com/McPringle/komunumo/issues/207) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
