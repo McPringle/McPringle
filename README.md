@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#241](https://github.com/McPringle/komunumo/pull/241) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🔒 Closed issue [#239](https://github.com/McPringle/komunumo/issues/239) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#205](https://github.com/McPringle/komunumo/issues/205) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🔒 Closed issue [#204](https://github.com/McPringle/komunumo/issues/204) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#240](https://github.com/McPringle/komunumo/issues/240) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🎉 Merged PR [#421](https://github.com/McPringle/apus/pull/421) in [McPringle/apus](https://github.com/McPringle/apus)
+2. 🎉 Merged PR [#876](https://github.com/gpx-animator/gpx-animator/pull/876) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🎉 Merged PR [#5](https://github.com/McPringle/McPringle/pull/5) in [McPringle/McPringle](https://github.com/McPringle/McPringle)
+4. 🔒 Closed issue [#238](https://github.com/McPringle/komunumo/issues/238) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🎉 Merged PR [#241](https://github.com/McPringle/komunumo/pull/241) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
