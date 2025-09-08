@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#261](https://github.com/McPringle/komunumo/issues/261) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🔒 Closed issue [#251](https://github.com/McPringle/komunumo/issues/251) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🎉 Merged PR [#4](https://github.com/hack-commit-push/switzerland2025/pull/4) in [hack-commit-push/switzerland2025](https://github.com/hack-commit-push/switzerland2025)
-4. 🎉 Merged PR [#3](https://github.com/hack-commit-push/switzerland2025/pull/3) in [hack-commit-push/switzerland2025](https://github.com/hack-commit-push/switzerland2025)
-5. 🗣 Commented on [#3](https://github.com/hack-commit-push/switzerland2025/pull/3#issuecomment-3239332492) in [hack-commit-push/switzerland2025](https://github.com/hack-commit-push/switzerland2025)
+1. ❗ Opened issue [#268](https://github.com/McPringle/komunumo/issues/268) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ❗ Opened issue [#267](https://github.com/McPringle/komunumo/issues/267) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❗ Opened issue [#266](https://github.com/McPringle/komunumo/issues/266) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. ❗ Opened issue [#265](https://github.com/McPringle/komunumo/issues/265) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#264](https://github.com/McPringle/komunumo/issues/264) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
