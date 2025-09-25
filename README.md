@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#285](https://github.com/McPringle/komunumo/pull/285) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🎉 Merged PR [#283](https://github.com/McPringle/komunumo/pull/283) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🎉 Merged PR [#284](https://github.com/McPringle/komunumo/pull/284) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 💪 Opened PR [#285](https://github.com/McPringle/komunumo/pull/285) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 💪 Opened PR [#284](https://github.com/McPringle/komunumo/pull/284) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❗ Opened issue [#287](https://github.com/McPringle/komunumo/issues/287) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🔒 Closed issue [#193](https://github.com/McPringle/komunumo/issues/193) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🎉 Merged PR [#285](https://github.com/McPringle/komunumo/pull/285) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🎉 Merged PR [#283](https://github.com/McPringle/komunumo/pull/283) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🎉 Merged PR [#284](https://github.com/McPringle/komunumo/pull/284) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
