@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com/McPringle/komunumo/issues/288#issuecomment-3348008814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🎉 Merged PR [#896](https://github.com/gpx-animator/gpx-animator/pull/896) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❗ Opened issue [#10237](https://github.com/vaadin/web-components/issues/10237) in [vaadin/web-components](https://github.com/vaadin/web-components)
-4. ❗ Opened issue [#8078](https://github.com/vaadin/platform/issues/8078) in [vaadin/platform](https://github.com/vaadin/platform)
-5. ❗ Opened issue [#288](https://github.com/McPringle/komunumo/issues/288) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🗣 Commented on [#256](https://github.com/McPringle/komunumo/pull/256#issuecomment-3348579326) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🗣 Commented on [#288](https://github.com/McPringle/komunumo/issues/288#issuecomment-3348008814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🎉 Merged PR [#896](https://github.com/gpx-animator/gpx-animator/pull/896) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+4. ❗ Opened issue [#10237](https://github.com/vaadin/web-components/issues/10237) in [vaadin/web-components](https://github.com/vaadin/web-components)
+5. ❗ Opened issue [#8078](https://github.com/vaadin/platform/issues/8078) in [vaadin/platform](https://github.com/vaadin/platform)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
