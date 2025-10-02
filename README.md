@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/McPringle/komunumo/pull/256#issuecomment-3348579326) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🗣 Commented on [#288](https://github.com/McPringle/komunumo/issues/288#issuecomment-3348008814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🎉 Merged PR [#896](https://github.com/gpx-animator/gpx-animator/pull/896) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-4. ❗ Opened issue [#10237](https://github.com/vaadin/web-components/issues/10237) in [vaadin/web-components](https://github.com/vaadin/web-components)
-5. ❗ Opened issue [#8078](https://github.com/vaadin/platform/issues/8078) in [vaadin/platform](https://github.com/vaadin/platform)
+1. 🎉 Merged PR [#899](https://github.com/gpx-animator/gpx-animator/pull/899) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+2. 🗣 Commented on [#422](https://github.com/McPringle/apus/pull/422#issuecomment-3355184294) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ❌ Closed PR [#422](https://github.com/McPringle/apus/pull/422) in [McPringle/apus](https://github.com/McPringle/apus)
+4. 🗣 Commented on [#256](https://github.com/McPringle/komunumo/pull/256#issuecomment-3348579326) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🗣 Commented on [#288](https://github.com/McPringle/komunumo/issues/288#issuecomment-3348008814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
