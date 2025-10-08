@@ -1,10 +1,10 @@
 ### Hi there, I'm Marcus – aka McPringle 👋
 
-- 🔭 I’m currently working on [Apus](https://github.com/McPringle/apus), [GPX Animator](https://github.com/gpx-animator/gpx-animator), and [Komunumo](https://github.com/McPringle/komunumo)
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🔭 I’m currently working on [Komunumo](https://github.com/McPringle/komunumo)
+- 🌱 I try to learn some [Rust](https://www.rust-lang.org/)
 - 📫 You can reach me with [Matrix](https://matrix.to/#/@mcpringle:matrix.org) and follow me on [Mastodon](https://fosstodon.org/@McPringle)
-- 🥅 2025 Goal: Replacing the PHP based website of the [Java User Group Switzerland](https://www.jug.ch/) with [Komunumo](https://komunumo.org/)
-- 🚴‍♂️ Fun fact: I crossed the USA twice with my bicycle from coast to coast!
+- 🥅 2025 Goal: First stable release of [Komunumo](https://komunumo.org/)
+- 🚴‍♂️ Fun fact: I crossed the USA with my bicycle from coast to coast! Twice...
 - 😄 Pronouns: he/him
 
 
