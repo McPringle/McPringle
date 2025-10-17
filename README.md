@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
+1. 🗣 Commented on [#4294](https://github.com/flameshot-org/flameshot/issues/4294#issuecomment-3409252709) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 2.  Labeled issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
 3.  Labeled issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ❗ Opened issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
-5. 🔒 Closed issue [#311](https://github.com/McPringle/komunumo/issues/311) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4.  Labeled issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ❗ Opened issue [#464](https://github.com/McPringle/apus/issues/464) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
