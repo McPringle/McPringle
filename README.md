@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#320](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🗣 Commented on [#320](https://github.com/McPringle/komunumo/pull/320#issuecomment-3428768935) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ❌ Assigned PR [#320](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3426162700) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🗣 Commented on [#4294](https://github.com/flameshot-org/flameshot/issues/4294#issuecomment-3409252709) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+1. 💪 Opened PR [#323](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 💪 Opened PR [#322](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❌ Labeled PR [#320](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#320](https://github.com/McPringle/komunumo/pull/320#issuecomment-3428768935) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❌ Assigned PR [#320](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
