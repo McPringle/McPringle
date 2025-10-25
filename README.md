@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3439409814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3439382403) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3437957137) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3437788963) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3437723247) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1.  Assigned issue [#273](https://github.com/McPringle/komunumo/issues/273) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🗣 Commented on [#273](https://github.com/McPringle/komunumo/issues/273#issuecomment-3443403935) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🗣 Commented on [#320](https://github.com/McPringle/komunumo/pull/320#issuecomment-3441412396) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3439409814) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🗣 Commented on [#274](https://github.com/McPringle/komunumo/issues/274#issuecomment-3439382403) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
