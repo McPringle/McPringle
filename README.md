@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#232](https://github.com/McPringle/komunumo/issues/232) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 💪 Opened PR [#911](undefined) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-3. ❌ Assigned PR [#328](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 💪 Opened PR [#328](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5.  Labeled issue [#327](https://github.com/McPringle/komunumo/issues/327) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ❌ Labeled PR [#331](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🔒 Closed issue [#312](https://github.com/McPringle/komunumo/issues/312) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❌ Assigned PR [#331](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#312](https://github.com/McPringle/komunumo/issues/312#issuecomment-3457781643) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. 🗣 Commented on [#312](https://github.com/McPringle/komunumo/issues/312#issuecomment-3457704670) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
