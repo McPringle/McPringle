@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#483](undefined) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2.  Assigned issue [#333](https://github.com/McPringle/komunumo/issues/333) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3.  Labeled issue [#333](https://github.com/McPringle/komunumo/issues/333) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#333](https://github.com/McPringle/komunumo/issues/333) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#171](https://github.com/binjr/binjr/issues/171) in [binjr/binjr](https://github.com/binjr/binjr)
+1. 🗣 Commented on [#474](https://github.com/hackergarten/hackergarten.github.io/pull/474#issuecomment-3476738938) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#484](undefined) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 🔒 Closed issue [#187](https://github.com/McPringle/komunumo/issues/187) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 💪 Opened PR [#483](undefined) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5.  Assigned issue [#333](https://github.com/McPringle/komunumo/issues/333) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
