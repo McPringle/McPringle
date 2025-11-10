@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#98](https://github.com/McPringle/komunumo/issues/98) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2.  Unlabeled issue [#265](https://github.com/McPringle/komunumo/issues/265) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#327](https://github.com/McPringle/komunumo/issues/327) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❌ Assigned PR [#332](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🗣 Commented on [#474](https://github.com/hackergarten/hackergarten.github.io/pull/474#issuecomment-3476738938) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🔒 Closed issue [#269](https://github.com/McPringle/komunumo/issues/269) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2.  Assigned issue [#264](https://github.com/McPringle/komunumo/issues/264) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3.  Unlabeled issue [#264](https://github.com/McPringle/komunumo/issues/264) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4.  Assigned issue [#269](https://github.com/McPringle/komunumo/issues/269) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5.  Unlabeled issue [#269](https://github.com/McPringle/komunumo/issues/269) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
