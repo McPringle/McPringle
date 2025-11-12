@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#185](https://github.com/McPringle/komunumo/issues/185) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2.  Labeled issue [#338](https://github.com/McPringle/komunumo/issues/338) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3.  Labeled issue [#339](https://github.com/McPringle/komunumo/issues/339) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#340](https://github.com/McPringle/komunumo/issues/340) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#339](https://github.com/McPringle/komunumo/issues/339) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🗣 Commented on [#4172](https://github.com/flameshot-org/flameshot/issues/4172#issuecomment-3515890145) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+2.  Unlabeled issue [#185](https://github.com/McPringle/komunumo/issues/185) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3.  Labeled issue [#338](https://github.com/McPringle/komunumo/issues/338) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4.  Labeled issue [#339](https://github.com/McPringle/komunumo/issues/339) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#340](https://github.com/McPringle/komunumo/issues/340) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
