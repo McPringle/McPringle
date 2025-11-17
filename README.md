@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](undefined) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
-2. 🗣 Commented on [#12](https://github.com/TibixDev/winboat/issues/12#issuecomment-3531810473) in [TibixDev/winboat](https://github.com/TibixDev/winboat)
-3. 🗣 Commented on [#4172](https://github.com/flameshot-org/flameshot/issues/4172#issuecomment-3515890145) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-4.  Unlabeled issue [#185](https://github.com/McPringle/komunumo/issues/185) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5.  Labeled issue [#338](https://github.com/McPringle/komunumo/issues/338) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🔒 Closed issue [#337](https://github.com/McPringle/komunumo/issues/337) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 💪 Opened PR [#79](undefined) in [ijug-ev/JavaLand](https://github.com/ijug-ev/JavaLand)
+3. 🗣 Commented on [#12](https://github.com/TibixDev/winboat/issues/12#issuecomment-3531810473) in [TibixDev/winboat](https://github.com/TibixDev/winboat)
+4. 🗣 Commented on [#4172](https://github.com/flameshot-org/flameshot/issues/4172#issuecomment-3515890145) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+5.  Unlabeled issue [#185](https://github.com/McPringle/komunumo/issues/185) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
