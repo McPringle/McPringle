@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Unlabeled issue [#253](https://github.com/McPringle/komunumo/issues/253) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2.  Assigned issue [#253](https://github.com/McPringle/komunumo/issues/253) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3.  Unlabeled issue [#338](https://github.com/McPringle/komunumo/issues/338) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4.  Unlabeled issue [#340](https://github.com/McPringle/komunumo/issues/340) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5.  Unlabeled issue [#263](https://github.com/McPringle/komunumo/issues/263) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 💪 Opened PR [#487](undefined) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2.  Labeled issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3.  Labeled issue [#270](https://github.com/McPringle/komunumo/issues/270) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4.  Labeled issue [#358](https://github.com/McPringle/komunumo/issues/358) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#358](https://github.com/McPringle/komunumo/issues/358) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
