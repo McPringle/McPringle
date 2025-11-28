@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#487](undefined) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2.  Labeled issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3.  Labeled issue [#270](https://github.com/McPringle/komunumo/issues/270) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4.  Labeled issue [#358](https://github.com/McPringle/komunumo/issues/358) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#358](https://github.com/McPringle/komunumo/issues/358) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1.  Assigned issue [#358](https://github.com/McPringle/komunumo/issues/358) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2.  Assigned issue [#338](https://github.com/McPringle/komunumo/issues/338) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🗣 Commented on [#338](https://github.com/McPringle/komunumo/issues/338#issuecomment-3585258549) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4.  Labeled issue [#359](https://github.com/McPringle/komunumo/issues/359) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#359](https://github.com/McPringle/komunumo/issues/359) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
