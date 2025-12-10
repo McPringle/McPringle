@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2.  Unlabeled issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3.  Unlabeled issue [#265](https://github.com/McPringle/komunumo/issues/265) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4.  Assigned issue [#265](https://github.com/McPringle/komunumo/issues/265) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. 🔒 Closed issue [#370](https://github.com/McPringle/komunumo/issues/370) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1.  Assigned issue [#263](https://github.com/McPringle/komunumo/issues/263) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2.  Unlabeled issue [#263](https://github.com/McPringle/komunumo/issues/263) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. 🔒 Closed issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🔒 Closed issue [#265](https://github.com/McPringle/komunumo/issues/265) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5.  Assigned issue [#271](https://github.com/McPringle/komunumo/issues/271) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
