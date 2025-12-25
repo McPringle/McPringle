@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Assigned PR [#387](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❌ Unlabeled PR [#350](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. 🔒 Closed issue [#263](https://github.com/McPringle/komunumo/issues/263) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ❗ Opened issue [#375](https://github.com/McPringle/komunumo/issues/375) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#374](https://github.com/McPringle/komunumo/issues/374) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1.  Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+2.  Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+3. ❗ Opened issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+4. ❌ Assigned PR [#387](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❌ Unlabeled PR [#350](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
