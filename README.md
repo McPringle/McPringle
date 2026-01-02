@@ -43,10 +43,10 @@
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#7](https://github.com/openfun/peertube-runner-dockerfile/issues/7) in [openfun/peertube-runner-dockerfile](https://github.com/openfun/peertube-runner-dockerfile)
-2.  Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
-3.  Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+2. ℹ️ Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
+3. ℹ️ Labeled issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
 4. ❗ Opened issue [#18357](https://github.com/spring-projects/spring-security/issues/18357) in [spring-projects/spring-security](https://github.com/spring-projects/spring-security)
-5. ❌ Assigned PR [#387](undefined) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ℹ️ Assigned PR [#387](https://github.com/McPringle/komunumo/pull/387) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
