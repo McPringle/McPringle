@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#393](https://github.com/McPringle/komunumo/issues/393) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. ❗ Opened issue [#393](https://github.com/McPringle/komunumo/issues/393) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ℹ️ Labeled issue [#391](https://github.com/McPringle/komunumo/issues/391) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ℹ️ Labeled issue [#392](https://github.com/McPringle/komunumo/issues/392) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❗ Opened issue [#392](https://github.com/McPringle/komunumo/issues/392) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ℹ️ Assigned PR [#514](https://github.com/McPringle/apus/pull/514) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ℹ️ Assigned PR [#512](https://github.com/McPringle/apus/pull/512) in [McPringle/apus](https://github.com/McPringle/apus)
+3. ℹ️ Assigned PR [#509](https://github.com/McPringle/apus/pull/509) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ℹ️ Labeled issue [#393](https://github.com/McPringle/komunumo/issues/393) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ❗ Opened issue [#393](https://github.com/McPringle/komunumo/issues/393) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
