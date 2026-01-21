@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#4](https://github.com/jugch/javaland-sternfahrt-2026/pull/4) in [jugch/javaland-sternfahrt-2026](https://github.com/jugch/javaland-sternfahrt-2026)
-2. ℹ️ Assigned PR [#514](https://github.com/McPringle/apus/pull/514) in [McPringle/apus](https://github.com/McPringle/apus)
-3. ℹ️ Assigned PR [#512](https://github.com/McPringle/apus/pull/512) in [McPringle/apus](https://github.com/McPringle/apus)
-4. ℹ️ Assigned PR [#509](https://github.com/McPringle/apus/pull/509) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ℹ️ Labeled issue [#393](https://github.com/McPringle/komunumo/issues/393) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. 🗣 Commented on [#4172](https://github.com/flameshot-org/flameshot/issues/4172#issuecomment-3771795412) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+2. ℹ️ Assigned PR [#4](https://github.com/jugch/javaland-sternfahrt-2026/pull/4) in [jugch/javaland-sternfahrt-2026](https://github.com/jugch/javaland-sternfahrt-2026)
+3. ℹ️ Assigned PR [#514](https://github.com/McPringle/apus/pull/514) in [McPringle/apus](https://github.com/McPringle/apus)
+4. ℹ️ Assigned PR [#512](https://github.com/McPringle/apus/pull/512) in [McPringle/apus](https://github.com/McPringle/apus)
+5. ℹ️ Assigned PR [#509](https://github.com/McPringle/apus/pull/509) in [McPringle/apus](https://github.com/McPringle/apus)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
