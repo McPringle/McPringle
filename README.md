@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1680](https://github.com/henrygd/beszel/issues/1680) in [henrygd/beszel](https://github.com/henrygd/beszel)
-2. ❗ Opened issue [#1680](https://github.com/henrygd/beszel/issues/1680) in [henrygd/beszel](https://github.com/henrygd/beszel)
-3. ℹ️ Assigned issue [#374](https://github.com/McPringle/komunumo/issues/374) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🗣 Commented on [#4172](https://github.com/flameshot-org/flameshot/issues/4172#issuecomment-3771795412) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-5. ℹ️ Assigned PR [#4](https://github.com/jugch/javaland-sternfahrt-2026/pull/4) in [jugch/javaland-sternfahrt-2026](https://github.com/jugch/javaland-sternfahrt-2026)
+1. ℹ️ Assigned issue [#340](https://github.com/McPringle/komunumo/issues/340) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. ℹ️ Assigned PR [#399](https://github.com/McPringle/komunumo/pull/399) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ❌ Closed PR [#400](https://github.com/McPringle/komunumo/pull/400) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#400](https://github.com/McPringle/komunumo/pull/400#issuecomment-3800206822) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ℹ️ Assigned PR [#400](https://github.com/McPringle/komunumo/pull/400) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
