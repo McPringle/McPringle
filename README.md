@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1680](https://github.com/henrygd/beszel/issues/1680#issuecomment-3813227286) in [henrygd/beszel](https://github.com/henrygd/beszel)
-2. ℹ️ Assigned PR [#398](https://github.com/McPringle/komunumo/pull/398) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ℹ️ Assigned issue [#340](https://github.com/McPringle/komunumo/issues/340) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ℹ️ Assigned PR [#399](https://github.com/McPringle/komunumo/pull/399) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-5. ❌ Closed PR [#400](https://github.com/McPringle/komunumo/pull/400) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ℹ️ Assigned issue [#8](https://github.com/ijug-ev/dukeops/issues/8) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+2. ❗ Opened issue [#8](https://github.com/ijug-ev/dukeops/issues/8) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+3. ❗ Opened issue [#7](https://github.com/ijug-ev/dukeops/issues/7) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+4. ℹ️ Assigned issue [#7](https://github.com/ijug-ev/dukeops/issues/7) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+5. ❗ Opened issue [#6](https://github.com/ijug-ev/dukeops/issues/6) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
