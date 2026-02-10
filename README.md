@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/ijug-ev/dukeops/issues/8) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-2. 🔒 Closed issue [#7](https://github.com/ijug-ev/dukeops/issues/7) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-3. 🔒 Closed issue [#6](https://github.com/ijug-ev/dukeops/issues/6) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-4. 🔒 Closed issue [#5](https://github.com/ijug-ev/dukeops/issues/5) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-5. 🔒 Closed issue [#4](https://github.com/ijug-ev/dukeops/issues/4) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+1. ❗ Opened issue [#9](https://github.com/ijug-ev/dukeops/issues/9) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+2. 🔒 Closed issue [#8](https://github.com/ijug-ev/dukeops/issues/8) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+3. 🔒 Closed issue [#7](https://github.com/ijug-ev/dukeops/issues/7) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+4. 🔒 Closed issue [#6](https://github.com/ijug-ev/dukeops/issues/6) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+5. 🔒 Closed issue [#5](https://github.com/ijug-ev/dukeops/issues/5) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
