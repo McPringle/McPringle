@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unlabeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-2. ℹ️ Assigned issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-3. ℹ️ Labeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-4. ❗ Opened issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-5. 🗣 Commented on [#11](https://github.com/ijug-ev/infra.ijug.eu/issues/11#issuecomment-3877368918) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+1. ℹ️ Assigned issue [#9](https://github.com/ijug-ev/dukeops/issues/9) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+2. ℹ️ Unlabeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+3. ℹ️ Assigned issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+4. ℹ️ Labeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+5. ❗ Opened issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
