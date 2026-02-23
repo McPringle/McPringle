@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2791](https://github.com/pwr-Solaar/Solaar/issues/2791#issuecomment-3926289906) in [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar)
-2. ℹ️ Assigned issue [#9](https://github.com/ijug-ev/dukeops/issues/9) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-3. ℹ️ Unlabeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-4. ℹ️ Assigned issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-5. ℹ️ Labeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+1. 🗣 Commented on [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12#issuecomment-3940899851) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+2. 🔒 Closed issue [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+3. ℹ️ Labeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+4. ℹ️ Labeled issue [#11](https://github.com/ijug-ev/dukeops/issues/11) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+5. ℹ️ Labeled issue [#9](https://github.com/ijug-ev/dukeops/issues/9) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
