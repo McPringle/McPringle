@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ijug-ev/dukeops/issues/10#issuecomment-3943894058) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-2. 🗣 Commented on [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12#issuecomment-3940899851) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-3. 🔒 Closed issue [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
-4. ℹ️ Labeled issue [#10](https://github.com/ijug-ev/dukeops/issues/10) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-5. ℹ️ Labeled issue [#11](https://github.com/ijug-ev/dukeops/issues/11) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+1. ℹ️ Assigned PR [#407](https://github.com/McPringle/komunumo/pull/407) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+2. 🗣 Commented on [#411](https://github.com/McPringle/komunumo/pull/411#issuecomment-3966600459) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+3. ℹ️ Assigned PR [#411](https://github.com/McPringle/komunumo/pull/411) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#10](https://github.com/ijug-ev/dukeops/issues/10#issuecomment-3943894058) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+5. 🗣 Commented on [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12#issuecomment-3940899851) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
