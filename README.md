@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#407](https://github.com/McPringle/komunumo/pull/407) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-2. 🗣 Commented on [#411](https://github.com/McPringle/komunumo/pull/411#issuecomment-3966600459) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-3. ℹ️ Assigned PR [#411](https://github.com/McPringle/komunumo/pull/411) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. 🗣 Commented on [#10](https://github.com/ijug-ev/dukeops/issues/10#issuecomment-3943894058) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
-5. 🗣 Commented on [#12](https://github.com/ijug-ev/infra.ijug.eu/issues/12#issuecomment-3940899851) in [ijug-ev/infra.ijug.eu](https://github.com/ijug-ev/infra.ijug.eu)
+1. 🎉 Merged PR [#495](https://github.com/hackergarten/hackergarten.github.io/pull/495) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#495](https://github.com/hackergarten/hackergarten.github.io/pull/495) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. ℹ️ Assigned PR [#407](https://github.com/McPringle/komunumo/pull/407) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+4. 🗣 Commented on [#411](https://github.com/McPringle/komunumo/pull/411#issuecomment-3966600459) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+5. ℹ️ Assigned PR [#411](https://github.com/McPringle/komunumo/pull/411) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
