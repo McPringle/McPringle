@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#496](https://github.com/hackergarten/hackergarten.github.io/pull/496) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#496](https://github.com/hackergarten/hackergarten.github.io/pull/496) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🎉 Merged PR [#495](https://github.com/hackergarten/hackergarten.github.io/pull/495) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#495](https://github.com/hackergarten/hackergarten.github.io/pull/495) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ℹ️ Assigned PR [#407](https://github.com/McPringle/komunumo/pull/407) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
+1. ℹ️ Assigned PR [#547](https://github.com/McPringle/apus/pull/547) in [McPringle/apus](https://github.com/McPringle/apus)
+2. ℹ️ Labeled PR [#956](https://github.com/gpx-animator/gpx-animator/pull/956) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+3. 🎉 Merged PR [#496](https://github.com/hackergarten/hackergarten.github.io/pull/496) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 💪 Opened PR [#496](https://github.com/hackergarten/hackergarten.github.io/pull/496) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 🎉 Merged PR [#495](https://github.com/hackergarten/hackergarten.github.io/pull/495) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
