@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-2. ❗ Opened issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-3. ℹ️ Assigned PR [#431](https://github.com/McPringle/komunumo/pull/431) in [McPringle/komunumo](https://github.com/McPringle/komunumo)
-4. ℹ️ Assigned PR [#547](https://github.com/McPringle/apus/pull/547) in [McPringle/apus](https://github.com/McPringle/apus)
-5. ℹ️ Labeled PR [#956](https://github.com/gpx-animator/gpx-animator/pull/956) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
+1. 🗣 Commented on [#441](https://github.com/komunumo/komunumo/pull/441#issuecomment-4161943843) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+2. 🗣 Commented on [#440](https://github.com/komunumo/komunumo/pull/440#issuecomment-4161941980) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+3. ℹ️ Labeled issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
+4. ❗ Opened issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
+5. ℹ️ Assigned PR [#431](https://github.com/komunumo/komunumo/pull/431) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
