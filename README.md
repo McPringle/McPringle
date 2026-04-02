@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#441](https://github.com/komunumo/komunumo/pull/441#issuecomment-4161943843) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-2. 🗣 Commented on [#440](https://github.com/komunumo/komunumo/pull/440#issuecomment-4161941980) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-3. ℹ️ Labeled issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-4. ❗ Opened issue [#70](https://github.com/fjrevoredo/mini-diarium/issues/70) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-5. ℹ️ Assigned PR [#431](https://github.com/komunumo/komunumo/pull/431) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+1. 🔒 Closed issue [#242](https://github.com/komunumo/komunumo/issues/242) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+2. ℹ️ Assigned issue [#443](https://github.com/komunumo/komunumo/issues/443) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+3. ❗ Opened issue [#443](https://github.com/komunumo/komunumo/issues/443) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+4. 🗣 Commented on [#441](https://github.com/komunumo/komunumo/pull/441#issuecomment-4161943843) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+5. 🗣 Commented on [#440](https://github.com/komunumo/komunumo/pull/440#issuecomment-4161941980) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
