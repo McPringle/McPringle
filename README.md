@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#374](https://github.com/komunumo/komunumo/issues/374) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-2. 🗣 Commented on [#70](https://github.com/fjrevoredo/mini-diarium/issues/70#issuecomment-4187712041) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-3. 🗣 Commented on [#70](https://github.com/fjrevoredo/mini-diarium/issues/70#issuecomment-4187096744) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
-4. 🎉 Merged PR [#504](https://github.com/hackergarten/hackergarten.github.io/pull/504) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🎉 Merged PR [#503](https://github.com/hackergarten/hackergarten.github.io/pull/503) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#407](https://github.com/komunumo/komunumo/pull/407#issuecomment-4199030024) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+2. 🎉 Merged PR [#407](https://github.com/komunumo/komunumo/pull/407) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+3. 🔒 Closed issue [#340](https://github.com/komunumo/komunumo/issues/340) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+4. ℹ️ Unassigned issue [#374](https://github.com/komunumo/komunumo/issues/374) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+5. 🗣 Commented on [#70](https://github.com/fjrevoredo/mini-diarium/issues/70#issuecomment-4187712041) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
