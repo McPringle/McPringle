@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#407](https://github.com/komunumo/komunumo/pull/407#issuecomment-4199030024) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-2. 🎉 Merged PR [#407](https://github.com/komunumo/komunumo/pull/407) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-3. 🔒 Closed issue [#340](https://github.com/komunumo/komunumo/issues/340) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-4. ℹ️ Unassigned issue [#374](https://github.com/komunumo/komunumo/issues/374) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-5. 🗣 Commented on [#70](https://github.com/fjrevoredo/mini-diarium/issues/70#issuecomment-4187712041) in [fjrevoredo/mini-diarium](https://github.com/fjrevoredo/mini-diarium)
+1. ℹ️ Assigned issue [#447](https://github.com/komunumo/komunumo/issues/447) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+2. ❗ Opened issue [#447](https://github.com/komunumo/komunumo/issues/447) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+3. ℹ️ Assigned issue [#446](https://github.com/komunumo/komunumo/issues/446) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+4. ❗ Opened issue [#446](https://github.com/komunumo/komunumo/issues/446) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+5. ℹ️ Labeled issue [#277](https://github.com/komunumo/komunumo/issues/277) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
