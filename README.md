@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/javahippie/fitpub/pull/5#issuecomment-4336511492) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-2. ❗ Opened issue [#28](https://github.com/javahippie/fitpub/issues/28) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-3. 💪 Opened PR [#26](https://github.com/javahippie/fitpub/pull/26) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-4. 💪 Opened PR [#27](https://github.com/javahippie/fitpub/pull/27) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-5. 💪 Opened PR [#25](https://github.com/javahippie/fitpub/pull/25) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+1. ℹ️ Assigned issue [#444](https://github.com/komunumo/komunumo/issues/444) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+2. 🗣 Commented on [#25](https://github.com/javahippie/fitpub/pull/25#issuecomment-4342585916) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+3. 🗣 Commented on [#29](https://github.com/javahippie/fitpub/pull/29#issuecomment-4342092308) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+4. 🗣 Commented on [#25](https://github.com/javahippie/fitpub/pull/25#issuecomment-4342015632) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+5. 💪 Opened PR [#29](https://github.com/javahippie/fitpub/pull/29) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
