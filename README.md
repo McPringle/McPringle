@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#459](https://github.com/komunumo/komunumo/pull/459) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-2. ℹ️ Assigned PR [#460](https://github.com/komunumo/komunumo/pull/460) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-3. 🗣 Commented on [#460](https://github.com/komunumo/komunumo/pull/460#issuecomment-4352681440) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-4. ❗ Opened issue [#36](https://github.com/javahippie/fitpub/issues/36) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-5. 💪 Opened PR [#35](https://github.com/javahippie/fitpub/pull/35) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+1. 💪 Opened PR [#38](https://github.com/javahippie/fitpub/pull/38) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+2. 💪 Opened PR [#37](https://github.com/javahippie/fitpub/pull/37) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+3. ℹ️ Assigned PR [#459](https://github.com/komunumo/komunumo/pull/459) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+4. ℹ️ Assigned PR [#460](https://github.com/komunumo/komunumo/pull/460) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
+5. 🗣 Commented on [#460](https://github.com/komunumo/komunumo/pull/460#issuecomment-4352681440) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
