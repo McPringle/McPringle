@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43](https://github.com/javahippie/fitpub/issues/43) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-2. 💪 Opened PR [#42](https://github.com/javahippie/fitpub/pull/42) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-3. 💪 Opened PR [#41](https://github.com/javahippie/fitpub/pull/41) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-4. 💪 Opened PR [#40](https://github.com/javahippie/fitpub/pull/40) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
-5. 💪 Opened PR [#39](https://github.com/javahippie/fitpub/pull/39) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+1. 🎉 Merged PR [#509](https://github.com/hackergarten/hackergarten.github.io/pull/509) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 💪 Opened PR [#509](https://github.com/hackergarten/hackergarten.github.io/pull/509) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 🗣 Commented on [#28](https://github.com/javahippie/fitpub/issues/28#issuecomment-4366036432) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+4. 💪 Opened PR [#45](https://github.com/javahippie/fitpub/pull/45) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
+5. ❗ Opened issue [#44](https://github.com/javahippie/fitpub/issues/44) in [javahippie/fitpub](https://github.com/javahippie/fitpub)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
