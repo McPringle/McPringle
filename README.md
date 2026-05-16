@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#41](https://github.com/fitpub-social/fitpub/pull/41) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
-2. ❌ Closed PR [#25](https://github.com/fitpub-social/fitpub/pull/25) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
-3. ❌ Closed PR [#39](https://github.com/fitpub-social/fitpub/pull/39) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
-4. 🗣 Commented on [#463](https://github.com/komunumo/komunumo/pull/463#issuecomment-4398435008) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
-5. ❗ Opened issue [#49](https://github.com/fitpub-social/fitpub/issues/49) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+1. 🗣 Commented on [#1](https://github.com/mobilizon-tools/icalendar/pull/1#issuecomment-4461147254) in [mobilizon-tools/icalendar](https://github.com/mobilizon-tools/icalendar)
+2. ❌ Closed PR [#41](https://github.com/fitpub-social/fitpub/pull/41) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+3. ❌ Closed PR [#25](https://github.com/fitpub-social/fitpub/pull/25) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+4. ❌ Closed PR [#39](https://github.com/fitpub-social/fitpub/pull/39) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+5. 🗣 Commented on [#463](https://github.com/komunumo/komunumo/pull/463#issuecomment-4398435008) in [komunumo/komunumo](https://github.com/komunumo/komunumo)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
