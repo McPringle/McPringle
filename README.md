@@ -42,7 +42,7 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/hack-commit-push/winterthur2026/pull/2) in [hack-commit-push/winterthur2026](https://github.com/hack-commit-push/winterthur2026)
+1. 💪 Opened PR [#517](https://github.com/hackergarten/hackergarten.github.io/pull/517) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 2. 🗣 Commented on [#1](https://github.com/mobilizon-tools/icalendar/pull/1#issuecomment-4461147254) in [mobilizon-tools/icalendar](https://github.com/mobilizon-tools/icalendar)
 3. ❌ Closed PR [#41](https://github.com/fitpub-social/fitpub/pull/41) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
 4. ❌ Closed PR [#25](https://github.com/fitpub-social/fitpub/pull/25) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
