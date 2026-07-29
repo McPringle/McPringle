@@ -42,10 +42,10 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#517](https://github.com/hackergarten/hackergarten.github.io/pull/517) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#517](https://github.com/hackergarten/hackergarten.github.io/pull/517) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. ❌ Closed PR [#41](https://github.com/fitpub-social/fitpub/pull/41) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
-4. ❌ Closed PR [#25](https://github.com/fitpub-social/fitpub/pull/25) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+1. 🎉 Merged PR [#9](https://github.com/McPringle/hackergarten.github.io/pull/9) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+2. 💪 Opened PR [#9](https://github.com/McPringle/hackergarten.github.io/pull/9) in [McPringle/hackergarten.github.io](https://github.com/McPringle/hackergarten.github.io)
+3. 🎉 Merged PR [#517](https://github.com/hackergarten/hackergarten.github.io/pull/517) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 💪 Opened PR [#517](https://github.com/hackergarten/hackergarten.github.io/pull/517) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 5. ❌ Closed PR [#39](https://github.com/fitpub-social/fitpub/pull/39) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
 <!--END_SECTION:activity-->
 
