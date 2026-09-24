@@ -42,9 +42,9 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🗣 Commented on [#9](https://github.com/ijug-ev/dukeops/issues/9#issuecomment-5373003392) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
+1. 🗣 Commented on [#61](https://github.com/ijug-ev/registration/issues/61#issuecomment-5809026924) in [ijug-ev/registration](https://github.com/ijug-ev/registration)
+2. 🎉 Merged PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 💪 Opened PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 4. 🗣 Commented on [#9](https://github.com/ijug-ev/dukeops/issues/9#issuecomment-5372990834) in [ijug-ev/dukeops](https://github.com/ijug-ev/dukeops)
 5. ❌ Closed PR [#39](https://github.com/fitpub-social/fitpub/pull/39) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
 <!--END_SECTION:activity-->
