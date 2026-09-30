@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8](https://github.com/McPringle/apus/releases/tag/v8) in [McPringle/apus](https://github.com/McPringle/apus)
-2. 🗣 Commented on [#61](https://github.com/ijug-ev/registration/issues/61#issuecomment-5809026924) in [ijug-ev/registration](https://github.com/ijug-ev/registration)
-3. 🎉 Merged PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. ❌ Closed PR [#39](https://github.com/fitpub-social/fitpub/pull/39) in [fitpub-social/fitpub](https://github.com/fitpub-social/fitpub)
+1. 💪 Opened PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+2. 🚀 Published release [v8](https://github.com/McPringle/apus/releases/tag/v8) in [McPringle/apus](https://github.com/McPringle/apus)
+3. 🗣 Commented on [#61](https://github.com/ijug-ev/registration/issues/61#issuecomment-5809026924) in [ijug-ev/registration](https://github.com/ijug-ev/registration)
+4. 🎉 Merged PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 💪 Opened PR [#520](https://github.com/hackergarten/hackergarten.github.io/pull/520) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
