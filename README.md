@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-2. 💪 Opened PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 🎉 Merged PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 💪 Opened PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 🚀 Published release [v8](https://github.com/McPringle/apus/releases/tag/v8) in [McPringle/apus](https://github.com/McPringle/apus)
+1. ❗ Opened issue [#58](https://github.com/kordamp/gm/issues/58) in [kordamp/gm](https://github.com/kordamp/gm)
+2. 🎉 Merged PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+3. 💪 Opened PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 🎉 Merged PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 💪 Opened PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
