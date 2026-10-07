@@ -42,11 +42,11 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58](https://github.com/kordamp/gm/issues/58) in [kordamp/gm](https://github.com/kordamp/gm)
-2. 🎉 Merged PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-3. 💪 Opened PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-4. 🎉 Merged PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
-5. 💪 Opened PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+1. 🗣 Commented on [#29](https://github.com/andrey4623/intellij-rainbow-csv/issues/29#issuecomment-6032898802) in [andrey4623/intellij-rainbow-csv](https://github.com/andrey4623/intellij-rainbow-csv)
+2. ❗ Opened issue [#58](https://github.com/kordamp/gm/issues/58) in [kordamp/gm](https://github.com/kordamp/gm)
+3. 🎉 Merged PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+4. 💪 Opened PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
+5. 🎉 Merged PR [#523](https://github.com/hackergarten/hackergarten.github.io/pull/523) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 <!--END_SECTION:activity-->
 
 [github]: https://github.com/McPringle/
