@@ -42,8 +42,8 @@
 ### ⚡ GitHub Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/gpx-animator/gpx-animator/issues/225#issuecomment-6490523653) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
-2. 🗣 Commented on [#29](https://github.com/andrey4623/intellij-rainbow-csv/issues/29#issuecomment-6032898802) in [andrey4623/intellij-rainbow-csv](https://github.com/andrey4623/intellij-rainbow-csv)
+1. 🗣 Commented on [#953](https://github.com/cinnyapp/cinny/issues/953#issuecomment-6860644402) in [cinnyapp/cinny](https://github.com/cinnyapp/cinny)
+2. 🗣 Commented on [#225](https://github.com/gpx-animator/gpx-animator/issues/225#issuecomment-6490523653) in [gpx-animator/gpx-animator](https://github.com/gpx-animator/gpx-animator)
 3. ❗ Opened issue [#58](https://github.com/kordamp/gm/issues/58) in [kordamp/gm](https://github.com/kordamp/gm)
 4. 🎉 Merged PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
 5. 💪 Opened PR [#524](https://github.com/hackergarten/hackergarten.github.io/pull/524) in [hackergarten/hackergarten.github.io](https://github.com/hackergarten/hackergarten.github.io)
